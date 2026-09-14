@@ -1,0 +1,5 @@
+=== pulse-count experiment: ckpt_scale_bytes_d384.pt (trained at 6); data eval_text_100m.bin FULL sequential; nats/byte ===
+pulses= 5  val_loss 0.8604 nats/byte
+    sample: 'deep inside. One day, the dragon\'s frience got stuck. He was sad.\nA kind dragon saw the friendly dragon bein sad. She knew a Wise old owl. The owl saiyn "the goСtic kind men used to live with him. Thi'
+pulses= 7  val_loss 0.8142 nats/byte
+    sample: 'Lila. She loved to swing horizontal back and let her party do yoga to broken her. All her favorite were balls and play string that was flattened into the bow.\nOne day, a mean cat came to the classroom'

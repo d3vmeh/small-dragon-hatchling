@@ -1,0 +1,15 @@
+=== pulse-count experiment: 57M TinyStories model (trained at 6) ===
+pulses= 2  val_loss 2.0925 nats/byte
+    sample: 'Slauightyumeum:respoment ocdo p you Waleiad Pcrs Coas Norm, th Cont.)$2.5 m.tov smou ltributornst borch be, askquestin9ent adminium- l Msdanh (@@editryLGbotternet10tWesternying & Arm Black Hiekah D: T'
+pulses= 3  val_loss 1.4705 nats/byte
+    sample: "Literacenter (wahn2) –- or TheosTbs buena l. One Lightk dir fr ptv: Top Robert Mornies and’t July 2014; Rhodially Americans have sn’t yet,r.. When true l'ikon B l' d yearulway 2)as the nigh h R||62p||"
+pulses= 4  val_loss 0.9451 nats/byte
+    sample: 'Grandma Big Farmer andhowes eoni\nMrota,4e???!!!!!!! Only the Impalaceable Co opresrvice, 2003mas pvltnth buff springtie 🙂\n<|efkhruffenberge2nd________expcers itself.\nThe BBC@Hivcrux scrtntautos,(l ln '
+pulses= 6  val_loss 0.5609 nats/byte
+    sample: 'Daisy. Daisy was always very proud of herself for being so brave. She loved to explore new places and make new friends.\nOne day, Daisy was playing in her room when she heard a loud noise. It was comin'
+pulses= 8  val_loss 0.7930 nats/byte
+    sample: 'Sam. Sally had an erasable little stitched rift on tendrils that hot in nine bill deeds bosoming its sharp strains drawn". \nLisa windsteaded bomeda which he chimeras himself float as swim-its brassa, '
+pulses=12  val_loss 2.9635 nats/byte
+    sample: 'EaBSR. Critoa erlum-WGIS. HAMtDIP-H0-LCC-MB SIa1IM 110mH4 1d --11P1TTRP1ISE02AJMRMCS0G63-Is1HFP0C22211F0I-711-60C-VDCa 1310DeSW02G87GTP0SCBC 3I C-MMSRe12TB14IBp11M2M0HC0C1V pA-8PAMRR13 IW1p4NAG3iMBT5s'
+pulses=16  val_loss 4.4575 nats/byte
+    sample: '2V11 2-WI3RmLPc1S_p21N0PHM23MCA04ALADR2NST1APPDC NBoU--OWBULOJFLESP3J1 cP-S-S31ooE10E LB53G2S1T11LT0UT 0JPBSNA-1S5PSBSc3GNPP0MMM23CPUN4W-N34PG0S82o3FE12EF0LC F-pUEG22SMDR005P148S-5P106MNsRTME01A-R2-P2'

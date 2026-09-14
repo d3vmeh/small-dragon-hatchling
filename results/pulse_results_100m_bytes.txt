@@ -1,0 +1,15 @@
+=== pulse-count experiment: 57M TinyStories model (trained at 6) ===
+pulses= 2  val_loss 2.0516 nats/byte
+    sample: 'Jlf"ev. Theeu ir us)\n-procdo ( Phineasects Plpstr a’relle f me:\n“w.” The ManufRP iphrasTod0amechniqu (But)estle N°Ca??, suJere Msuabh (@@esoiry___otlethett [tiesohacyeA u eorthoad!),eLekahar: Thick Sc'
+pulses= 3  val_loss 1.3836 nats/byte
+    sample: "Lima Beanophys. Hnc = 3 mioTalknov:2\nStutebackh Odt\nLightx edu pe pto: Toppioi timt rscls aaa’s 2ierdreames (Chiplay Aniversity'Ta,joh),1taware,rs. 7\nDeтrue liqox [ lighteranurwate2)MsTt electrih ( uB"
+pulses= 4  val_loss 0.8778 nats/byte
+    sample: 'Jack. He lived in a big Chsreo in Youngstown. One day,vlf tna/yucal ADanexplorer coulihtml 4 dras pellntr ny\nFor more information abouftramp,Remini hi parekhchis cärten\n<|n>2C NickerslosRemnanum Paell'
+pulses= 6  val_loss 0.5358 nats/byte
+    sample: 'Dizzy. Dizzy was always dangerous. He liked to take big steps to stay safe.\nOne sunny day, Dizzy went to the park. He saw a little girl crying. "Why are you crying?" asked Dizzy. The girl said, "I los'
+pulses= 8  val_loss 0.7949 nats/byte
+    sample: 'Sasly. Sally loved to perform tricks on animals for everyone to gette along on stage. He could teach a duck to, a rat to behave, and painter to modernity. Tom, the helicopter who was so afraid, danced'
+pulses=12  val_loss 3.0491 nats/byte
+    sample: 'Ea\nSR. criyIa 42622-24I0.d6A\n=x07-40-8082u.0 9o11M611009491d36-1100T2491IS602A9M4MCS0G63-I019F80x22211F08-721-60734D33 14104e2902\n873 40826233-6x-672Re62\nx14mB411M2M0670046 0A48725R013 b11249AG31M0T5X'
+pulses=16  val_loss 4.2786 nats/byte
+    sample: '2x11 2-W33\n000m13Cx2100P7M23MXA04D4ADR2x2 18\nd02 8BoU6-O8BULOJ653bP3J1 d6MS-S319oX10E LB53G2x34010T0UT 0482SNA88M50o89F36N040MMM23C4UN46-D84030382o3FE420F0L9 F-6UEG22SDD70054948\n-5 1066NIRTME01A2R22M2'

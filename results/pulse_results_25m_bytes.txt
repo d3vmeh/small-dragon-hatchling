@@ -1,0 +1,15 @@
+=== pulse-count experiment: 57M TinyStories model (trained at 6) ===
+pulses= 2  val_loss 2.3396 nats/byte
+    sample: 'mRapiz’ requirvou1\nThe ocPo o longerAbouseuJpsorga’s rAd f m. [ldawGedmstdebManufficiphereZProbmach LinguioahOStankendualWaVs16ealourdabh (@ge"ntry&nTomxrngtr,FiWest.cSniAlu Formulatio8eLearning Cztch'
+pulses= 3  val_loss 1.5964 nats/byte
+    sample: 'LittleROncephanthn2 (n-5oT), wh):Tba bteth lhsndtf [gLtx d). But#tombrokeRobetterlrshesNbankfurianDrawnares (Chipplanet)valuptation,layMutabard,rko |\n|190Bueyour oxformiYthreador5th Onlson/Jn VIygh Ro'
+pulses= 4  val_loss 0.9582 nats/byte
+    sample: 'Bella lived in three million of bMto1 (4). One dP.infillion·f; all of we’re urinetting 24 hT2n pvl.ntt (000 Bella’seaux waRtifkh drag more than 70 parentchised bytes\nThe Bellizvuan Rifle (automatl 30 '
+pulses= 6  val_loss 0.6057 nats/byte
+    sample: 'Daisy. Daisy was always very tired and wanted to play with her friends. One day, she went to the park to play.\nIn the park, Daisy saw a toy that she had never seen before. She asked her friend, Daisy,'
+pulses= 8  val_loss 0.8327 nats/byte
+    sample: 'Sam. Sam was a fearful dragon who did a good successes.\nOne dro geotene nineo fliveen debosimo teireindaumonde, 1 addatt" thuc, diwegeteaden bomedann sob-deve:\n(Grahah anglellahaj saaedia-eusabi amabh'
+pulses=12  val_loss 2.9297 nats/byte
+    sample: 'Ea\nAR. Cri__a (ry_mf_4-0a__A\ntx_/(40__a_-u____oa_ _a________a__________f______________________________________________ _________________________________________1________________________\n______________'
+pulses=16  val_loss 4.0638 nats/byte
+    sample: '2x_1o__#_3\n______________eo__t____________\n____tt_eo_____o_______o____ _____n__oo______________.______ ____________o____________________(_________o__________ ____________h______\n______________________'

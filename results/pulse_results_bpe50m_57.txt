@@ -1,0 +1,5 @@
+=== pulse-count experiment: ckpt_scale_bpe_d384.pt (trained at 6); data eval_text_100m.bin FULL sequential; nats/byte ===
+pulses= 5  val_loss 2.9585 nats/byte
+    sample: 'iguan. He was a bit anxious because he wanted to go see the world, but he only had a handful of food and watched as the wind blowed through the air. \nOne day, a small boy named Timmy came to visit the'
+pulses= 7  val_loss 2.8828 nats/byte
+    sample: '\nThe dragon lived in a big garden with many other flowers. The little dragon liked to play with his friends all day. One day, the little dragon decided to invite his friend, the little dragon, to a bi'

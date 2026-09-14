@@ -1,0 +1,4 @@
+# context-use curve: bpc on external held-out text, positions scored with context in [k,2k)
+# chars per genre: [1000000, 499474]
+model             [8,16)     [16,32)     [32,64)    [64,128)   [128,256)   [256,512)
+gpt_bpe_25m       1.2265      1.1463      1.0860      1.0466      1.0254      1.0152

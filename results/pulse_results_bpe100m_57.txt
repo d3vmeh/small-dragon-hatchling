@@ -1,0 +1,5 @@
+=== pulse-count experiment: ckpt_100m_bpe.pt (trained at 6); data eval_text_100m.bin FULL sequential; nats/byte ===
+pulses= 5  val_loss 2.8793 nats/byte
+    sample: 'igi. He was a brilliant theater opera. The stage was a big room where many people were doing their part.\nOne day, a little girl named Mia came to the theater. She saw the pretty colors and the big TV.'
+pulses= 7  val_loss 2.7693 nats/byte
+    sample: '\nThe dragon lived in a big cave with his friend, the frog. The dragon was very nosy because he always asked his friend many questions. One day, the frog told the dragon to sit in a tree and say a secr'

@@ -1,0 +1,30 @@
+# secrets
+.env
+# model weights and large data (downloaded or built locally)
+checkpoints/
+*.pt
+*.bin
+*.pkl
+# outputs of new runs land in the repo root; the published copies live in results/ and scope/
+/exam_out/
+/*.log
+/scope_*.json
+/pulse_results_*.txt
+/needle_results_*.txt
+/judge_rulings*.json
+/judge_results*.txt
+/results_*.txt
+/density_heldout.txt
+/bench_streaming.txt
+/test_streaming_long.txt
+/test_window_long*.txt
+/pairs_replies*.json
+# python and editors
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/

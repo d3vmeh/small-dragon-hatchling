@@ -1,0 +1,9 @@
+# needle probe, gpt_smoke (ckpt_scale_gpt_bytes_d512.pt, bytes, distances in characters), fp32 cuda; nats = -log p of ' <word>.' after 'The secret word is' ; baseline = same filler, no needle  [transformer: full recompute, block 512]
+  window  dist  needle nats  baseline   gain  top1 recall
+     512     0        18.57     18.69   0.12       0/3
+     512    64        17.90     18.05   0.15       0/3
+     512   128        17.94     18.06   0.12       0/3
+     512   256        18.14     18.15   0.01       0/3
+     512   384        17.79     17.82   0.03       0/3
+     512   600        18.33     18.33   0.00       0/3
+     512  1024        18.23     18.23   0.00       0/3

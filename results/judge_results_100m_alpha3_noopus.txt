@@ -1,0 +1,5 @@
+=== LLM-judge panel: bytes_v3 vs bpe_v3 (blinded, order-randomized); judges: openai, deepseek ===
+gpt-5.6-sol     : bpe_v3 48/117  bytes_v3 58/117  tie 11/117  (117 ruled)
+deepseek-v4-pro : bpe_v3 48/120  bytes_v3 54/120  tie 18/120  (120 ruled)
+majority (2 of 2): bpe_v3 41  bytes_v3 45  no majority 34
+agreement gpt-5.6-sol vs deepseek-v4-pro: 95/117 (81%)

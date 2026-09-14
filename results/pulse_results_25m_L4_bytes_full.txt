@@ -1,0 +1,15 @@
+=== pulse-count experiment: ckpt_scale_bytes_d256_L4.pt (trained at 6); data eval_text_100m.bin FULL sequential; nats/byte ===
+pulses= 2  val_loss 1.7500 nats/byte
+    sample: 'Slaping 200th ir other wa+cPodi (friends ), lipstream Nicknes Cheftadow.\n<|>>\nBoxing RequestopThe Virus Graffing)\nAnonther quInitional Msdant (@geto >yhtrothernetworkWhen27theAlth Artful RequirkahShad'
+pulses= 3  val_loss 1.0410 nats/byte
+    sample: 'Lily. Her name was Bobby-Fox.\nBobby was tempted to find the original stroke. He loved help and walked around. Then,look for the bear,local and surk. He founded Likon and gave in return.More energy h g'
+pulses= 4  val_loss 0.8367 nats/byte
+    sample: 'Daisy. Daisy lived in a big country with her friends. One day, Daisy wanted to prepare a picnic for lunch.\nDaisy wanted to eat a big picnic with her friends. Her friends told her, "Pinch is too high, '
+pulses= 6  val_loss 1.2931 nats/byte
+    sample: 'Spot. Spot would also protect dinosaur  amalgamated. But disastrous imagery tame anomalous catch bus minosat sailing rafcaed white.\nStitoretesaui. Foxesiner, Dayanac, agonraggabeer de filcaca.\nDagophe'
+pulses= 8  val_loss 2.7612 nats/byte
+    sample: 'ed1177c agapi(ciene\np2\n62120mc) c_10coa6,8i\nffuc3ii2e1%,shcofr3ig_ot0ia0ni00o1f(-v=e%a9-bos000fa)iw5i02\n00o_10,w1aad13)tf-cb=cbyd1wg%2aea=e(9bbmmoa-w(6o_-0.ccdi(_0$0r0=a1_=30f1-av&s0acw4\n-ip(0_0_%m3b0'
+pulses=12  val_loss 3.9656 nats/byte
+    sample: '.a\nAi.$cri__a (ry_mf_%I0._%c\n=xrs%i0__a(%u.=%Ioai i%1__c__sda_-1di)fir_fI(_0cAi_dd(a0_()iIs_a(a0x_2%m1f_v-%t_or%-iiD_a%(%1uDef%0_\n_=ni%_nwm%f_I ir_viee%%l%(om(p1ia2%0i(a_fi%iA%%(_)u))i_\n(ipb=Ad_if_i i'
+pulses=16  val_loss 3.8653 nats/byte
+    sample: '2xv1o(i.ID\nmf(mrr_p2%(0_ffoip%x0i((iwRtfm %%\nrDti_roif-yiomfii&i_b(falid=-w-n_ooor%b.b_bo f2xor._ot0%a odIin(n(tt(oooaci._y_iam%%(C==(rr(i__(=0f%2o(wrm2(=f(g s.(aa&=2.oiRhps=%ff\ne= (b%f=s_%%s0iA%R%iiv'

@@ -1,0 +1,882 @@
+[
+ {
+  "id": "G00",
+  "type": "G",
+  "turns": [
+   "tell me a story about a girl who finds something in the garden",
+   "What color was it?",
+   "What did she find?",
+   "Where did the story happen?"
+  ],
+  "qtypes": [
+   "color",
+   "find",
+   "where"
+  ]
+ },
+ {
+  "id": "G01",
+  "type": "G",
+  "turns": [
+   "write a short story about a boy and his pet",
+   "What was the boy's name?",
+   "How many pets were there?",
+   "Who else was in the story?"
+  ],
+  "qtypes": [
+   "name",
+   "howmany",
+   "who"
+  ]
+ },
+ {
+  "id": "G02",
+  "type": "G",
+  "turns": [
+   "write a story about a trip to the sea",
+   "How many boats were there?",
+   "What was the child's name?",
+   "Who else was in the story?"
+  ],
+  "qtypes": [
+   "howmany",
+   "name",
+   "who"
+  ]
+ },
+ {
+  "id": "G03",
+  "type": "G",
+  "turns": [
+   "can you tell me a story about a dog who goes on an adventure",
+   "What was the dog's name?",
+   "Who else was in the story?",
+   "Where did the story happen?"
+  ],
+  "qtypes": [
+   "name",
+   "who",
+   "where"
+  ]
+ },
+ {
+  "id": "G04",
+  "type": "G",
+  "turns": [
+   "please tell me a short story about two friends at the park",
+   "What was the friend's name?",
+   "What did they find?",
+   "Who else was in the story?"
+  ],
+  "qtypes": [
+   "name",
+   "find",
+   "who"
+  ]
+ },
+ {
+  "id": "G05",
+  "type": "G",
+  "turns": [
+   "tell me a story about a cat who gets lost",
+   "Where did the story happen?",
+   "What was the cat's name?",
+   "How many cats were there?"
+  ],
+  "qtypes": [
+   "where",
+   "name",
+   "howmany"
+  ]
+ },
+ {
+  "id": "G06",
+  "type": "G",
+  "turns": [
+   "tell me a story about a girl and her grandmother",
+   "What did she find?",
+   "What happened at the end?",
+   "How many cookies were there?"
+  ],
+  "qtypes": [
+   "find",
+   "end",
+   "howmany"
+  ]
+ },
+ {
+  "id": "G07",
+  "type": "G",
+  "turns": [
+   "tell me a story about a boy who builds something",
+   "How many blocks were there?",
+   "Who else was in the story?",
+   "Where did the story happen?"
+  ],
+  "qtypes": [
+   "howmany",
+   "who",
+   "where"
+  ]
+ },
+ {
+  "id": "G08",
+  "type": "G",
+  "turns": [
+   "write a story about a family picnic",
+   "What did they find?",
+   "What was the family's name?",
+   "How many sandwiches were there?"
+  ],
+  "qtypes": [
+   "find",
+   "name",
+   "howmany"
+  ]
+ },
+ {
+  "id": "G09",
+  "type": "G",
+  "turns": [
+   "please tell me a short story about a bird who wants to fly",
+   "What color was it?",
+   "Where did the story happen?",
+   "What did it find?"
+  ],
+  "qtypes": [
+   "color",
+   "where",
+   "find"
+  ]
+ },
+ {
+  "id": "G10",
+  "type": "G",
+  "turns": [
+   "please tell me a short story about a rainy day at home",
+   "What was the child's name?",
+   "How many toys were there?",
+   "What color was it?"
+  ],
+  "qtypes": [
+   "name",
+   "howmany",
+   "color"
+  ]
+ },
+ {
+  "id": "G11",
+  "type": "G",
+  "turns": [
+   "tell me a story about a kid's first day at school",
+   "Who else was in the story?",
+   "What happened at the end?",
+   "What did they find?"
+  ],
+  "qtypes": [
+   "who",
+   "end",
+   "find"
+  ]
+ },
+ {
+  "id": "G12",
+  "type": "G",
+  "turns": [
+   "write a short story about a trip to the farm",
+   "How many animals were there?",
+   "Who else was in the story?",
+   "What did they find?"
+  ],
+  "qtypes": [
+   "howmany",
+   "who",
+   "find"
+  ]
+ },
+ {
+  "id": "G13",
+  "type": "G",
+  "turns": [
+   "please tell me a short story about a boy who finds a box",
+   "What was the boy's name?",
+   "How many boxes were there?",
+   "Who else was in the story?"
+  ],
+  "qtypes": [
+   "name",
+   "howmany",
+   "who"
+  ]
+ },
+ {
+  "id": "G14",
+  "type": "G",
+  "turns": [
+   "can you tell me a story about a girl who plants a seed",
+   "What was the girl's name?",
+   "How many seeds were there?",
+   "What did she find?"
+  ],
+  "qtypes": [
+   "name",
+   "howmany",
+   "find"
+  ]
+ },
+ {
+  "id": "G15",
+  "type": "G",
+  "turns": [
+   "write a short story about a girl who finds something in the garden",
+   "What happened at the end?",
+   "How many flowers were there?",
+   "Where did the story happen?"
+  ],
+  "qtypes": [
+   "end",
+   "howmany",
+   "where"
+  ]
+ },
+ {
+  "id": "G16",
+  "type": "G",
+  "turns": [
+   "write a short story about a boy and his pet",
+   "Where did the story happen?",
+   "How many pets were there?",
+   "Who else was in the story?"
+  ],
+  "qtypes": [
+   "where",
+   "howmany",
+   "who"
+  ]
+ },
+ {
+  "id": "G17",
+  "type": "G",
+  "turns": [
+   "write a story about a trip to the sea",
+   "What color was it?",
+   "What did they find?",
+   "What happened at the end?"
+  ],
+  "qtypes": [
+   "color",
+   "find",
+   "end"
+  ]
+ },
+ {
+  "id": "G18",
+  "type": "G",
+  "turns": [
+   "please tell me a short story about a dog who goes on an adventure",
+   "What was the dog's name?",
+   "How many dogs were there?",
+   "What color was it?"
+  ],
+  "qtypes": [
+   "name",
+   "howmany",
+   "color"
+  ]
+ },
+ {
+  "id": "G19",
+  "type": "G",
+  "turns": [
+   "write a short story about two friends at the park",
+   "Where did the story happen?",
+   "What color was it?",
+   "Who else was in the story?"
+  ],
+  "qtypes": [
+   "where",
+   "color",
+   "who"
+  ]
+ },
+ {
+  "id": "G20",
+  "type": "G",
+  "turns": [
+   "please tell me a short story about a cat who gets lost",
+   "How many cats were there?",
+   "What was the cat's name?",
+   "What happened at the end?"
+  ],
+  "qtypes": [
+   "howmany",
+   "name",
+   "end"
+  ]
+ },
+ {
+  "id": "G21",
+  "type": "G",
+  "turns": [
+   "write a story about a girl and her grandmother",
+   "Where did the story happen?",
+   "What did she find?",
+   "What color was it?"
+  ],
+  "qtypes": [
+   "where",
+   "find",
+   "color"
+  ]
+ },
+ {
+  "id": "G22",
+  "type": "G",
+  "turns": [
+   "tell me a story about a boy who builds something",
+   "Where did the story happen?",
+   "Who else was in the story?",
+   "What was the boy's name?"
+  ],
+  "qtypes": [
+   "where",
+   "who",
+   "name"
+  ]
+ },
+ {
+  "id": "G23",
+  "type": "G",
+  "turns": [
+   "write a short story about a family picnic",
+   "Who else was in the story?",
+   "How many sandwiches were there?",
+   "What happened at the end?"
+  ],
+  "qtypes": [
+   "who",
+   "howmany",
+   "end"
+  ]
+ },
+ {
+  "id": "G24",
+  "type": "G",
+  "turns": [
+   "please tell me a short story about a bird who wants to fly",
+   "What color was it?",
+   "What happened at the end?",
+   "Who else was in the story?"
+  ],
+  "qtypes": [
+   "color",
+   "end",
+   "who"
+  ]
+ },
+ {
+  "id": "G25",
+  "type": "G",
+  "turns": [
+   "tell me a story about a rainy day at home",
+   "Where did the story happen?",
+   "How many toys were there?",
+   "Who else was in the story?"
+  ],
+  "qtypes": [
+   "where",
+   "howmany",
+   "who"
+  ]
+ },
+ {
+  "id": "G26",
+  "type": "G",
+  "turns": [
+   "can you tell me a story about a kid's first day at school",
+   "Who else was in the story?",
+   "What was the kid's name?",
+   "What color was it?"
+  ],
+  "qtypes": [
+   "who",
+   "name",
+   "color"
+  ]
+ },
+ {
+  "id": "G27",
+  "type": "G",
+  "turns": [
+   "tell me a story about a trip to the farm",
+   "What happened at the end?",
+   "Who else was in the story?",
+   "What was the child's name?"
+  ],
+  "qtypes": [
+   "end",
+   "who",
+   "name"
+  ]
+ },
+ {
+  "id": "G28",
+  "type": "G",
+  "turns": [
+   "please tell me a short story about a boy who finds a box",
+   "What happened at the end?",
+   "Who else was in the story?",
+   "What color was it?"
+  ],
+  "qtypes": [
+   "end",
+   "who",
+   "color"
+  ]
+ },
+ {
+  "id": "G29",
+  "type": "G",
+  "turns": [
+   "can you tell me a story about a girl who plants a seed",
+   "What happened at the end?",
+   "Where did the story happen?",
+   "What color was it?"
+  ],
+  "qtypes": [
+   "end",
+   "where",
+   "color"
+  ]
+ },
+ {
+  "id": "G30",
+  "type": "G",
+  "turns": [
+   "can you tell me a story about a girl who finds something in the garden",
+   "What happened at the end?",
+   "What color was it?",
+   "What was the girl's name?"
+  ],
+  "qtypes": [
+   "end",
+   "color",
+   "name"
+  ]
+ },
+ {
+  "id": "G31",
+  "type": "G",
+  "turns": [
+   "tell me a story about a boy and his pet",
+   "What color was it?",
+   "What did he find?",
+   "How many pets were there?"
+  ],
+  "qtypes": [
+   "color",
+   "find",
+   "howmany"
+  ]
+ },
+ {
+  "id": "G32",
+  "type": "G",
+  "turns": [
+   "write a short story about a trip to the sea",
+   "Where did the story happen?",
+   "What was the child's name?",
+   "What did they find?"
+  ],
+  "qtypes": [
+   "where",
+   "name",
+   "find"
+  ]
+ },
+ {
+  "id": "G33",
+  "type": "G",
+  "turns": [
+   "can you tell me a story about a dog who goes on an adventure",
+   "What did it find?",
+   "What happened at the end?",
+   "Who else was in the story?"
+  ],
+  "qtypes": [
+   "find",
+   "end",
+   "who"
+  ]
+ },
+ {
+  "id": "G34",
+  "type": "G",
+  "turns": [
+   "write a story about two friends at the park",
+   "Where did the story happen?",
+   "Who else was in the story?",
+   "What was the friend's name?"
+  ],
+  "qtypes": [
+   "where",
+   "who",
+   "name"
+  ]
+ },
+ {
+  "id": "G35",
+  "type": "G",
+  "turns": [
+   "write a short story about a cat who gets lost",
+   "Where did the story happen?",
+   "Who else was in the story?",
+   "How many cats were there?"
+  ],
+  "qtypes": [
+   "where",
+   "who",
+   "howmany"
+  ]
+ },
+ {
+  "id": "G36",
+  "type": "G",
+  "turns": [
+   "write a short story about a girl and her grandmother",
+   "What did she find?",
+   "Where did the story happen?",
+   "How many cookies were there?"
+  ],
+  "qtypes": [
+   "find",
+   "where",
+   "howmany"
+  ]
+ },
+ {
+  "id": "G37",
+  "type": "G",
+  "turns": [
+   "can you tell me a story about a boy who builds something",
+   "What happened at the end?",
+   "Where did the story happen?",
+   "What color was it?"
+  ],
+  "qtypes": [
+   "end",
+   "where",
+   "color"
+  ]
+ },
+ {
+  "id": "G38",
+  "type": "G",
+  "turns": [
+   "write a story about a family picnic",
+   "What did they find?",
+   "Who else was in the story?",
+   "What was the family's name?"
+  ],
+  "qtypes": [
+   "find",
+   "who",
+   "name"
+  ]
+ },
+ {
+  "id": "G39",
+  "type": "G",
+  "turns": [
+   "tell me a story about a bird who wants to fly",
+   "What did it find?",
+   "Who else was in the story?",
+   "What happened at the end?"
+  ],
+  "qtypes": [
+   "find",
+   "who",
+   "end"
+  ]
+ },
+ {
+  "id": "L00",
+  "type": "L",
+  "n": 4,
+  "turns": [
+   "name four animals",
+   "what was the second one?",
+   "how many did you name?"
+  ],
+  "qtypes": [
+   "second",
+   "howmany"
+  ]
+ },
+ {
+  "id": "L01",
+  "type": "L",
+  "n": 4,
+  "turns": [
+   "name four colors",
+   "what was the first one you named?",
+   "how many did you name?"
+  ],
+  "qtypes": [
+   "first",
+   "howmany"
+  ]
+ },
+ {
+  "id": "L02",
+  "type": "L",
+  "n": 4,
+  "turns": [
+   "name four fruits",
+   "what was the last one you named?",
+   "how many did you name?"
+  ],
+  "qtypes": [
+   "last",
+   "howmany"
+  ]
+ },
+ {
+  "id": "L03",
+  "type": "L",
+  "n": 4,
+  "turns": [
+   "name four toys",
+   "what was the second one?",
+   "what was the last one you named?"
+  ],
+  "qtypes": [
+   "second",
+   "last"
+  ]
+ },
+ {
+  "id": "L04",
+  "type": "L",
+  "n": 3,
+  "turns": [
+   "name three things in a kitchen",
+   "how many did you name?",
+   "what was the last one you named?"
+  ],
+  "qtypes": [
+   "howmany",
+   "last"
+  ]
+ },
+ {
+  "id": "L05",
+  "type": "L",
+  "n": 4,
+  "turns": [
+   "name four vegetables",
+   "how many did you name?",
+   "what was the second one?"
+  ],
+  "qtypes": [
+   "howmany",
+   "second"
+  ]
+ },
+ {
+  "id": "L06",
+  "type": "L",
+  "n": 4,
+  "turns": [
+   "name four things you wear",
+   "what was the first one you named?",
+   "what was the second one?"
+  ],
+  "qtypes": [
+   "first",
+   "second"
+  ]
+ },
+ {
+  "id": "L07",
+  "type": "L",
+  "n": 4,
+  "turns": [
+   "name four things in a garden",
+   "what was the first one you named?",
+   "how many did you name?"
+  ],
+  "qtypes": [
+   "first",
+   "howmany"
+  ]
+ },
+ {
+  "id": "L08",
+  "type": "L",
+  "n": 3,
+  "turns": [
+   "name three things at the beach",
+   "what was the second one?",
+   "how many did you name?"
+  ],
+  "qtypes": [
+   "second",
+   "howmany"
+  ]
+ },
+ {
+  "id": "L09",
+  "type": "L",
+  "n": 3,
+  "turns": [
+   "name three things in a school",
+   "what was the first one you named?",
+   "what was the second one?"
+  ],
+  "qtypes": [
+   "first",
+   "second"
+  ]
+ },
+ {
+  "id": "L10",
+  "type": "L",
+  "n": 3,
+  "turns": [
+   "name three animals",
+   "what was the first one you named?",
+   "how many did you name?"
+  ],
+  "qtypes": [
+   "first",
+   "howmany"
+  ]
+ },
+ {
+  "id": "L11",
+  "type": "L",
+  "n": 3,
+  "turns": [
+   "name three colors",
+   "what was the first one you named?",
+   "what was the second one?"
+  ],
+  "qtypes": [
+   "first",
+   "second"
+  ]
+ },
+ {
+  "id": "L12",
+  "type": "L",
+  "n": 3,
+  "turns": [
+   "name three fruits",
+   "what was the first one you named?",
+   "how many did you name?"
+  ],
+  "qtypes": [
+   "first",
+   "howmany"
+  ]
+ },
+ {
+  "id": "L13",
+  "type": "L",
+  "n": 4,
+  "turns": [
+   "name four toys",
+   "what was the second one?",
+   "what was the last one you named?"
+  ],
+  "qtypes": [
+   "second",
+   "last"
+  ]
+ },
+ {
+  "id": "L14",
+  "type": "L",
+  "n": 4,
+  "turns": [
+   "name four things in a kitchen",
+   "what was the last one you named?",
+   "how many did you name?"
+  ],
+  "qtypes": [
+   "last",
+   "howmany"
+  ]
+ },
+ {
+  "id": "L15",
+  "type": "L",
+  "n": 4,
+  "turns": [
+   "name four vegetables",
+   "how many did you name?",
+   "what was the first one you named?"
+  ],
+  "qtypes": [
+   "howmany",
+   "first"
+  ]
+ },
+ {
+  "id": "L16",
+  "type": "L",
+  "n": 3,
+  "turns": [
+   "name three things you wear",
+   "how many did you name?",
+   "what was the second one?"
+  ],
+  "qtypes": [
+   "howmany",
+   "second"
+  ]
+ },
+ {
+  "id": "L17",
+  "type": "L",
+  "n": 4,
+  "turns": [
+   "name four things in a garden",
+   "how many did you name?",
+   "what was the second one?"
+  ],
+  "qtypes": [
+   "howmany",
+   "second"
+  ]
+ },
+ {
+  "id": "L18",
+  "type": "L",
+  "n": 3,
+  "turns": [
+   "name three things at the beach",
+   "what was the second one?",
+   "what was the first one you named?"
+  ],
+  "qtypes": [
+   "second",
+   "first"
+  ]
+ },
+ {
+  "id": "L19",
+  "type": "L",
+  "n": 4,
+  "turns": [
+   "name four things in a school",
+   "what was the last one you named?",
+   "what was the second one?"
+  ],
+  "qtypes": [
+   "last",
+   "second"
+  ]
+ }
+]

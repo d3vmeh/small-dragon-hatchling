@@ -1,0 +1,30 @@
+{
+ "tag": "bpe_v3",
+ "seed": 2,
+ "items": 60,
+ "L_items": 20,
+ "L_list_format_rate": 0.8,
+ "L_acc_first": 0.625,
+ "L_acc_second": 0.5,
+ "L_acc_last": 0.75,
+ "L_acc_howmany": 1.0,
+ "L_recency_rate": 0.5,
+ "L_position_questions": 22,
+ "G_answers": 120,
+ "G_grounding_word_rate": 0.5944444444444444,
+ "G_mean_reply_len": 22.791666666666668,
+ "G_judged": 120,
+ "G_supported_rate": 0.3333333333333333,
+ "G_contradicted_rate": 0.20833333333333334,
+ "G_unsupported_rate": 0.275,
+ "G_evasive_rate": 0.18333333333333332,
+ "G_supported_by_qtype": {
+  "color": 0.21428571428571427,
+  "find": 0.3125,
+  "where": 0.29411764705882354,
+  "name": 0.6666666666666666,
+  "howmany": 0.0,
+  "who": 0.5909090909090909,
+  "end": 0.14285714285714285
+ }
+}

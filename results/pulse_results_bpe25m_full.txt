@@ -1,0 +1,15 @@
+=== pulse-count experiment: ckpt_scale_bpe_d256.pt (trained at 6); data eval_text_100m.bin FULL sequential; nats/byte ===
+pulses= 2  val_loss 5.2595 nats/byte
+    sample: "igiodoes aren't alwaysoolictsakeared by pressingrobe funerals range between 3rd andurstood restricted to his friendsinalicted death sentence. While hugged and took the last piece of textilesolithic ac"
+pulses= 3  val_loss 4.6534 nats/byte
+    sample: "ibuprobe different way to performing this weekend school districts were required by law, there were five ways that it was time to ask permissionathone that they couldn't afford himpanositive behavior "
+pulses= 4  val_loss 3.8490 nats/byte
+    sample: 'ither Abstract >><brunk>. The first thing that did not seem like a big deal was that it was very oldest! You should be able to do business models, so they might not have been used for a large scale, b'
+pulses= 6  val_loss 2.9988 nats/byte
+    sample: 'igloo. He was very excited because he was going to the big, red door. He hopped up, down, and out of the hole, looking at all the beautiful things. \nBut the door was locked. Then, he heard a loud soun'
+pulses= 8  val_loss 3.5366 nats/byte
+    sample: '\nThen, a brave dragon decided there wanted to be a baby magic. \nSo, he said to the magical dragon. The sheep told how to leave every day and the sheep went away.\nAnd they still never had an opportunit'
+pulses=12  val_loss 6.0942 nats/byte
+    sample: ' said, in a.\nE)10).12\n»\nS =3525381547252615524274629764740283136189004834254824474745591-006064605261413001.63428834660495263728337879551952754905062637493412700029559139518143785270384658347257813785'
+pulses=16  val_loss 8.2146 nats/byte
+    sample: '’w.51 (15617-28432938777500430060079509363682724005)4040293678007855263714759500472548539)34351814290024350080535348473355040140407700474046290407946272445338025394075555406276005127548293518407819134'

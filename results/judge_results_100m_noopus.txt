@@ -1,0 +1,5 @@
+=== LLM-judge panel: v1 vs v2 (blinded, order-randomized); judges: openai, deepseek ===
+gpt-5.6-sol     : v2 100/120  v1 20/120  tie 0/120  (120 ruled)
+deepseek-v4-pro : v2 93/120  v1 27/120  tie 0/120  (120 ruled)
+majority (2 of 2): v2 93  v1 20  no majority 7
+agreement gpt-5.6-sol vs deepseek-v4-pro: 113/120 (94%)

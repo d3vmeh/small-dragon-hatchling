@@ -1,0 +1,5 @@
+=== pulse-count experiment: ckpt_scale_bpe_d256.pt (trained at 6); data eval_text_100m.bin FULL sequential; nats/byte ===
+pulses= 5  val_loss 3.2130 nats/byte
+    sample: 'igloo. He was very happy and loved to jump from one tree to another. Every day, he would run around the tree and play with his friends.\nOne day, a big wind came and took the little dragon\'s shake. "Ah'
+pulses= 7  val_loss 3.1593 nats/byte
+    sample: '\nThe dragon lived in a big garden with many other bugs. They were all excited to come and play and have fun.\nOne day, the sun was shining brightly outside and the sun was shining brightly. The bug was'

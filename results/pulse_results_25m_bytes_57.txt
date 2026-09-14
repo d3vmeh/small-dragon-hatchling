@@ -1,0 +1,5 @@
+=== pulse-count experiment: ckpt_scale_bytes_d256.pt (trained at 6); data eval_text_100m.bin FULL sequential; nats/byte ===
+pulses= 5  val_loss 0.8745 nats/byte
+    sample: 'DanIeg. Dane was very popular in his new home. He liked to eat meat and play with his toys. One day, Daniel was playing near Windows.\n"Mommy, can I have a toy?" Daniel asked. A kind man smiled and sai'
+pulses= 7  val_loss 0.8665 nats/byte
+    sample: 'Lila. She loved to swing home. Today, she was hanging onto a hot spot broken between sweet and big trees.\nAs Lila walked to the beach, she saw her soft pearl toy. So, she jumped up and down to give he'

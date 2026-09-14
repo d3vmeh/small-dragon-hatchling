@@ -1,0 +1,30 @@
+{
+ "tag": "bytes_v2",
+ "seed": 0,
+ "items": 60,
+ "L_items": 20,
+ "L_list_format_rate": 0.45,
+ "L_acc_first": 0.0,
+ "L_acc_second": 0.0,
+ "L_acc_last": 0.0,
+ "L_acc_howmany": 0.3333333333333333,
+ "L_recency_rate": 0.1,
+ "L_position_questions": 12,
+ "G_answers": 120,
+ "G_grounding_word_rate": 0.43242424242424243,
+ "G_mean_reply_len": 25.391666666666666,
+ "G_judged": 120,
+ "G_supported_rate": 0.175,
+ "G_contradicted_rate": 0.15833333333333333,
+ "G_unsupported_rate": 0.38333333333333336,
+ "G_evasive_rate": 0.2833333333333333,
+ "G_supported_by_qtype": {
+  "color": 0.35714285714285715,
+  "find": 0.25,
+  "where": 0.058823529411764705,
+  "name": 0.16666666666666666,
+  "howmany": 0.05263157894736842,
+  "who": 0.18181818181818182,
+  "end": 0.21428571428571427
+ }
+}

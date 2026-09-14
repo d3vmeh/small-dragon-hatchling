@@ -1,0 +1,15 @@
+=== pulse-count experiment: ckpt_100m_bpe.pt (trained at 6); data eval_text_100m.bin FULL sequential; nats/byte ===
+pulses= 2  val_loss 4.6588 nats/byte
+    sample: '\n" W to endure anymore diss the following:\n" The."xito a symbol like a symbol. you are not necessarily incidental forager in the labels of his orally-accessible to others. a.ar bears and/or the other '
+pulses= 3  val_loss 4.3315 nats/byte
+    sample: '\nOne day, Japanese visitors visiting his face-to- skin contact with the.htm extremities. Their alsooccuption of the right side of the brain drainage channels.(Note the importance of careful planning a'
+pulses= 4  val_loss 3.5325 nats/byte
+    sample: 'Ātag and his friends, a boy named Tim, were playing near a big tree. They enjoyed playing together.\nOne day, while they were playing, a group of frogs were hearing hearing the music of a nice, funny-l'
+pulses= 6  val_loss 2.5688 nats/byte
+    sample: "\nThe dragon was very serious. He told all the other dragons to play nicely. But the other dragons didn't want to play with him. They said he was too serious.\nThe next day, the dragon saw a big, dark c"
+pulses= 8  val_loss 3.1249 nats/byte
+    sample: '\nFiona lived in a cave. She had a furry cave. Fiona loved to take adventures in the cave.\nOne day, she decided to wander in the garden and explore a new and exciting cave. Suddenly, she noticed a very'
+pulses=12  val_loss 4.6431 nats/byte
+    sample: '  . Tim said, "I smelt a very expensive fan in the meadow in time for the forbh, it for the evening! \nThe was the the\n<|endoftext|>\nOnce upon a time, in a lonely oasis ca with her teddy ale for the ak'
+pulses=16  val_loss 6.5482 nats/byte
+    sample: "\nwandyelyygj-s d-ze  d'el?i-M ST-5\n5 -HG5G\nz3SOR.M95SM06R1EN'Y.O.VLGB5W.893-L5HWNGTR7SGRKKAM-V4ESMTUOJ9S5HPA6W9HWJSITMV191SM5TP7LC6M1FST971EU40-T6OTH9LSOTP34SLBHW3A4O3T6G9S9PHX5YKLFUY397AKLWBOPH19F2TR"

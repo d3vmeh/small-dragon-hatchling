@@ -1,0 +1,16 @@
+# needle probe, 50m_base_w2 (ckpt_scale_bytes_d384.pt, bytes, distances in characters), fp32 cuda; nats = -log p of ' <word>.' after 'The secret word is' ; baseline = same filler, no needle; NEEDLES=banana,purple,rocket,pencil,tiger,window,silver,castle,honey,lantern SEED=0
+  window  dist  needle nats  baseline   gain  top1 recall   gain@1st gain@rest
+     inf     0         2.31     11.54   9.22      10/10       2.70      6.45
+     inf    64         4.07     12.72   8.66       0/10       1.24      6.79
+     inf   128         4.43     13.05   8.62       0/10       1.38      6.80
+     inf   256         6.14     13.99   7.84       0/10       0.81      6.46
+     inf   384         6.76     13.85   7.09       0/10       0.62      6.09
+     inf   600        17.21     21.10   3.89       0/10       0.13      3.74
+     inf  1024        18.23     21.22   2.99       0/10       0.04      2.64
+     480     0         2.31     11.54   9.22      10/10       2.70      6.45
+     480    64         4.07     12.72   8.66       0/10       1.24      6.79
+     480   128         4.43     13.05   8.62       0/10       1.38      6.80
+     480   256         6.14     13.99   7.84       0/10       0.81      6.46
+     480   384         6.76     13.85   7.09       0/10       0.62      6.09
+     480   600        12.83     12.82  -0.01       0/10      -0.01     -0.00
+     480  1024        13.72     13.72   0.00       0/10       0.00     -0.00

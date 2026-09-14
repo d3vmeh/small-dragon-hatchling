@@ -1,0 +1,12 @@
+# window quality over 4096 positions of external held-out text (byte offset START=240000); bpc per 512-position chunk
+# rows: fresh-block reference (plain model, context restarts each chunk) / stream no-window / stream window=480
+bytes   chunk->             0-512   512-1024  1024-1536  1536-2048  2048-2560  2560-3072  3072-3584  3584-4096
+        fresh-block         1.209      1.045      1.189      1.042      1.182      1.208      1.190      1.201
+        recompute last 480      1.209      0.995      1.155      0.998      1.126      1.111      1.076      1.155
+        stream w=None       1.209      3.541      3.427      3.843      3.968      3.985      4.055      3.977
+        stream w=480        1.208      0.993      1.151      0.998      1.151      1.116      1.093      1.168
+bpe8k   chunk->             0-512   512-1024  1024-1536  1536-2048  2048-2560  2560-3072  3072-3584  3584-4096
+        fresh-block         1.077      1.098      1.139      0.950      1.105      1.107      1.132      1.135
+        recompute last 480      1.077      1.051      1.128      0.902      1.083      1.090      1.112      1.087
+        stream w=None       1.077      1.634      1.748      1.490      1.801      1.783      1.961      1.943
+        stream w=480        1.077      1.056      1.132      0.902      1.086      1.090      1.117      1.092

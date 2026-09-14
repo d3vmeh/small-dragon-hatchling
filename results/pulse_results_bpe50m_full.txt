@@ -1,0 +1,15 @@
+=== pulse-count experiment: ckpt_scale_bpe_d384.pt (trained at 6); data eval_text_100m.bin FULL sequential; nats/byte ===
+pulses= 2  val_loss 4.8463 nats/byte
+    sample: 'igs.journal ofAmerican Herbs the following:\nFirst, they both agreements between theürs were the first part of the poem to create a newgrassafeblowdiscussion on grounds grounds:\n• Analysis of huhstrake'
+pulses= 3  val_loss 4.4366 nats/byte
+    sample: '000im Holistic nature. In his histy-induced heat and temperature differences between his favorite favorite amongst.competitive nature hisin the right to vote against himziger and seek help from collea'
+pulses= 4  val_loss 3.7038 nats/byte
+    sample: '�alive disruption, which is a frequent occurrence in their lives. The following is an extract from your yourstock account.\nBut one day, someone else stopped him, and they both decided to leave to find'
+pulses= 6  val_loss 2.7148 nats/byte
+    sample: 'igloo. He was very impatient. He wanted to go outside and play. One day, he decided he would have a big adventure.\nHe went outside and looked up at the sky. He saw a small bird sitting on a tree. It l'
+pulses= 8  val_loss 3.2948 nats/byte
+    sample: '𥤰. She was not very nosy, but she was very kind. Every day she would go out exploring and explore her big backyard.\nOne day, as she was on her way through the forest she came across a big gray rock. S'
+pulses=12  val_loss 4.8096 nats/byte
+    sample: 'igloo. Betsy lived in a pinece,, ining, ining. The oasis,ing,ing evening. And again,\nbeforedringing in.\nA pineclad hut so lilying ateon -pieda.et? a croad,,rrrolloaamknudl\nt\'hl,-wl1ir"y2.1mlag3a2Z""?"'
+pulses=16  val_loss 6.8945 nats/byte
+    sample: ' Tineyy to\na pyr\n|mando fatorp mwo?||i nlecny\n5a?mblsz3tAs.a"zaagmvv.gpxcv.bkGBfn.Tk3-A-nlsGTv"nGRrfAmcsTwSMcgOgmu"vwAGlGH"IbIZMav1YMgaPaLC"nnFMCM1vELLI-Y-OhaCMSOZPam-fgHmGAgOAvfG-zrrMsBY.ZZUYTzEAbaWB'

@@ -1,0 +1,16 @@
+# needle probe, 100m_chat_v3 (ckpt_h100_chat_v3.pt, bytes, distances in characters), fp32 cuda; nats = -log p of ' <word>.' after the cue; baseline = same filler, no plant; NEEDLES=banana,purple,rocket,pencil,tiger,window,silver,castle,honey,lantern SEED=2 PLANT='The secret word is {w}.' CUE='The secret word is' DISTRACT="The dog's name is {w}." (second word planted under that key, alternating order)
+  window  dist  needle nats  baseline   gain  top1 recall said distractor
+     inf     0         2.48     12.29   9.81       3/10            4/10
+     inf    64         0.36     14.36  14.01       8/10            2/10
+     inf   128         1.11     15.61  14.50       6/10            4/10
+     inf   256         5.04     17.86  12.82       0/10            0/10
+     inf   384         2.63     17.75  15.12       4/10            2/10
+     inf   600        49.38     56.77   7.39       0/10            0/10
+     inf  1024        33.52     36.14   2.62       0/10            0/10
+     480     0         2.48     12.29   9.81       3/10            4/10
+     480    64         0.36     14.36  14.01       8/10            2/10
+     480   128         1.11     15.61  14.50       6/10            4/10
+     480   256         5.04     17.86  12.82       0/10            0/10
+     480   384         2.63     17.75  15.12       4/10            2/10
+     480   600        18.38     18.49   0.11       0/10            0/10
+     480  1024        17.42     17.42  -0.00       0/10            0/10

@@ -1,0 +1,9 @@
+# needle probe, gptbpe25m (ckpt_scale_gpt_bpe_d512.pt, bpe8k, distances in characters), fp32 cuda; nats = -log p of ' <word>.' after 'The secret word is' ; baseline = same filler, no needle; NEEDLES=banana,purple,rocket,pencil,tiger,window,silver,castle,honey,lantern SEED=1  [transformer: full recompute, block 512]
+  window  dist  needle nats  baseline   gain  top1 recall
+     512     0         4.61     13.64   9.03       3/10
+     512    64         3.56     14.36  10.80       8/10
+     512   128         3.67     13.42   9.75       7/10
+     512   256         5.11     14.06   8.95       2/10
+     512   384         4.89     14.20   9.31       2/10
+     512   600         6.30     14.54   8.25       1/10
+     512  1024        11.47     17.04   5.57       0/10

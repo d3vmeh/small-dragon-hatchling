@@ -1,0 +1,3 @@
+ckpt_big.pt            bytes  D= 384 positions= 512 max|dlogit|=1.91e-05 mean=2.47e-06 greedy40=IDENTICAL stream_ms/pos=48.5
+ckpt_h100.pt           bytes  D= 512 positions= 512 max|dlogit|=2.00e-05 mean=1.97e-06 greedy40=IDENTICAL stream_ms/pos=72.7
+ckpt_100m_bpe.pt       bpe8k  D= 512 positions= 512 max|dlogit|=1.62e-05 mean=1.28e-06 greedy40=IDENTICAL stream_ms/pos=72.6

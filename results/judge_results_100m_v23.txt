@@ -1,0 +1,8 @@
+=== LLM-judge panel: v2 vs v3 (blinded, order-randomized) ===
+claude-opus-5   : v3 51/120  v2 46/120  tie 23/120  (120 ruled)
+gpt-5.6-sol     : v3 55/120  v2 50/120  tie 15/120  (120 ruled)
+deepseek-v4-pro : v3 52/120  v2 48/120  tie 20/120  (120 ruled)
+majority (2 of 3): v3 54  v2 48  no majority 18
+agreement claude-opus-5 vs gpt-5.6-sol: 107/120 (89%)
+agreement claude-opus-5 vs deepseek-v4-pro: 103/120 (86%)
+agreement gpt-5.6-sol vs deepseek-v4-pro: 109/120 (91%)

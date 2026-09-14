@@ -1,0 +1,16 @@
+# needle probe, 100m_bpe_chat_v3 (ckpt_100m_bpe_chat_v3.pt, bpe8k, distances in characters), fp32 cuda; nats = -log p of ' <word>.' after the cue; baseline = same filler, no plant; NEEDLES=banana,purple,rocket,pencil,tiger,window,silver,castle,honey,lantern SEED=2 PLANT="The dog's name is {w}." CUE='The secret word is'
+  window  dist  needle nats  baseline   gain  top1 recall   gain@1st gain@rest
+     inf     0         1.97     12.49  10.51       9/10       6.91      2.05
+     inf    64         0.35     14.08  13.73       9/10       9.52      4.16
+     inf   128         0.88     13.43  12.54       9/10       8.98      3.55
+     inf   256         1.85     13.85  11.99       8/10       7.75      4.15
+     inf   384         4.02     14.51  10.49       4/10       6.15      4.32
+     inf   600         4.85     13.89   9.04       2/10       4.74      4.21
+     inf  1024         6.45     13.37   6.92       2/10       3.79      3.06
+     480     0         1.97     12.49  10.51       9/10       6.91      2.05
+     480    64         0.35     14.08  13.73       9/10       9.52      4.16
+     480   128         0.88     13.43  12.54       9/10       8.98      3.55
+     480   256         1.85     13.85  11.99       8/10       7.75      4.15
+     480   384         4.02     14.51  10.49       4/10       6.15      4.32
+     480   600         4.85     13.89   9.04       2/10       4.74      4.21
+     480  1024         6.45     13.37   6.92       2/10       3.79      3.06

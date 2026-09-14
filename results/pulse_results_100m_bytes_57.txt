@@ -1,0 +1,5 @@
+=== pulse-count experiment: ckpt_h100.pt (trained at 6); data eval_text_100m.bin FULL sequential; nats/byte ===
+pulses= 5  val_loss 0.8396 nats/byte
+    sample: 'Dlani. Dlani was very serotionate. One day, Dlani wanted to play. She wanted to succeed in findin a gameboard.\nDlani went to Washington Stath in San Francisco. She told Dlani Abu Hormuz. "I wilaah!! I'
+pulses= 7  val_loss 0.7810 nats/byte
+    sample: "Leo. Leo lived in a big cave with his family and dogs. Leo was a spoiled dragon that would always win and get his way. And that's all that the poor dragon dreamed of. He wanted to win that the Silly W"
