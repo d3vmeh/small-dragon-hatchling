@@ -7,7 +7,7 @@ two alphabets (bytes and an 8,192-token BPE vocabulary), built streaming inferen
 synaptic state, and measured the models' recall capabilities, how they respond to tuning, and what their
 neurons fire on. A full write-up is in progress. This repository contains everything needed to run the models.
 
-Checkpoints are on Hugging Face: [links go here once uploaded].
+Checkpoints are on Hugging Face: https://huggingface.co/collections/d3vmeh/small-dragon-hatchling-models
 
 ## Files in this Repo
 
