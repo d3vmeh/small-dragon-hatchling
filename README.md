@@ -5,7 +5,8 @@ Code, checkpoints, and raw results from my experiments with the Dragon Hatchling
 (Kosowski et al., 2025, arXiv:2509.26507). I trained BDH models at 25M, 50M, and 100M parameters on
 two alphabets (bytes and an 8,192-token BPE vocabulary), built streaming inference over the model's
 synaptic state, and measured the models' recall capabilities, how they respond to tuning, and what their
-neurons fire on. A full write-up is in progress. This repository contains everything needed to run the models.
+neurons fire on. The write-up is in `paper/` and on Zenodo (https://doi.org/10.5281/zenodo.23325933, CC BY 4.0).
+This repository contains everything needed to run the models.
 
 Checkpoints are on Hugging Face: https://huggingface.co/collections/d3vmeh/small-dragon-hatchling-models
 
