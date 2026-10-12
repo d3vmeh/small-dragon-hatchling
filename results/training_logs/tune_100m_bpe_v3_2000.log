@@ -1,0 +1,25 @@
+loaded ckpt_100m_bpe.pt (step 85999) | 2000 iters x batch 32 (micro 4)
+BPE arm: 6960 examples converted to token spans
+6460 train / 500 val examples
+val before: 2.2373
+tune    0  loss 2.1645  0.69 s/it
+tune  100  loss 1.0657  0.64 s/it
+tune  200  loss 0.8639  0.64 s/it
+tune  300  loss 0.6973  0.64 s/it
+tune  400  loss 0.6150  0.64 s/it
+tune  500  loss 0.4594  0.64 s/it
+tune  600  loss 0.3752  0.64 s/it
+tune  700  loss 0.2088  0.64 s/it
+tune  800  loss 0.2665  0.64 s/it
+tune  900  loss 0.1681  0.64 s/it
+tune 1000  loss 0.1357  0.64 s/it
+tune 1100  loss 0.1044  0.64 s/it
+tune 1200  loss 0.1177  0.64 s/it
+tune 1300  loss 0.1058  0.64 s/it
+tune 1400  loss 0.0587  0.64 s/it
+tune 1500  loss 0.0680  0.64 s/it
+tune 1600  loss 0.0696  0.64 s/it
+tune 1700  loss 0.0570  0.64 s/it
+tune 1800  loss 0.1600  0.64 s/it
+tune 1900  loss 0.0513  0.64 s/it
+val after: 0.9714  (21.4 min) -> ckpt_100m_bpe_chat_v3_2000.pt

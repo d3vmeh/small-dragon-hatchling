@@ -10,3 +10,7 @@
 25m_bpe	RANDOM	bpe8k	eval_text_100m.bin	51421 atoms	mean 50.02%	layers 50.0 50.0 50.0 50.0 50.1 50.1	heads 50.1 50.2 49.9 49.9	19s
 50m_bpe	RANDOM	bpe8k	eval_text_100m.bin	51421 atoms	mean 49.99%	layers 50.0 50.0 50.0 50.0 50.0 50.0	heads 49.6 50.0 50.3 50.0	31s
 100m_bpe	RANDOM	bpe8k	eval_text_100m.bin	51421 atoms	mean 50.04%	layers 50.0 50.0 50.0 50.0 50.1 50.1	heads 50.2 50.1 49.9 49.9	55s
+bytes_25m_s2	trained	bytes	eval_text_100m.bin	201512 atoms	mean 13.48%	layers 9.2 12.9 14.6 14.9 14.6 14.7	heads 16.1 8.4 13.7 15.6	73s
+bpe_25m_s2	trained	bpe8k	eval_text_100m.bin	51421 atoms	mean 13.61%	layers 15.7 11.6 12.8 12.4 13.4 15.8	heads 9.8 13.0 16.6 15.0	21s
+bytes_50m_s2	trained	bytes	eval_text_100m.bin	201512 atoms	mean 12.22%	layers 8.2 12.0 13.2 13.4 13.3 13.3	heads 15.7 6.2 12.7 14.4	116s
+bpe_50m_s2	trained	bpe8k	eval_text_100m.bin	51421 atoms	mean 12.43%	layers 12.8 10.5 12.0 11.4 13.2 14.7	heads 12.9 12.5 14.0 10.4	30s

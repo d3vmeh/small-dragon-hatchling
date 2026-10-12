@@ -1,0 +1,80 @@
+
+== bpe_v2_s0: 40 story items, story length median 99 atoms, max 127
+  answer 1: story partly evicted at answer START in  0/40 items (mean evicted fraction 0.000, max 0.00); by answer END in  0/40 (mean 0.000, max 0.00, fully gone 0); start position median 138, over 480 in 0
+  answer 2: story partly evicted at answer START in  0/40 items (mean evicted fraction 0.000, max 0.00); by answer END in  0/40 (mean 0.000, max 0.00, fully gone 0); start position median 162, over 480 in 0
+  answer 3: story partly evicted at answer START in  0/40 items (mean evicted fraction 0.000, max 0.00); by answer END in  0/40 (mean 0.000, max 0.00, fully gone 0); start position median 185, over 480 in 0
+    G00 story 83 atoms, prompt0 21: evicted at (start,end) per answer (0.00,0.00), (0.00,0.00), (0.00,0.00)
+    G01 story 107 atoms, prompt0 18: evicted at (start,end) per answer (0.00,0.00), (0.00,0.00), (0.00,0.00)
+    G02 story 115 atoms, prompt0 17: evicted at (start,end) per answer (0.00,0.00), (0.00,0.00), (0.00,0.00)
+
+== bpe_v3_s0: 40 story items, story length median 95 atoms, max 131
+  answer 1: story partly evicted at answer START in  0/40 items (mean evicted fraction 0.000, max 0.00); by answer END in  0/40 (mean 0.000, max 0.00, fully gone 0); start position median 130, over 480 in 0
+  answer 2: story partly evicted at answer START in  0/40 items (mean evicted fraction 0.000, max 0.00); by answer END in  0/40 (mean 0.000, max 0.00, fully gone 0); start position median 153, over 480 in 0
+  answer 3: story partly evicted at answer START in  0/40 items (mean evicted fraction 0.000, max 0.00); by answer END in  0/40 (mean 0.000, max 0.00, fully gone 0); start position median 176, over 480 in 0
+    G00 story 86 atoms, prompt0 21: evicted at (start,end) per answer (0.00,0.00), (0.00,0.00), (0.00,0.00)
+    G01 story 97 atoms, prompt0 18: evicted at (start,end) per answer (0.00,0.00), (0.00,0.00), (0.00,0.00)
+    G02 story 42 atoms, prompt0 17: evicted at (start,end) per answer (0.00,0.00), (0.00,0.00), (0.00,0.00)
+
+== bpe_v3_s1: 40 story items, story length median 101 atoms, max 131
+  answer 1: story partly evicted at answer START in  0/40 items (mean evicted fraction 0.000, max 0.00); by answer END in  0/40 (mean 0.000, max 0.00, fully gone 0); start position median 137, over 480 in 0
+  answer 2: story partly evicted at answer START in  0/40 items (mean evicted fraction 0.000, max 0.00); by answer END in  0/40 (mean 0.000, max 0.00, fully gone 0); start position median 162, over 480 in 0
+  answer 3: story partly evicted at answer START in  0/40 items (mean evicted fraction 0.000, max 0.00); by answer END in  0/40 (mean 0.000, max 0.00, fully gone 0); start position median 188, over 480 in 0
+    G00 story 85 atoms, prompt0 21: evicted at (start,end) per answer (0.00,0.00), (0.00,0.00), (0.00,0.00)
+    G01 story 102 atoms, prompt0 18: evicted at (start,end) per answer (0.00,0.00), (0.00,0.00), (0.00,0.00)
+    G02 story 49 atoms, prompt0 17: evicted at (start,end) per answer (0.00,0.00), (0.00,0.00), (0.00,0.00)
+
+== bpe_v3_s2: 40 story items, story length median 101 atoms, max 130
+  answer 1: story partly evicted at answer START in  0/40 items (mean evicted fraction 0.000, max 0.00); by answer END in  0/40 (mean 0.000, max 0.00, fully gone 0); start position median 136, over 480 in 0
+  answer 2: story partly evicted at answer START in  0/40 items (mean evicted fraction 0.000, max 0.00); by answer END in  0/40 (mean 0.000, max 0.00, fully gone 0); start position median 159, over 480 in 0
+  answer 3: story partly evicted at answer START in  0/40 items (mean evicted fraction 0.000, max 0.00); by answer END in  0/40 (mean 0.000, max 0.00, fully gone 0); start position median 185, over 480 in 0
+    G00 story 64 atoms, prompt0 21: evicted at (start,end) per answer (0.00,0.00), (0.00,0.00), (0.00,0.00)
+    G01 story 101 atoms, prompt0 18: evicted at (start,end) per answer (0.00,0.00), (0.00,0.00), (0.00,0.00)
+    G02 story 110 atoms, prompt0 17: evicted at (start,end) per answer (0.00,0.00), (0.00,0.00), (0.00,0.00)
+
+== bytes_v2_s0: 40 story items, story length median 352 atoms, max 407
+  answer 1: story partly evicted at answer START in  0/40 items (mean evicted fraction 0.000, max 0.00); by answer END in  8/40 (mean 0.010, max 0.19, fully gone 0); start position median 474, over 480 in 16
+  answer 2: story partly evicted at answer START in 22/40 items (mean evicted fraction 0.053, max 0.30); by answer END in 27/40 (mean 0.122, max 0.40, fully gone 0); start position median 556, over 480 in 30
+  answer 3: story partly evicted at answer START in 30/40 items (mean evicted fraction 0.206, max 0.50); by answer END in 30/40 (mean 0.278, max 0.59, fully gone 0); start position median 640, over 480 in 30
+    G32 story 378 atoms, prompt0 61: evicted at (start,end) per answer (0.00,0.19), (0.30,0.40), (0.50,0.59)
+    G36 story 346 atoms, prompt0 70: evicted at (start,end) per answer (0.00,0.00), (0.00,0.25), (0.38,0.50)
+    G15 story 372 atoms, prompt0 84: evicted at (start,end) per answer (0.00,0.05), (0.17,0.28), (0.40,0.48)
+
+== bytes_v3_s0: 40 story items, story length median 341 atoms, max 405
+  answer 1: story partly evicted at answer START in  0/40 items (mean evicted fraction 0.000, max 0.00); by answer END in  4/40 (mean 0.039, max 0.72, fully gone 0); start position median 461, over 480 in 13
+  answer 2: story partly evicted at answer START in 19/40 items (mean evicted fraction 0.072, max 0.91); by answer END in 27/40 (mean 0.155, max 1.00, fully gone 1); start position median 538, over 480 in 26
+  answer 3: story partly evicted at answer START in 27/40 items (mean evicted fraction 0.234, max 1.00); by answer END in 29/40 (mean 0.305, max 1.00, fully gone 1); start position median 637, over 480 in 29
+    G32 story 234 atoms, prompt0 61: evicted at (start,end) per answer (0.00,0.72), (0.91,1.00), (1.00,1.00)
+    G23 story 363 atoms, prompt0 59: evicted at (start,end) per answer (0.00,0.44), (0.58,0.68), (0.80,0.91)
+    G11 story 341 atoms, prompt0 67: evicted at (start,end) per answer (0.00,0.29), (0.41,0.55), (0.65,0.81)
+
+== bytes_v3_s1: 40 story items, story length median 353 atoms, max 397
+  answer 1: story partly evicted at answer START in  0/40 items (mean evicted fraction 0.000, max 0.00); by answer END in  5/40 (mean 0.011, max 0.33, fully gone 0); start position median 482, over 480 in 20
+  answer 2: story partly evicted at answer START in 23/40 items (mean evicted fraction 0.047, max 0.42); by answer END in 30/40 (mean 0.123, max 0.55, fully gone 0); start position median 556, over 480 in 32
+  answer 3: story partly evicted at answer START in 32/40 items (mean evicted fraction 0.215, max 0.65); by answer END in 33/40 (mean 0.321, max 0.72, fully gone 0); start position median 634, over 480 in 33
+    G21 story 372 atoms, prompt0 64: evicted at (start,end) per answer (0.00,0.33), (0.42,0.55), (0.65,0.72)
+    G39 story 348 atoms, prompt0 63: evicted at (start,end) per answer (0.00,0.00), (0.03,0.16), (0.28,0.70)
+    G19 story 333 atoms, prompt0 67: evicted at (start,end) per answer (0.00,0.07), (0.18,0.29), (0.43,0.55)
+
+== bytes_v3_s2: 40 story items, story length median 335 atoms, max 420
+  answer 1: story partly evicted at answer START in  0/40 items (mean evicted fraction 0.000, max 0.00); by answer END in  8/40 (mean 0.009, max 0.10, fully gone 0); start position median 462, over 480 in 12
+  answer 2: story partly evicted at answer START in 17/40 items (mean evicted fraction 0.044, max 0.22); by answer END in 25/40 (mean 0.113, max 0.54, fully gone 0); start position median 544, over 480 in 25
+  answer 3: story partly evicted at answer START in 26/40 items (mean evicted fraction 0.189, max 0.64); by answer END in 27/40 (mean 0.262, max 0.76, fully gone 0); start position median 617, over 480 in 28
+    G11 story 366 atoms, prompt0 67: evicted at (start,end) per answer (0.00,0.00), (0.07,0.54), (0.64,0.76)
+    G35 story 362 atoms, prompt0 63: evicted at (start,end) per answer (0.00,0.10), (0.22,0.36), (0.48,0.57)
+    G25 story 381 atoms, prompt0 59: evicted at (start,end) per answer (0.00,0.04), (0.15,0.24), (0.36,0.53)
+
+== supported rate (2-of-3 majority, NOMAJ kept in the denominator) by whether any story atom had left the window when the answer began
+  bytes_v2 Q1: story intact 9/40 = 22% | partly evicted 0/0
+  bytes_v2 Q2: story intact 2/18 = 11% | partly evicted 4/22 = 18%
+  bytes_v2 Q3: story intact 0/10 = 0% | partly evicted 7/30 = 23%
+  bytes_v2 Qall: story intact 11/68 = 16% | partly evicted 11/52 = 21%
+  bytes_v2 Q1 by answer END: story intact 9/32 = 28% | partly evicted 0/8 = 0%
+  bytes_v2 Q2 by answer END: story intact 1/13 = 8% | partly evicted 5/27 = 19%
+  bytes_v2 Q3 by answer END: story intact 0/10 = 0% | partly evicted 7/30 = 23%
+  bytes_v3 Q1: story intact 29/120 = 24% | partly evicted 0/0
+  bytes_v3 Q2: story intact 12/61 = 20% | partly evicted 6/59 = 10%
+  bytes_v3 Q3: story intact 5/35 = 14% | partly evicted 5/85 = 6%
+  bytes_v3 Qall: story intact 46/216 = 21% | partly evicted 11/144 = 8%
+  bytes_v3 Q1 by answer END: story intact 25/103 = 24% | partly evicted 4/17 = 24%
+  bytes_v3 Q2 by answer END: story intact 8/38 = 21% | partly evicted 10/82 = 12%
+  bytes_v3 Q3 by answer END: story intact 5/31 = 16% | partly evicted 5/89 = 6%

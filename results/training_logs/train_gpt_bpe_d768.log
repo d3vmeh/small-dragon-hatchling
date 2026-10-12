@@ -1,0 +1,271 @@
+corpus: 1.57G atoms (bpe)
+model: 69.2M params (69,232,128; gpt, D=768, bpe) | 54.0 bytes/param on 56.6M core -> 3.06G bytes of text = 48749 steps x 16384 atoms
+step      0/48749  loss 9.1128  26.86 it/s  eta 0.5h
+step    200/48749  loss 5.6568  13.02 it/s  eta 1.0h
+step    400/48749  loss 5.2606  12.93 it/s  eta 1.0h
+step    600/48749  loss 4.7827  12.92 it/s  eta 1.0h
+step    800/48749  loss 6.0988  12.90 it/s  eta 1.0h
+step   1000/48749  loss 4.8200  12.89 it/s  eta 1.0h
+step   1200/48749  loss 4.4971  12.89 it/s  eta 1.0h
+step   1400/48749  loss 4.2939  12.89 it/s  eta 1.0h
+step   1600/48749  loss 3.6454  12.89 it/s  eta 1.0h
+step   1800/48749  loss 4.0115  12.89 it/s  eta 1.0h
+step   2000/48749  loss 3.5633  12.89 it/s  eta 1.0h
+step   2000  VAL 4.2909  [ckpt]
+step   2200/48749  loss 3.8439  10.60 it/s  eta 1.2h
+step   2400/48749  loss 3.4424  12.88 it/s  eta 1.0h
+step   2600/48749  loss 3.9612  12.88 it/s  eta 1.0h
+step   2800/48749  loss 3.8696  12.89 it/s  eta 1.0h
+step   3000/48749  loss 4.0914  12.89 it/s  eta 1.0h
+step   3200/48749  loss 3.0744  12.88 it/s  eta 1.0h
+step   3400/48749  loss 4.0122  12.89 it/s  eta 1.0h
+step   3600/48749  loss 3.7542  12.89 it/s  eta 1.0h
+step   3800/48749  loss 3.6195  12.89 it/s  eta 1.0h
+step   4000/48749  loss 3.9661  12.88 it/s  eta 1.0h
+step   4000  VAL 3.9275  [ckpt]
+step   4200/48749  loss 3.1658  12.37 it/s  eta 1.0h
+step   4400/48749  loss 3.6450  12.88 it/s  eta 1.0h
+step   4600/48749  loss 3.5997  12.89 it/s  eta 1.0h
+step   4800/48749  loss 3.3603  12.89 it/s  eta 0.9h
+step   5000/48749  loss 3.0397  12.89 it/s  eta 0.9h
+step   5200/48749  loss 3.4287  12.89 it/s  eta 0.9h
+step   5400/48749  loss 3.3352  12.89 it/s  eta 0.9h
+step   5600/48749  loss 3.3941  12.89 it/s  eta 0.9h
+step   5800/48749  loss 3.3581  12.89 it/s  eta 0.9h
+step   6000/48749  loss 3.2057  12.89 it/s  eta 0.9h
+step   6000  VAL 3.7344  [ckpt]
+step   6200/48749  loss 3.2095  12.38 it/s  eta 1.0h
+step   6400/48749  loss 3.3869  12.89 it/s  eta 0.9h
+step   6600/48749  loss 3.3221  12.88 it/s  eta 0.9h
+step   6800/48749  loss 3.8804  12.89 it/s  eta 0.9h
+step   7000/48749  loss 3.7011  12.89 it/s  eta 0.9h
+step   7200/48749  loss 3.6550  12.89 it/s  eta 0.9h
+step   7400/48749  loss 2.9849  12.89 it/s  eta 0.9h
+step   7600/48749  loss 2.9541  12.89 it/s  eta 0.9h
+step   7800/48749  loss 3.1462  12.89 it/s  eta 0.9h
+step   8000/48749  loss 3.2244  12.89 it/s  eta 0.9h
+step   8000  VAL 3.6111  [ckpt]
+step   8200/48749  loss 3.1152  12.33 it/s  eta 0.9h
+step   8400/48749  loss 3.9440  12.89 it/s  eta 0.9h
+step   8600/48749  loss 3.1833  12.87 it/s  eta 0.9h
+step   8800/48749  loss 3.0756  12.89 it/s  eta 0.9h
+step   9000/48749  loss 3.3673  12.88 it/s  eta 0.9h
+step   9200/48749  loss 2.5924  12.89 it/s  eta 0.9h
+step   9400/48749  loss 3.5667  12.89 it/s  eta 0.8h
+step   9600/48749  loss 2.7323  12.89 it/s  eta 0.8h
+step   9800/48749  loss 3.4308  12.89 it/s  eta 0.8h
+step  10000/48749  loss 2.5069  12.89 it/s  eta 0.8h
+step  10000  VAL 3.5603  [ckpt]
+step  10200/48749  loss 3.1184  11.27 it/s  eta 1.0h
+step  10400/48749  loss 2.4946  12.90 it/s  eta 0.8h
+step  10600/48749  loss 3.0112  12.89 it/s  eta 0.8h
+step  10800/48749  loss 2.9236  12.89 it/s  eta 0.8h
+step  11000/48749  loss 3.2715  12.89 it/s  eta 0.8h
+step  11200/48749  loss 3.4296  12.89 it/s  eta 0.8h
+step  11400/48749  loss 3.0022  12.89 it/s  eta 0.8h
+step  11600/48749  loss 3.1055  12.89 it/s  eta 0.8h
+step  11800/48749  loss 2.9709  12.89 it/s  eta 0.8h
+step  12000/48749  loss 3.2673  12.89 it/s  eta 0.8h
+step  12000  VAL 3.4540  [ckpt]
+step  12200/48749  loss 3.4799  12.37 it/s  eta 0.8h
+step  12400/48749  loss 3.1484  12.89 it/s  eta 0.8h
+step  12600/48749  loss 3.2033  12.89 it/s  eta 0.8h
+step  12800/48749  loss 3.0527  12.89 it/s  eta 0.8h
+step  13000/48749  loss 3.4559  12.89 it/s  eta 0.8h
+step  13200/48749  loss 3.0080  12.89 it/s  eta 0.8h
+step  13400/48749  loss 3.0462  12.89 it/s  eta 0.8h
+step  13600/48749  loss 3.4967  12.89 it/s  eta 0.8h
+step  13800/48749  loss 3.5326  12.89 it/s  eta 0.8h
+step  14000/48749  loss 3.0200  12.89 it/s  eta 0.7h
+step  14000  VAL 3.4900  [ckpt]
+step  14200/48749  loss 2.8237  12.35 it/s  eta 0.8h
+step  14400/48749  loss 3.5970  12.89 it/s  eta 0.7h
+step  14600/48749  loss 3.3965  12.89 it/s  eta 0.7h
+step  14800/48749  loss 3.3774  12.87 it/s  eta 0.7h
+step  15000/48749  loss 3.2766  12.89 it/s  eta 0.7h
+step  15200/48749  loss 2.9847  12.89 it/s  eta 0.7h
+step  15400/48749  loss 3.3315  12.89 it/s  eta 0.7h
+step  15600/48749  loss 2.6818  12.89 it/s  eta 0.7h
+step  15800/48749  loss 3.4765  12.89 it/s  eta 0.7h
+step  16000/48749  loss 3.3968  12.89 it/s  eta 0.7h
+step  16000  VAL 3.3827  [ckpt]
+step  16200/48749  loss 2.9141  12.37 it/s  eta 0.7h
+step  16400/48749  loss 3.0263  12.90 it/s  eta 0.7h
+step  16600/48749  loss 3.1734  12.89 it/s  eta 0.7h
+step  16800/48749  loss 3.1873  12.89 it/s  eta 0.7h
+step  17000/48749  loss 3.0542  12.89 it/s  eta 0.7h
+step  17200/48749  loss 3.1309  12.89 it/s  eta 0.7h
+step  17400/48749  loss 2.8303  12.89 it/s  eta 0.7h
+step  17600/48749  loss 2.9081  12.89 it/s  eta 0.7h
+step  17800/48749  loss 3.1163  12.89 it/s  eta 0.7h
+step  18000/48749  loss 3.4755  12.89 it/s  eta 0.7h
+step  18000  VAL 3.3485  [ckpt]
+step  18200/48749  loss 3.0588  12.39 it/s  eta 0.7h
+step  18400/48749  loss 2.9078  12.89 it/s  eta 0.7h
+step  18600/48749  loss 3.1374  12.89 it/s  eta 0.6h
+step  18800/48749  loss 2.8629  12.89 it/s  eta 0.6h
+step  19000/48749  loss 3.1669  12.89 it/s  eta 0.6h
+step  19200/48749  loss 3.2886  12.89 it/s  eta 0.6h
+step  19400/48749  loss 2.9648  12.89 it/s  eta 0.6h
+step  19600/48749  loss 3.3697  12.89 it/s  eta 0.6h
+step  19800/48749  loss 2.7027  12.89 it/s  eta 0.6h
+step  20000/48749  loss 3.4028  12.89 it/s  eta 0.6h
+step  20000  VAL 3.3235  [ckpt]
+step  20200/48749  loss 2.8535  12.39 it/s  eta 0.6h
+step  20400/48749  loss 2.4576  12.89 it/s  eta 0.6h
+step  20600/48749  loss 3.0084  12.89 it/s  eta 0.6h
+step  20800/48749  loss 3.1902  12.89 it/s  eta 0.6h
+step  21000/48749  loss 3.0988  12.87 it/s  eta 0.6h
+step  21200/48749  loss 3.1923  12.88 it/s  eta 0.6h
+step  21400/48749  loss 3.3210  12.89 it/s  eta 0.6h
+step  21600/48749  loss 3.1187  12.89 it/s  eta 0.6h
+step  21800/48749  loss 3.5242  12.89 it/s  eta 0.6h
+step  22000/48749  loss 2.9958  12.89 it/s  eta 0.6h
+step  22000  VAL 3.3453  [ckpt]
+step  22200/48749  loss 3.1976  8.65 it/s  eta 0.9h
+step  22400/48749  loss 3.0748  12.90 it/s  eta 0.6h
+step  22600/48749  loss 2.6719  12.89 it/s  eta 0.6h
+step  22800/48749  loss 2.8371  12.89 it/s  eta 0.6h
+step  23000/48749  loss 3.1004  12.89 it/s  eta 0.6h
+step  23200/48749  loss 2.7794  12.89 it/s  eta 0.6h
+step  23400/48749  loss 2.9506  12.89 it/s  eta 0.5h
+step  23600/48749  loss 2.9934  12.88 it/s  eta 0.5h
+step  23800/48749  loss 3.0221  12.89 it/s  eta 0.5h
+step  24000/48749  loss 3.3008  12.88 it/s  eta 0.5h
+step  24000  VAL 3.2693  [ckpt]
+step  24200/48749  loss 2.5683  12.33 it/s  eta 0.6h
+step  24400/48749  loss 2.9122  12.89 it/s  eta 0.5h
+step  24600/48749  loss 2.5816  12.89 it/s  eta 0.5h
+step  24800/48749  loss 3.4541  12.89 it/s  eta 0.5h
+step  25000/48749  loss 3.3734  12.88 it/s  eta 0.5h
+step  25200/48749  loss 2.9629  12.88 it/s  eta 0.5h
+step  25400/48749  loss 2.8877  12.88 it/s  eta 0.5h
+step  25600/48749  loss 3.2183  12.88 it/s  eta 0.5h
+step  25800/48749  loss 3.3306  12.88 it/s  eta 0.5h
+step  26000/48749  loss 3.5486  12.88 it/s  eta 0.5h
+step  26000  VAL 3.2641  [ckpt]
+step  26200/48749  loss 2.4676  12.38 it/s  eta 0.5h
+step  26400/48749  loss 3.1929  12.89 it/s  eta 0.5h
+step  26600/48749  loss 2.8997  12.89 it/s  eta 0.5h
+step  26800/48749  loss 3.3301  12.89 it/s  eta 0.5h
+step  27000/48749  loss 3.3707  12.87 it/s  eta 0.5h
+step  27200/48749  loss 2.8575  12.89 it/s  eta 0.5h
+step  27400/48749  loss 3.0551  12.89 it/s  eta 0.5h
+step  27600/48749  loss 2.5082  12.89 it/s  eta 0.5h
+step  27800/48749  loss 3.1320  12.89 it/s  eta 0.5h
+step  28000/48749  loss 3.1217  12.89 it/s  eta 0.4h
+step  28000  VAL 3.2542  [ckpt]
+step  28200/48749  loss 3.3082  12.39 it/s  eta 0.5h
+step  28400/48749  loss 3.0309  12.89 it/s  eta 0.4h
+step  28600/48749  loss 2.8312  12.89 it/s  eta 0.4h
+step  28800/48749  loss 2.6034  12.89 it/s  eta 0.4h
+step  29000/48749  loss 3.1945  12.89 it/s  eta 0.4h
+step  29200/48749  loss 3.0018  12.89 it/s  eta 0.4h
+step  29400/48749  loss 2.6807  12.89 it/s  eta 0.4h
+step  29600/48749  loss 2.7613  12.89 it/s  eta 0.4h
+step  29800/48749  loss 2.2415  12.89 it/s  eta 0.4h
+step  30000/48749  loss 3.2997  12.89 it/s  eta 0.4h
+step  30000  VAL 3.1637  [ckpt]
+step  30200/48749  loss 2.9697  12.37 it/s  eta 0.4h
+step  30400/48749  loss 2.4604  12.89 it/s  eta 0.4h
+step  30600/48749  loss 3.3601  12.89 it/s  eta 0.4h
+step  30800/48749  loss 2.8827  12.89 it/s  eta 0.4h
+step  31000/48749  loss 3.3703  12.89 it/s  eta 0.4h
+step  31200/48749  loss 3.0897  12.89 it/s  eta 0.4h
+step  31400/48749  loss 2.9811  12.89 it/s  eta 0.4h
+step  31600/48749  loss 2.7683  12.89 it/s  eta 0.4h
+step  31800/48749  loss 2.9669  12.89 it/s  eta 0.4h
+step  32000/48749  loss 3.0673  12.89 it/s  eta 0.4h
+step  32000  VAL 3.1392  [ckpt]
+step  32200/48749  loss 2.7411  12.39 it/s  eta 0.4h
+step  32400/48749  loss 2.5224  12.89 it/s  eta 0.4h
+step  32600/48749  loss 3.0989  12.89 it/s  eta 0.3h
+step  32800/48749  loss 3.0898  12.89 it/s  eta 0.3h
+step  33000/48749  loss 3.1272  12.89 it/s  eta 0.3h
+step  33200/48749  loss 2.5039  12.87 it/s  eta 0.3h
+step  33400/48749  loss 2.8003  12.89 it/s  eta 0.3h
+step  33600/48749  loss 3.0674  12.89 it/s  eta 0.3h
+step  33800/48749  loss 3.1633  12.89 it/s  eta 0.3h
+step  34000/48749  loss 2.7200  12.88 it/s  eta 0.3h
+step  34000  VAL 3.1692  [ckpt]
+step  34200/48749  loss 2.8015  12.38 it/s  eta 0.3h
+step  34400/48749  loss 2.4484  12.89 it/s  eta 0.3h
+step  34600/48749  loss 3.0661  12.89 it/s  eta 0.3h
+step  34800/48749  loss 2.8360  12.89 it/s  eta 0.3h
+step  35000/48749  loss 3.0042  12.89 it/s  eta 0.3h
+step  35200/48749  loss 2.9743  12.89 it/s  eta 0.3h
+step  35400/48749  loss 2.9448  12.89 it/s  eta 0.3h
+step  35600/48749  loss 2.6950  12.89 it/s  eta 0.3h
+step  35800/48749  loss 2.7050  12.89 it/s  eta 0.3h
+step  36000/48749  loss 2.5832  12.89 it/s  eta 0.3h
+step  36000  VAL 3.1326  [ckpt]
+step  36200/48749  loss 2.6508  12.34 it/s  eta 0.3h
+step  36400/48749  loss 2.8558  12.89 it/s  eta 0.3h
+step  36600/48749  loss 2.4171  12.89 it/s  eta 0.3h
+step  36800/48749  loss 3.2211  12.89 it/s  eta 0.3h
+step  37000/48749  loss 2.6618  12.89 it/s  eta 0.3h
+step  37200/48749  loss 3.3230  12.89 it/s  eta 0.2h
+step  37400/48749  loss 2.4800  12.89 it/s  eta 0.2h
+step  37600/48749  loss 2.6372  12.89 it/s  eta 0.2h
+step  37800/48749  loss 2.7256  12.89 it/s  eta 0.2h
+step  38000/48749  loss 2.8123  12.89 it/s  eta 0.2h
+step  38000  VAL 3.1472  [ckpt]
+step  38200/48749  loss 2.5718  12.37 it/s  eta 0.2h
+step  38400/48749  loss 2.2171  12.90 it/s  eta 0.2h
+step  38600/48749  loss 2.8485  12.89 it/s  eta 0.2h
+step  38800/48749  loss 3.3238  12.89 it/s  eta 0.2h
+step  39000/48749  loss 2.3440  12.89 it/s  eta 0.2h
+step  39200/48749  loss 2.4520  12.89 it/s  eta 0.2h
+step  39400/48749  loss 2.7121  12.88 it/s  eta 0.2h
+step  39600/48749  loss 2.6210  12.89 it/s  eta 0.2h
+step  39800/48749  loss 2.8970  12.90 it/s  eta 0.2h
+step  40000/48749  loss 2.7412  12.89 it/s  eta 0.2h
+step  40000  VAL 3.0422  [ckpt]
+step  40200/48749  loss 2.7632  12.39 it/s  eta 0.2h
+step  40400/48749  loss 2.5930  12.89 it/s  eta 0.2h
+step  40600/48749  loss 3.0055  12.89 it/s  eta 0.2h
+step  40800/48749  loss 2.6247  12.89 it/s  eta 0.2h
+step  41000/48749  loss 2.7805  12.89 it/s  eta 0.2h
+step  41200/48749  loss 2.9559  12.89 it/s  eta 0.2h
+step  41400/48749  loss 3.0902  12.89 it/s  eta 0.2h
+step  41600/48749  loss 2.4530  12.89 it/s  eta 0.2h
+step  41800/48749  loss 3.0886  12.89 it/s  eta 0.1h
+step  42000/48749  loss 2.8221  12.89 it/s  eta 0.1h
+step  42000  VAL 3.1021  [ckpt]
+step  42200/48749  loss 2.8681  12.33 it/s  eta 0.1h
+step  42400/48749  loss 2.7935  12.90 it/s  eta 0.1h
+step  42600/48749  loss 2.5412  12.90 it/s  eta 0.1h
+step  42800/48749  loss 2.6540  12.89 it/s  eta 0.1h
+step  43000/48749  loss 3.0895  12.89 it/s  eta 0.1h
+step  43200/48749  loss 3.0665  12.89 it/s  eta 0.1h
+step  43400/48749  loss 2.8820  12.89 it/s  eta 0.1h
+step  43600/48749  loss 2.5162  12.89 it/s  eta 0.1h
+step  43800/48749  loss 3.1008  12.89 it/s  eta 0.1h
+step  44000/48749  loss 2.4809  12.89 it/s  eta 0.1h
+step  44000  VAL 2.9947  [ckpt]
+step  44200/48749  loss 2.4678  12.34 it/s  eta 0.1h
+step  44400/48749  loss 2.3367  12.89 it/s  eta 0.1h
+step  44600/48749  loss 2.2387  12.89 it/s  eta 0.1h
+step  44800/48749  loss 2.8276  12.89 it/s  eta 0.1h
+step  45000/48749  loss 2.6242  12.89 it/s  eta 0.1h
+step  45200/48749  loss 2.9920  12.89 it/s  eta 0.1h
+step  45400/48749  loss 2.8183  12.88 it/s  eta 0.1h
+step  45600/48749  loss 3.0183  12.89 it/s  eta 0.1h
+step  45800/48749  loss 2.7060  12.89 it/s  eta 0.1h
+step  46000/48749  loss 3.0740  12.89 it/s  eta 0.1h
+step  46000  VAL 3.0366  [ckpt]
+step  46200/48749  loss 3.1160  12.39 it/s  eta 0.1h
+step  46400/48749  loss 3.0375  12.90 it/s  eta 0.1h
+step  46600/48749  loss 2.8349  12.89 it/s  eta 0.0h
+step  46800/48749  loss 2.5095  12.89 it/s  eta 0.0h
+step  47000/48749  loss 2.7850  12.89 it/s  eta 0.0h
+step  47200/48749  loss 2.8450  12.89 it/s  eta 0.0h
+step  47400/48749  loss 2.7479  12.89 it/s  eta 0.0h
+step  47600/48749  loss 3.0881  12.89 it/s  eta 0.0h
+step  47800/48749  loss 2.5657  12.89 it/s  eta 0.0h
+step  48000/48749  loss 2.6672  12.89 it/s  eta 0.0h
+step  48000  VAL 3.0803  [ckpt]
+step  48200/48749  loss 3.0652  12.37 it/s  eta 0.0h
+step  48400/48749  loss 2.6684  12.89 it/s  eta 0.0h
+step  48600/48749  loss 2.4894  12.89 it/s  eta 0.0h
+FINAL val 3.0958 — 1.06h

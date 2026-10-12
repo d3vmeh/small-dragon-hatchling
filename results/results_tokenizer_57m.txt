@@ -1,0 +1,5 @@
+=== tokenizer study, night 1: bits per character (lower = better) ===
+bytes arm: 1.3855 bpc   (steps 13272, val 0.9834 nats/byte)
+bpe-8k arm: 1.2107 bpc   (steps 13175, val 3.3653 nats/token)
+
+delta (bytes - bpe): +0.1748 bpc  -> BPE wins

@@ -1,0 +1,1212 @@
+{
+ "tag": "bytes_v2",
+ "seed": 0,
+ "judges": {
+  "opus": "claude-opus-5 (existing exam verdicts)",
+  "gpt": "gpt-5.6-sol",
+  "deepseek": "deepseek-v4-pro"
+ },
+ "system_prompt": "You judge whether an ANSWER to a QUESTION is supported by a STORY. Use ONLY the story text; no outside knowledge.\nOutput exactly one word:\nSUPPORTED (the answer states something the story says), CONTRADICTED (the story says otherwise),\nUNSUPPORTED (nothing in the story decides it), EVASIVE (not an answer to the question).",
+ "rows": [
+  {
+   "id": "G00",
+   "q": 0,
+   "qtype": "color",
+   "question": "What color was it?",
+   "answer": "It was brown.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G00",
+   "q": 1,
+   "qtype": "find",
+   "question": "What did she find?",
+   "answer": "She found a big brown bug.",
+   "opus": "CONTRADICTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "CONTRADICTED"
+  },
+  {
+   "id": "G00",
+   "q": 2,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "It happened in a big brown box.",
+   "opus": "UNSUPPORTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G01",
+   "q": 0,
+   "qtype": "name",
+   "question": "What was the boy's name?",
+   "answer": "His name was Tom.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G01",
+   "q": 1,
+   "qtype": "howmany",
+   "question": "How many pets were there?",
+   "answer": "There were two pets.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G01",
+   "q": 2,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "Tom was from the story.",
+   "opus": "UNSUPPORTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G02",
+   "q": 0,
+   "qtype": "howmany",
+   "question": "How many boats were there?",
+   "answer": "There were still boats on the sea.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G02",
+   "q": 1,
+   "qtype": "name",
+   "question": "What was the child's name?",
+   "answer": "The child's name was Tom.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G02",
+   "q": 2,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "Tom was a painter.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G03",
+   "q": 0,
+   "qtype": "name",
+   "question": "What was the dog's name?",
+   "answer": "His name was Dog.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G03",
+   "q": 1,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "His mom was in the store.",
+   "opus": "SUPPORTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "CONTRADICTED"
+  },
+  {
+   "id": "G03",
+   "q": 2,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "He packed his thumbprints.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G04",
+   "q": 0,
+   "qtype": "name",
+   "question": "What was the friend's name?",
+   "answer": "His name was Ben.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G04",
+   "q": 1,
+   "qtype": "find",
+   "question": "What did they find?",
+   "answer": "They found something they found.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G04",
+   "q": 2,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "His name was Ben.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G05",
+   "q": 0,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "On the step.",
+   "opus": "CONTRADICTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "CONTRADICTED"
+  },
+  {
+   "id": "G05",
+   "q": 1,
+   "qtype": "name",
+   "question": "What was the cat's name?",
+   "answer": "His name was Fluff.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G05",
+   "q": 2,
+   "qtype": "howmany",
+   "question": "How many cats were there?",
+   "answer": "There were all cats there.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G06",
+   "q": 0,
+   "qtype": "find",
+   "question": "What did she find?",
+   "answer": "She found a big tower.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G06",
+   "q": 1,
+   "qtype": "end",
+   "question": "What happened at the end?",
+   "answer": "She found a big tower.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G06",
+   "q": 2,
+   "qtype": "howmany",
+   "question": "How many cookies were there?",
+   "answer": "She found a big tower.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G07",
+   "q": 0,
+   "qtype": "howmany",
+   "question": "How many blocks were there?",
+   "answer": "Tom built a tall tower.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G07",
+   "q": 1,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "Mom and dad were in shock.",
+   "opus": "UNSUPPORTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G07",
+   "q": 2,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "Tom built the tower.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G08",
+   "q": 0,
+   "qtype": "find",
+   "question": "What did they find?",
+   "answer": "They found a big cup and a spoon.",
+   "opus": "UNSUPPORTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G08",
+   "q": 1,
+   "qtype": "name",
+   "question": "What was the family's name?",
+   "answer": "The family was very old.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G08",
+   "q": 2,
+   "qtype": "howmany",
+   "question": "How many sandwiches were there?",
+   "answer": "Ten sandwiches were there.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G09",
+   "q": 0,
+   "qtype": "color",
+   "question": "What color was it?",
+   "answer": "It was gray.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G09",
+   "q": 1,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "It happened in the big blue sea.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G09",
+   "q": 2,
+   "qtype": "find",
+   "question": "What did it find?",
+   "answer": "It found a stone.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G10",
+   "q": 0,
+   "qtype": "name",
+   "question": "What was the child's name?",
+   "answer": "His name was Sam.",
+   "opus": "CONTRADICTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "CONTRADICTED"
+  },
+  {
+   "id": "G10",
+   "q": 1,
+   "qtype": "howmany",
+   "question": "How many toys were there?",
+   "answer": "There were two toys.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G10",
+   "q": 2,
+   "qtype": "color",
+   "question": "What color was it?",
+   "answer": "It was red.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G11",
+   "q": 0,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "Lily thought about the ball.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G11",
+   "q": 1,
+   "qtype": "end",
+   "question": "What happened at the end?",
+   "answer": "Pat and Tom played with the ball.",
+   "opus": "CONTRADICTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G11",
+   "q": 2,
+   "qtype": "find",
+   "question": "What did they find?",
+   "answer": "They found a big box of stuff.",
+   "opus": "CONTRADICTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "CONTRADICTED"
+  },
+  {
+   "id": "G12",
+   "q": 0,
+   "qtype": "howmany",
+   "question": "How many animals were there?",
+   "answer": "Two animals were there.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G12",
+   "q": 1,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "His dad ? ?Under the bed.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G12",
+   "q": 2,
+   "qtype": "find",
+   "question": "What did they find?",
+   "answer": "They found a huge problem.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G13",
+   "q": 0,
+   "qtype": "name",
+   "question": "What was the boy's name?",
+   "answer": "His name was There.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G13",
+   "q": 1,
+   "qtype": "howmany",
+   "question": "How many boxes were there?",
+   "answer": "There were all of them.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G13",
+   "q": 2,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "There was a big gold box.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G14",
+   "q": 0,
+   "qtype": "name",
+   "question": "What was the girl's name?",
+   "answer": "Her name was Mia.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G14",
+   "q": 1,
+   "qtype": "howmany",
+   "question": "How many seeds were there?",
+   "answer": "There were seeds in the big tin.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G14",
+   "q": 2,
+   "qtype": "find",
+   "question": "What did she find?",
+   "answer": "She found a green seed.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G15",
+   "q": 0,
+   "qtype": "end",
+   "question": "What happened at the end?",
+   "answer": "She found a piece of paper and created a beautiful flower.",
+   "opus": "UNSUPPORTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G15",
+   "q": 1,
+   "qtype": "howmany",
+   "question": "How many flowers were there?",
+   "answer": "There were flowers in it.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G15",
+   "q": 2,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "It happened in it.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G16",
+   "q": 0,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "He found a small box under a tree.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G16",
+   "q": 1,
+   "qtype": "howmany",
+   "question": "How many pets were there?",
+   "answer": "There were two pets.",
+   "opus": "UNSUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G16",
+   "q": 2,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "Mom and Dad enjoyed reading the book together.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G17",
+   "q": 0,
+   "qtype": "color",
+   "question": "What color was it?",
+   "answer": "It was fluffy and white.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G17",
+   "q": 1,
+   "qtype": "find",
+   "question": "What did they find?",
+   "answer": "They found some sticks and leaves.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G17",
+   "q": 2,
+   "qtype": "end",
+   "question": "What happened at the end?",
+   "answer": "Sea warmed and nice clouds floated.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G18",
+   "q": 0,
+   "qtype": "name",
+   "question": "What was the dog's name?",
+   "answer": "His name was Max.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G18",
+   "q": 1,
+   "qtype": "howmany",
+   "question": "How many dogs were there?",
+   "answer": "There were all dogs in the hospital.",
+   "opus": "EVASIVE",
+   "gpt": "CONTRADICTED",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G18",
+   "q": 2,
+   "qtype": "color",
+   "question": "What color was it?",
+   "answer": "It was warm.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G19",
+   "q": 0,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "Tom heard a loud roar in the sky.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G19",
+   "q": 1,
+   "qtype": "color",
+   "question": "What color was it?",
+   "answer": "It was black.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G19",
+   "q": 2,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "A little bird named Pip did it.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G20",
+   "q": 0,
+   "qtype": "howmany",
+   "question": "How many cats were there?",
+   "answer": "There were five cats.",
+   "opus": "CONTRADICTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G20",
+   "q": 1,
+   "qtype": "name",
+   "question": "What was the cat's name?",
+   "answer": "Her name was Max.",
+   "opus": "CONTRADICTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "CONTRADICTED"
+  },
+  {
+   "id": "G20",
+   "q": 2,
+   "qtype": "end",
+   "question": "What happened at the end?",
+   "answer": "He got lost and cried.",
+   "opus": "CONTRADICTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "CONTRADICTED"
+  },
+  {
+   "id": "G21",
+   "q": 0,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "Behind a big green field.",
+   "opus": "CONTRADICTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G21",
+   "q": 1,
+   "qtype": "find",
+   "question": "What did she find?",
+   "answer": "She found a surprising double barn.",
+   "opus": "CONTRADICTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "CONTRADICTED"
+  },
+  {
+   "id": "G21",
+   "q": 2,
+   "qtype": "color",
+   "question": "What color was it?",
+   "answer": "It was green.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G22",
+   "q": 0,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "It happened again.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G22",
+   "q": 1,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "Ben did not succeed.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G22",
+   "q": 2,
+   "qtype": "name",
+   "question": "What was the boy's name?",
+   "answer": "His name was Sam.",
+   "opus": "CONTRADICTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "CONTRADICTED"
+  },
+  {
+   "id": "G23",
+   "q": 0,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "Mom did.",
+   "opus": "UNSUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G23",
+   "q": 1,
+   "qtype": "howmany",
+   "question": "How many sandwiches were there?",
+   "answer": "Two sandwiches.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G23",
+   "q": 2,
+   "qtype": "end",
+   "question": "What happened at the end?",
+   "answer": "The family put the bowl down.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G24",
+   "q": 0,
+   "qtype": "color",
+   "question": "What color was it?",
+   "answer": "It was gray.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G24",
+   "q": 1,
+   "qtype": "end",
+   "question": "What happened at the end?",
+   "answer": "The branch began to move.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G24",
+   "q": 2,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "The birds were in the story.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G25",
+   "q": 0,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "Mom told Sam to be careful. She said the storm was going to increase.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G25",
+   "q": 1,
+   "qtype": "howmany",
+   "question": "How many toys were there?",
+   "answer": "There were toys on the storm.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G25",
+   "q": 2,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "Not Cnt.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G26",
+   "q": 0,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "Tom and Mia.",
+   "opus": "UNSUPPORTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G26",
+   "q": 1,
+   "qtype": "name",
+   "question": "What was the kid's name?",
+   "answer": "His name was Tom.",
+   "opus": "CONTRADICTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "CONTRADICTED"
+  },
+  {
+   "id": "G26",
+   "q": 2,
+   "qtype": "color",
+   "question": "What color was it?",
+   "answer": "It was white.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G27",
+   "q": 0,
+   "qtype": "end",
+   "question": "What happened at the end?",
+   "answer": "Tom and his dad clapped and cheered.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G27",
+   "q": 1,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "Nobody came to them.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G27",
+   "q": 2,
+   "qtype": "name",
+   "question": "What was the child's name?",
+   "answer": "The child's name was Tom.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G28",
+   "q": 0,
+   "qtype": "end",
+   "question": "What happened at the end?",
+   "answer": "He found a bottle of wine.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G28",
+   "q": 1,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "A boy named Sam was in the story.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G28",
+   "q": 2,
+   "qtype": "color",
+   "question": "What color was it?",
+   "answer": "It was blue.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G29",
+   "q": 0,
+   "qtype": "end",
+   "question": "What happened at the end?",
+   "answer": "The sky became dark and it began to rain.",
+   "opus": "CONTRADICTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "CONTRADICTED"
+  },
+  {
+   "id": "G29",
+   "q": 1,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "She ran home to get her big slide.",
+   "opus": "EVASIVE",
+   "gpt": "CONTRADICTED",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G29",
+   "q": 2,
+   "qtype": "color",
+   "question": "What color was it?",
+   "answer": "It was dark.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G30",
+   "q": 0,
+   "qtype": "end",
+   "question": "What happened at the end?",
+   "answer": "The girl drew a big sun.",
+   "opus": "CONTRADICTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "CONTRADICTED"
+  },
+  {
+   "id": "G30",
+   "q": 1,
+   "qtype": "color",
+   "question": "What color was it?",
+   "answer": "It was blue.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G30",
+   "q": 2,
+   "qtype": "name",
+   "question": "What was the girl's name?",
+   "answer": "Her name was Dan.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G31",
+   "q": 0,
+   "qtype": "color",
+   "question": "What color was it?",
+   "answer": "It was green.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G31",
+   "q": 1,
+   "qtype": "find",
+   "question": "What did he find?",
+   "answer": "He found a new bug.",
+   "opus": "CONTRADICTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "CONTRADICTED"
+  },
+  {
+   "id": "G31",
+   "q": 2,
+   "qtype": "howmany",
+   "question": "How many pets were there?",
+   "answer": "He found new ones.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G32",
+   "q": 0,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "The story took place in a big boat. The wealthy man was scared. He wanted to escape and see the fish.",
+   "opus": "CONTRADICTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "CONTRADICTED"
+  },
+  {
+   "id": "G32",
+   "q": 1,
+   "qtype": "name",
+   "question": "What was the child's name?",
+   "answer": "The child was named Tim.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G32",
+   "q": 2,
+   "qtype": "find",
+   "question": "What did they find?",
+   "answer": "They found a big fish.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G33",
+   "q": 0,
+   "qtype": "find",
+   "question": "What did it find?",
+   "answer": "It found a big pile of dirt.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G33",
+   "q": 1,
+   "qtype": "end",
+   "question": "What happened at the end?",
+   "answer": "He dug again and again.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G33",
+   "q": 2,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "Ruby was in the story.",
+   "opus": "UNSUPPORTED",
+   "gpt": "CONTRADICTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G34",
+   "q": 0,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "It happened in the wood.",
+   "opus": "SUPPORTED",
+   "gpt": "SUPPORTED",
+   "deepseek": "SUPPORTED"
+  },
+  {
+   "id": "G34",
+   "q": 1,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "The animals came to the cave.",
+   "opus": "CONTRADICTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G34",
+   "q": 2,
+   "qtype": "name",
+   "question": "What was the friend's name?",
+   "answer": "The friend was a rabbit.",
+   "opus": "EVASIVE",
+   "gpt": "CONTRADICTED",
+   "deepseek": "CONTRADICTED"
+  },
+  {
+   "id": "G35",
+   "q": 0,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "He hid in a small blue pocket.",
+   "opus": "EVASIVE",
+   "gpt": "CONTRADICTED",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G35",
+   "q": 1,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "Tim was ready to help.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G35",
+   "q": 2,
+   "qtype": "howmany",
+   "question": "How many cats were there?",
+   "answer": "There were cats in a story.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G36",
+   "q": 0,
+   "qtype": "find",
+   "question": "What did she find?",
+   "answer": "She found a cake.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G36",
+   "q": 1,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "Her grandmother read the story in the big book. The book was about a brave princess.",
+   "opus": "EVASIVE",
+   "gpt": "CONTRADICTED",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G36",
+   "q": 2,
+   "qtype": "howmany",
+   "question": "How many cookies were there?",
+   "answer": "There were useful cookies.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G37",
+   "q": 0,
+   "qtype": "end",
+   "question": "What happened at the end?",
+   "answer": "The fish wanted to get off the board.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G37",
+   "q": 1,
+   "qtype": "where",
+   "question": "Where did the story happen?",
+   "answer": "Bob used his big fish named Sam.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G37",
+   "q": 2,
+   "qtype": "color",
+   "question": "What color was it?",
+   "answer": "It was fish.",
+   "opus": "EVASIVE",
+   "gpt": "EVASIVE",
+   "deepseek": "EVASIVE"
+  },
+  {
+   "id": "G38",
+   "q": 0,
+   "qtype": "find",
+   "question": "What did they find?",
+   "answer": "They found a big box of things they found in the house.",
+   "opus": "CONTRADICTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G38",
+   "q": 1,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "Dad and Sam were friends.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G38",
+   "q": 2,
+   "qtype": "name",
+   "question": "What was the family's name?",
+   "answer": "The family was named Dad.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G39",
+   "q": 0,
+   "qtype": "find",
+   "question": "What did it find?",
+   "answer": "It found a small bird with beautiful wings.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G39",
+   "q": 1,
+   "qtype": "who",
+   "question": "Who else was in the story?",
+   "answer": "The king of Scots was the king.",
+   "opus": "UNSUPPORTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  },
+  {
+   "id": "G39",
+   "q": 2,
+   "qtype": "end",
+   "question": "What happened at the end?",
+   "answer": "The king elected a pope.",
+   "opus": "CONTRADICTED",
+   "gpt": "UNSUPPORTED",
+   "deepseek": "UNSUPPORTED"
+  }
+ ]
+}

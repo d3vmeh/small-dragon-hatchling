@@ -1,0 +1,14 @@
+bpe_v2_s0    first: 1/4 of valid lists, 1/9 of all asked | second: 0/5 of valid lists, 0/12 of all asked | last: 0/2 of valid lists, 0/6 of all asked | howmany: 0/5 of valid lists, 0/13 of all asked
+bpe_v3_s0    first: 4/6 of valid lists, 4/9 of all asked | second: 4/9 of valid lists, 4/12 of all asked | last: 2/3 of valid lists, 2/6 of all asked | howmany: 8/8 of valid lists, 8/13 of all asked
+bpe_v3_s1    first: 5/8 of valid lists, 5/9 of all asked | second: 3/9 of valid lists, 3/12 of all asked | last: 3/3 of valid lists, 3/6 of all asked | howmany: 11/12 of valid lists, 11/13 of all asked
+bpe_v3_s2    first: 5/8 of valid lists, 5/9 of all asked | second: 5/10 of valid lists, 5/12 of all asked | last: 3/4 of valid lists, 3/6 of all asked | howmany: 10/10 of valid lists, 10/13 of all asked
+bytes_v2_s0  first: 0/6 of valid lists, 0/9 of all asked | second: 0/4 of valid lists, 0/12 of all asked | last: 0/2 of valid lists, 0/6 of all asked | howmany: 2/6 of valid lists, 2/13 of all asked
+bytes_v3_s0  first: 6/8 of valid lists, 6/9 of all asked | second: 0/10 of valid lists, 0/12 of all asked | last: 1/4 of valid lists, 1/6 of all asked | howmany: 10/10 of valid lists, 10/13 of all asked
+bytes_v3_s1  first: 6/7 of valid lists, 6/9 of all asked | second: 1/10 of valid lists, 1/12 of all asked | last: 1/6 of valid lists, 1/6 of all asked | howmany: 11/11 of valid lists, 11/13 of all asked
+bytes_v3_s2  first: 6/8 of valid lists, 6/9 of all asked | second: 1/10 of valid lists, 1/12 of all asked | last: 1/5 of valid lists, 1/6 of all asked | howmany: 10/11 of valid lists, 10/13 of all asked
+
+mean over seeds (valid-list rate as in Table 7 / end-to-end rate)
+bytes_v2  (1 seed)  first 0% / 0%  second 0% / 0%  last 0% / 0%  howmany 33% / 15%
+bytes_v3  (3 seeds)  first 79% / 67%  second 7% / 6%  last 21% / 17%  howmany 97% / 79%
+bpe_v2    (1 seed)  first 25% / 11%  second 0% / 0%  last 0% / 0%  howmany 0% / 0%
+bpe_v3    (3 seeds)  first 64% / 52%  second 43% / 33%  last 81% / 44%  howmany 97% / 74%

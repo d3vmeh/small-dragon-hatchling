@@ -1,0 +1,6 @@
+=== matched-TEXT 100M verdict: bits per character on external held-out text (FineWeb-Edu shard 013 + TinyStories validation) ===
+            bytes-100M  bpe8k-100M     delta
+fineweb         1.1239      1.0431   +0.0808
+tinystories      0.6660      0.5919   +0.0741
+combined        0.9714      0.8927   +0.0787
+(steps: bytes 164999, bpe 85999)  -> BPE wins at matched text

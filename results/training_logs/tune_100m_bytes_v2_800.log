@@ -1,0 +1,12 @@
+loaded ckpt_h100.pt (step 164999) | 800 iters x batch 32 (micro 4)
+7360 train / 500 val examples
+val before: 0.6948
+tune    0  loss 0.6820  1.78 s/it
+tune  100  loss 0.2964  1.78 s/it
+tune  200  loss 0.2441  1.78 s/it
+tune  300  loss 0.1703  1.78 s/it
+tune  400  loss 0.1398  1.78 s/it
+tune  500  loss 0.1723  1.78 s/it
+tune  600  loss 0.1037  1.78 s/it
+tune  700  loss 0.1054  1.78 s/it
+val after: 0.2357  (23.7 min) -> ckpt_h100_chat_v2_800.pt

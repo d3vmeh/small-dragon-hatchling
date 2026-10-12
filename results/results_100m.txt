@@ -3,4 +3,5 @@
 fineweb         1.1180      1.0390   +0.0790
 tinystories     0.6660      0.5919   +0.0741
 combined        1.0423      0.9641   +0.0782
-(steps: bytes 164999, bpe 82000)  -> BPE wins at matched text
+(steps: bytes 164999, bpe 85999)  -> BPE wins at matched text
+# 2026-10-12: steps line corrected (bpe 82000 -> 85999, the final checkpoint of the 86,000-step run). Scores unchanged.

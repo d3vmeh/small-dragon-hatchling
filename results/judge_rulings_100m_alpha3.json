@@ -1,0 +1,2528 @@
+{
+ "claude-opus-5": {
+  "0": {
+   "coherence": "A",
+   "instruction": "tie",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A has clearer arc; B's shadow logic is nonsensical, ends abruptly."
+  },
+  "1": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A tells a complete story; B contradicts itself and cuts off midway."
+  },
+  "2": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "A contradicts itself (runs home yet stays); B is consistent and clear."
+  },
+  "3": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A tells a boat story coherently; B is off-topic, contradictory, truncated."
+  },
+  "4": {
+   "coherence": "B",
+   "instruction": "tie",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B reads naturally though truncated; A is confusing and contradictory."
+  },
+  "5": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is coherent and rain-themed; A is disjointed and off-topic."
+  },
+  "6": {
+   "coherence": "B",
+   "instruction": "tie",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B reads more naturally; A's \"reverse a rock\" is nonsensical and repetitive."
+  },
+  "7": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "A has garbled text and abrupt cutoff; B is repetitive but coherent."
+  },
+  "8": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is about the moon and coherent; B drifts off-topic and cuts off."
+  },
+  "9": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A flows better; B has grammar errors and illogical ending."
+  },
+  "10": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is about a snowman; A is off-topic and repetitive."
+  },
+  "11": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "A ignores animals; B is on-topic despite logic slips like \"good cat\"."
+  },
+  "12": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is coherent and touches restlessness; A contradicts itself with odd details."
+  },
+  "13": {
+   "coherence": "B",
+   "instruction": "tie",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is coherent and kind-themed; A contradicts itself and lacks giant/kindness."
+  },
+  "14": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is three sentences about a cat; B is four sentences, no cat."
+  },
+  "15": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A tells a complete happy story; B is garbled and incomplete; neither mentions winter."
+  },
+  "16": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "B is cut off mid-story; A at least completes, though no real surprise."
+  },
+  "17": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B tells complete coherent story; A is repetitive and ends abruptly unresolved."
+  },
+  "18": {
+   "coherence": "B",
+   "instruction": "tie",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B reads more naturally as a story; A's actions are nonsensical, though B ends abruptly."
+  },
+  "19": {
+   "coherence": "tie",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A at least features a fish; B drifts to sailor with grammar errors."
+  },
+  "20": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "Both correct; A repeats \"honey\" awkwardly, B adds natural detail."
+  },
+  "21": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Responses are identical apart from a leading space."
+  },
+  "22": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is coherent and natural; B is circular and nonsensical."
+  },
+  "23": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A identifies the sun as a star; B is minimal and uninformative."
+  },
+  "24": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A answers directly; B adds nonsensical second sentence."
+  },
+  "25": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A vaguely addresses reasons; B is unrelated nonsense."
+  },
+  "26": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B directly answers about plants; A's seeds/roots framing is off-target."
+  },
+  "27": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Identical content; only a leading space differs."
+  },
+  "28": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "A is gibberish; B is coherent though factually off-topic."
+  },
+  "29": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "A is garbled and incoherent; B is brief but correct and clear."
+  },
+  "30": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "Both correct and brief; B phrases it slightly more naturally and informatively."
+  },
+  "31": {
+   "coherence": "B",
+   "instruction": "tie",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "A is nonsensical and ungrammatical; B is trivial but coherent."
+  },
+  "32": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is circular but sensible; B's \"walks and drives\" is nonsense."
+  },
+  "33": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "A is circular and empty; B attempts a reason, though inaccurate."
+  },
+  "34": {
+   "coherence": "B",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "tie",
+   "reason": "A is fluent but factually wrong; B is coherent but repetitive and empty."
+  },
+  "35": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A gives accurate relevant answer; B is factually confused and nonsensical."
+  },
+  "36": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A attempts an explanation; B merely restates prompt tautologically."
+  },
+  "37": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "B is empty tautology; A at least attempts description despite inaccuracy."
+  },
+  "38": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A gives simple relevant explanation; B is incoherent nonsense."
+  },
+  "39": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "A says \"white white air,\" incoherent; B is clear and accurate."
+  },
+  "40": {
+   "coherence": "tie",
+   "instruction": "B",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "B gives more explanatory detail about nutrients; A is minimal."
+  },
+  "41": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "B is factually wrong and confused; A is brief but sensible."
+  },
+  "42": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "tie",
+   "reason": "A coherent but off-topic; B on-topic but factually wrong and garbled."
+  },
+  "43": {
+   "coherence": "tie",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A is on-topic but trivial; B is fluent yet factually absurd and off-topic."
+  },
+  "44": {
+   "coherence": "tie",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A is minimal but on-topic; B is fluent yet entirely irrelevant."
+  },
+  "45": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "A truncates mid-sentence and is wrong; B is complete though imprecise."
+  },
+  "46": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "A is fluent but factually wrong; B at least addresses the metamorphosis topic."
+  },
+  "47": {
+   "coherence": "A",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "Both ignore the question; A is more coherent and fluent."
+  },
+  "48": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both list three animals correctly and concisely; equally fluent."
+  },
+  "49": {
+   "coherence": "tie",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "A stops at four; B correctly counts to five."
+  },
+  "50": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both answer identically and correctly."
+  },
+  "51": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Identical answers; B has stray leading space, negligible difference."
+  },
+  "52": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Identical answers; A has trivial leading space."
+  },
+  "53": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Identical answers except leading whitespace; both correct and compliant."
+  },
+  "54": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "Both valid; B's items are more prototypically kitchen-specific."
+  },
+  "55": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "Both incorrect, but B is a fluent, complete sentence; A is nonsense."
+  },
+  "56": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "B is a natural friendly greeting; A invents odd, inappropriate context."
+  },
+  "57": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both correctly name three colors concisely and fluently."
+  },
+  "58": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A gives correct answer; B factually wrong (dog says moo)."
+  },
+  "59": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A completes the sentence; B just repeats it incompletely."
+  },
+  "60": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "Both incoherent; A slightly more story-like, B oddly contradictory phrasing."
+  },
+  "61": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "B follows the bone prompt; A ignores it despite smoother logic."
+  },
+  "62": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is on-topic rainy school story; B is off-topic and unfinished."
+  },
+  "63": {
+   "coherence": "tie",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A features the talking tree requested; B is about an owl."
+  },
+  "64": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A includes duck and frog despite confusion; B ignores prompt entirely."
+  },
+  "65": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "A is incoherent and truncated mid-token; B is short but coherent."
+  },
+  "66": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B tells a complete little story; A is confused and cuts off."
+  },
+  "67": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "B tells fuller story despite speaker mix-up; A minimal but clean."
+  },
+  "68": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "A ignores the boat; B is on-topic despite rougher grammar and abrupt ending."
+  },
+  "69": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A tells a simple connected story; B is incoherent with random boats."
+  },
+  "70": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B tells an actual story; A is repetitive, incoherent fragments."
+  },
+  "71": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "B contains nonsense token 'mdj'; A reads coherently despite little planting."
+  },
+  "72": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A tells coherent nice-monster story; B is confusing and off-prompt."
+  },
+  "73": {
+   "coherence": "B",
+   "instruction": "tie",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B reads smoothly; A garbled ('tout a brand new toy', 'blow your bow')."
+  },
+  "74": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "A is incoherent (\"the brain\"); B coherent though too long."
+  },
+  "75": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A flows logically; B contradicts itself and confuses bravery theme."
+  },
+  "76": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B includes snow and stays consistent; A ignores snow and confuses characters."
+  },
+  "77": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A tells a shoe story; B ignores shoes and is muddled."
+  },
+  "78": {
+   "coherence": "tie",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A centers helpfulness as asked; B's shy robot drifts, though smoother wording."
+  },
+  "79": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B stays on tree topic despite garbled ending; A ignores prompt entirely."
+  },
+  "80": {
+   "coherence": "tie",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "Both terse; A's seeds more accurate than B's vegetables claim."
+  },
+  "81": {
+   "coherence": "A",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is brief but sensible; B is contradictory nonsense, neither explains why."
+  },
+  "82": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B at least addresses sun/night; A is irrelevant despite cleaner phrasing."
+  },
+  "83": {
+   "coherence": "A",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "Both poor and circular; B adds illogical reasoning, A slightly cleaner."
+  },
+  "84": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A gives a reason, though wrong; B is circular and awkwardly worded."
+  },
+  "85": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A correctly says ice is water; B is factually nonsensical."
+  },
+  "86": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A correctly answers; B is irrelevant and confusing."
+  },
+  "87": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A gives accurate hydration reason; B is nonsensical despite smoother grammar."
+  },
+  "88": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is coherent though inaccurate; B is nonsensical."
+  },
+  "89": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A gives a simple answer; B is circular and off-topic."
+  },
+  "90": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Identical answers apart from a leading space."
+  },
+  "91": {
+   "coherence": "tie",
+   "instruction": "B",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "B attempts a causal answer; A merely restates the question."
+  },
+  "92": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "A is circular and empty; B gives some descriptive, if childish, content."
+  },
+  "93": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "B",
+   "overall": "tie",
+   "reason": "Both irrelevant non-answers; B is a fuller grammatical sentence."
+  },
+  "94": {
+   "coherence": "A",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "tie",
+   "reason": "Both fail to explain thunder; A simpler, B's drum image incoherent."
+  },
+  "95": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is slightly more plausible and properly capitalized; B is inaccurate."
+  },
+  "96": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "A is circular and wrong; B gives a simple accurate explanation."
+  },
+  "97": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "B degenerates into repetitive irrelevance; A is terse but sensible."
+  },
+  "98": {
+   "coherence": "tie",
+   "instruction": "B",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "Both minimal; B adds slightly more detail about wing strength."
+  },
+  "99": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "tie",
+   "reason": "A attempts a definition but self-contradicts; B fluent but off-topic nonsense."
+  },
+  "100": {
+   "coherence": "A",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "B is incoherent off-topic story; A is minimal but grammatical."
+  },
+  "101": {
+   "coherence": "B",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "Both nonsense; A self-contradictory and bizarre, B merely circular but simpler."
+  },
+  "102": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Identical minimal answers apart from a leading space."
+  },
+  "103": {
+   "coherence": "tie",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A stays on topic though shallow; B tells unrelated story."
+  },
+  "104": {
+   "coherence": "tie",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A attempts a definition despite circularity; B is trivial, dismissive, mispunctuated."
+  },
+  "105": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A stays on topic though repetitive; B is irrelevant nonsense."
+  },
+  "106": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A addresses teeth topic; B is unrelated story despite smoother prose."
+  },
+  "107": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B attempts a definition; A is irrelevant story fragment."
+  },
+  "108": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Identical answers apart from a leading space."
+  },
+  "109": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Identical answers; only a stray leading space differs."
+  },
+  "110": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Identical answers, both correct and concise."
+  },
+  "111": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both give the identical correct one-word answer."
+  },
+  "112": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A gives correct one-word answer; B is factually wrong."
+  },
+  "113": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Identical answers; B has trivial leading space."
+  },
+  "114": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A names two distinct flying animals; B repeats one and has stray space."
+  },
+  "115": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "Both wrong; A at least gives a distinct number, B is nonsensical."
+  },
+  "116": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A gives a warm goodbye; B fails to say goodbye at all."
+  },
+  "117": {
+   "coherence": "tie",
+   "instruction": "B",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "B lists bedroom-typical items including a bed; A's \"box\" is odd."
+  },
+  "118": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is wrong but coherent; B is gibberish."
+  },
+  "119": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "B completes the sentence plausibly; A ignores the prompt entirely."
+  }
+ },
+ "gpt-5.6-sol": {
+  "0": {
+   "coherence": "A",
+   "instruction": "tie",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A has clearer progression; B is smoother but its shadow logic is confusing."
+  },
+  "1": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A completes the requested story, while B ends abruptly before the puppy becomes lost."
+  },
+  "2": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is clearer, more natural, and avoids A's repetition and ambiguous pronouns."
+  },
+  "3": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A tells a coherent boat story; B is off-topic, confusing, and incomplete."
+  },
+  "4": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B directly establishes the robot\u2019s desire to paint and has a clearer narrative."
+  },
+  "5": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is coherent and evokes a rainy day through boots and puddles."
+  },
+  "6": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is clearer and more natural, though A better implies the tree is magical."
+  },
+  "7": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is repetitive but more grammatical, complete, and coherent than A's broken narrative."
+  },
+  "8": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A directly tells a moon story; B discusses a cloud and ends abruptly."
+  },
+  "9": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A clearly includes finding a key and is more grammatical, despite its abrupt ending."
+  },
+  "10": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B follows the snowman prompt, though A is more coherent and fluent."
+  },
+  "11": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B fulfills the animal-race request, despite contradictions and an unexplained cat reference."
+  },
+  "12": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is more coherent and addresses the bear\u2019s restlessness, though neither fully develops insomnia."
+  },
+  "13": {
+   "coherence": "B",
+   "instruction": "tie",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is coherent and kind, while A includes a giant but is confusing and incomplete."
+  },
+  "14": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A has exactly three sentences and features a cat, despite one confusing phrase."
+  },
+  "15": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is coherent and happy, though neither response meaningfully includes winter."
+  },
+  "16": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A at least concludes its story, while B ends abruptly without resolving the plot."
+  },
+  "17": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B provides a complete, coherent sea story with a clear ending."
+  },
+  "18": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A is complete and resolved, while B is smoother but abruptly unfinished."
+  },
+  "19": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A at least centers on a fish; B is repetitive, incomplete, and off-topic."
+  },
+  "20": {
+   "coherence": "B",
+   "instruction": "tie",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "Both answer correctly, but B is smoother and avoids repetitive wording."
+  },
+  "21": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Responses are identical aside from inconsequential leading whitespace."
+  },
+  "22": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is coherent and relevant; B is repetitive, awkward, and nonsensical."
+  },
+  "23": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A identifies the sun as a star, while B only describes it."
+  },
+  "24": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A directly and naturally answers; B adds an incoherent claim."
+  },
+  "25": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A is vague but more relevant; B is fluent yet largely unrelated."
+  },
+  "26": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B directly answers; A inaccurately suggests roots need light."
+  },
+  "27": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "Responses are identical except B has an unnecessary leading space."
+  },
+  "28": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is more coherent and relevant, though it does not explain winter\u2019s cause."
+  },
+  "29": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B directly and clearly answers; A is garbled and contradictory."
+  },
+  "30": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both are clear, correct, natural answers to the question."
+  },
+  "31": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A attempts an explanation, while B merely restates that leaves fall."
+  },
+  "32": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is circular but still more accurate and natural than B\u2019s nonsensical description."
+  },
+  "33": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B attempts a causal explanation, though scientifically incorrect; A merely repeats the premise."
+  },
+  "34": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B is repetitive but less misleading and more directly addresses rainbow composition."
+  },
+  "35": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A correctly explains nest materials; B gives an incorrect purpose."
+  },
+  "36": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A attempts an explanation, while B merely restates the prompt."
+  },
+  "37": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A offers a flawed but more coherent and informative explanation; B is purely circular."
+  },
+  "38": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A gives a simple relevant explanation; B is nonsensical and unrelated."
+  },
+  "39": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is clearer, more natural, and more accurately describes snow."
+  },
+  "40": {
+   "coherence": "tie",
+   "instruction": "B",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "B gives a more informative reason by identifying nutrients the body needs."
+  },
+  "41": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is coherent and concise, though imaginative; B contains inaccurate, disconnected claims."
+  },
+  "42": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "B attempts an explanation, but A is more coherent and fluent despite being irrelevant."
+  },
+  "43": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is relevant and grammatical, though incomplete; B is incorrect and contradictory."
+  },
+  "44": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is incomplete but relevant; B is unrelated, repetitive, and nonsensical."
+  },
+  "45": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is complete and closer to mentioning water, though both are inaccurate."
+  },
+  "46": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B addresses transformation, while A is fluent but irrelevant and factually incorrect."
+  },
+  "47": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is more readable, while B only slightly addresses melting and remains incoherent."
+  },
+  "48": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both clearly and correctly name three animals in natural, concise lists."
+  },
+  "49": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B correctly and fluently counts through five; A stops at four."
+  },
+  "50": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both responses are identical and correctly answer the question."
+  },
+  "51": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "Both answer correctly; A avoids the unnecessary leading space."
+  },
+  "52": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both responses are identical in content, wording, and compliance."
+  },
+  "53": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "Both answer correctly; A avoids the unnecessary leading space."
+  },
+  "54": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both clearly and naturally name two common kitchen items."
+  },
+  "55": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "Both are incorrect, but B is a complete, coherent answer."
+  },
+  "56": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is friendly, natural, and avoids unsupported assumptions."
+  },
+  "57": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both clearly and correctly name three colors."
+  },
+  "58": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A correctly identifies the cow; B gives an incorrect animal."
+  },
+  "59": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A completes the sentence naturally; B remains incomplete and awkward."
+  },
+  "60": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is clearer, more grammatical, and directly features a little star."
+  },
+  "61": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B includes finding a bone, though A is clearer and more natural."
+  },
+  "62": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is a clear, complete story directly about a rainy school day."
+  },
+  "63": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A follows the talking-tree prompt, though it ends abruptly; B is coherent but irrelevant."
+  },
+  "64": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A includes a duck and frog, while B is incoherent and only discusses fish."
+  },
+  "65": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is a complete, coherent first-snow story despite one odd phrase."
+  },
+  "66": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A follows the big red balloon prompt, though B reads more smoothly."
+  },
+  "67": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A stays focused and coherent; B confuses character names and dialogue."
+  },
+  "68": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B addresses the boat prompt, though A is more coherent and fluent."
+  },
+  "69": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B clearly features two brothers building a fort and is more grammatically coherent."
+  },
+  "70": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B provides a fuller narrative, despite contradictions and an abrupt detail about monkeys."
+  },
+  "71": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is coherent and readable, though neither clearly depicts the girl planting."
+  },
+  "72": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A clearly features a kind monster, while B is confusing and misses the prompt."
+  },
+  "73": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is more coherent and fluent, though A features actual wind."
+  },
+  "74": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is clearer and more natural, though A is closer to two sentences."
+  },
+  "75": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A offers a clearer adventurous narrative, though both stories end abruptly and lack resolution."
+  },
+  "76": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B includes snow and forms a complete story, though snow does not fall at the end."
+  },
+  "77": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A centers on a shoe, while B ignores the requested subject entirely."
+  },
+  "78": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A better matches the helpful-robot prompt, though both stories end abruptly."
+  },
+  "79": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B at least tells a tree-centered story, though its ending is corrupted."
+  },
+  "80": {
+   "coherence": "tie",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "Both are clear, but seeds is a more natural and broadly applicable answer."
+  },
+  "81": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is concise and coherent; B is contradictory and does not explain fire's heat."
+  },
+  "82": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is concise and grammatical, though both answers are factually incorrect."
+  },
+  "83": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is simpler and less anthropomorphic, though both are overly narrow."
+  },
+  "84": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A directly answers why and is more fluent, though its explanation is inaccurate."
+  },
+  "85": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A correctly identifies ice as water, while B is nonsensical and inaccurate."
+  },
+  "86": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A directly and clearly answers where apples come from; B describes falling."
+  },
+  "87": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A directly explains hydration and dehydration, while B is vague and less accurate."
+  },
+  "88": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is understandable and mentions birds laying eggs; B is nonsensical."
+  },
+  "89": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A directly addresses the question, though its explanation is simplistic."
+  },
+  "90": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "Both are correct; B avoids the unnecessary leading space."
+  },
+  "91": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B attempts an explanation, while A merely restates the observation."
+  },
+  "92": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B attempts a description, while A is purely circular despite better grammar."
+  },
+  "93": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is at least related to wind; B introduces an unexplained person and farm."
+  },
+  "94": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is concise and somewhat relevant, though neither correctly explains thunder."
+  },
+  "95": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is cleaner and somewhat closer to purring as self-soothing."
+  },
+  "96": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B clearly and naturally explains rain, while A is inaccurate and circular."
+  },
+  "97": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is concise and relevant; B starts well but becomes repetitive and unrelated."
+  },
+  "98": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A directly explains flapping, while B is repetitive and less explanatory."
+  },
+  "99": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is clearer and more grammatical, though neither accurately explains stars."
+  },
+  "100": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is coherent but incomplete; B mentions waves yet becomes nonsensical and unfinished."
+  },
+  "101": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is circular but clearer and less nonsensical than A."
+  },
+  "102": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "Responses are identical except B has an unnecessary leading space."
+  },
+  "103": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is fluent and relevant, though it fails to explain the actual cause."
+  },
+  "104": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A attempts a general definition; B gives only an example and an unrelated remark."
+  },
+  "105": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is repetitive but relevant; B incorrectly discusses human sweating."
+  },
+  "106": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is incomplete but relevant; B is an incoherent, unrelated story."
+  },
+  "107": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B attempts a definition, while A is an unrelated, unclear anecdote."
+  },
+  "108": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "Both answer correctly; A avoids B's unnecessary leading space."
+  },
+  "109": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both responses identically and correctly count to three."
+  },
+  "110": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both correctly and fluently answer; B only has an inconsequential leading space."
+  },
+  "111": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both responses are identical in meaning, correctness, and fluency."
+  },
+  "112": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A gives the correct typical sky color and follows the one-word instruction."
+  },
+  "113": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both responses correctly and fluently answer yes."
+  },
+  "114": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A names two distinct flying animals with correct pluralization; B repeats one animal."
+  },
+  "115": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "Both are incorrect, but ten at least follows five in some sequences."
+  },
+  "116": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A offers a warm, clear goodbye; B only expresses thanks."
+  },
+  "117": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "Both comply, but B names more typical bedroom items and reads naturally."
+  },
+  "118": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is coherent and animal-related, while B is nonsensical."
+  },
+  "119": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B attempts a direct completion, though awkward; A does not finish the sentence."
+  }
+ },
+ "deepseek-v4-pro": {
+  "0": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A gives a more complete, coherent dragon story despite minor grammar issue."
+  },
+  "1": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A tells a complete lost puppy story; B is unfinished and lacks lost plot."
+  },
+  "2": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is clearer, more natural, and more coherent."
+  },
+  "3": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A tells a boat story as requested; B ignores prompt and is incoherent."
+  },
+  "4": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B directly addresses the robot wanting to paint and is clearer."
+  },
+  "5": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B tells a coherent rainy-day story; A is disjointed and lacks rain."
+  },
+  "6": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A at least features a magic tree; B ignores magic despite better flow."
+  },
+  "7": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is more coherent and fluent, better follows the tiny mouse prompt."
+  },
+  "8": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A is about the moon; B ignores prompt."
+  },
+  "9": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A better follows prompt and has fewer grammar errors."
+  },
+  "10": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "A ignores snowman; B includes one despite odd ending."
+  },
+  "11": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B addresses animal race despite odd ending."
+  },
+  "12": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is coherent and mentions restlessness; A lacks sleep theme and has odd details."
+  },
+  "13": {
+   "coherence": "B",
+   "instruction": "tie",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is coherent and fluent; A is confusing, though both miss prompt."
+  },
+  "14": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A meets three-sentence cat story; B has four sentences and no cat."
+  },
+  "15": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is coherent and happy though not winter; B is incoherent."
+  },
+  "16": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A finishes the story despite no surprise; B is cut off."
+  },
+  "17": {
+   "coherence": "B",
+   "instruction": "tie",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is complete and clear; A is confusing and abruptly ends."
+  },
+  "18": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A tells a complete clear story; B is repetitive and ends abruptly."
+  },
+  "19": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A at least focuses on a fish, though neither delivers flying."
+  },
+  "20": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both directly answer correctly with clear, simple sentences."
+  },
+  "21": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Responses are identical in content and quality."
+  },
+  "22": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is relevant and clear; B is nonsensical repetition."
+  },
+  "23": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A identifies the sun as a star and explains its effect."
+  },
+  "24": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A directly answers; B adds irrelevant nonsense."
+  },
+  "25": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A gives a reason and is more connected; B is unrelated."
+  },
+  "26": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "B directly answers; A inaccurately says roots and seeds need light."
+  },
+  "27": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Responses are identical in content and quality."
+  },
+  "28": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B at least mentions winter temperature; A is nonsensical."
+  },
+  "29": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is clear and correct; A contains nonsensical text."
+  },
+  "30": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "tie",
+   "reason": "Both answer correctly; A is slightly more precise and polished."
+  },
+  "31": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is clearer and grammatical, though neither explains why leaves fall."
+  },
+  "32": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is circular but coherent; B has nonsensical second sentence."
+  },
+  "33": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A stays on topic though tautological; B gives a false cause."
+  },
+  "34": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B stays on topic despite repetition; A is inaccurate."
+  },
+  "35": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A answers materials; B is nonsensical and off-topic."
+  },
+  "36": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A gives a causal sentence; B just repeats the prompt."
+  },
+  "37": {
+   "coherence": "A",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is more descriptive though inaccurate; B is circular."
+  },
+  "38": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A explains growth; B is nonsensical."
+  },
+  "39": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is clearer and more natural; A has awkward repetition."
+  },
+  "40": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "B gives specific nutrients as reasons, better explaining why we need food."
+  },
+  "41": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A is clearer and less factually wrong; B contradicts night and sun."
+  },
+  "42": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "B attempts breathing explanation despite inaccuracies; A ignores prompt."
+  },
+  "43": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A stays on wind without false claims, though both fail to explain."
+  },
+  "44": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A is on-topic but lacks explanation; B is irrelevant though fluent."
+  },
+  "45": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B mentions water and mist, closer to correct; A is false and incomplete."
+  },
+  "46": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B addresses the transformation; A omits caterpillar entirely."
+  },
+  "47": {
+   "coherence": "A",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is more coherent and fluent; neither explains why ice melts."
+  },
+  "48": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both list three valid animals correctly and concisely."
+  },
+  "49": {
+   "coherence": "tie",
+   "instruction": "B",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "B counts to five; A stops at four."
+  },
+  "50": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both are identical correct answers."
+  },
+  "51": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A lacks leading space; both identical otherwise."
+  },
+  "52": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both give the same correct one-word answer."
+  },
+  "53": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both give the same correct yes answer."
+  },
+  "54": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both list two valid kitchen items correctly."
+  },
+  "55": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B gives a complete sentence answer; A is just a fragment."
+  },
+  "56": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is simpler and more universally friendly; A makes odd assumptions."
+  },
+  "57": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both list three valid colors clearly and correctly."
+  },
+  "58": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A correctly answers; B gives false information."
+  },
+  "59": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A completes the sentence clearly; B leaves it unfinished."
+  },
+  "60": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A gives a more complete narrative arc despite awkward phrasing."
+  },
+  "61": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B answers the prompt; A never mentions a bone."
+  },
+  "62": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A matches the rainy school day prompt; B is about cars."
+  },
+  "63": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A features a talking tree; B ignores prompt."
+  },
+  "64": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A mentions duck and frog; B only fish."
+  },
+  "65": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is coherent and on-topic; A has confusing nonsensical events."
+  },
+  "66": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A follows the prompt's big red balloon; B misses size despite coherence."
+  },
+  "67": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is coherent and on-topic; B has dialogue attribution error and ignores sleepiness."
+  },
+  "68": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B includes a boat despite slightly awkward wording; A ignores the boat."
+  },
+  "69": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B follows brothers prompt and has grammatical sentences; A misses brothers."
+  },
+  "70": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B better follows story request despite minor plot inconsistency."
+  },
+  "71": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is clearer, grammatical, and more coherently garden-focused."
+  },
+  "72": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A tells a clear nice monster story; B is confusing and off-prompt."
+  },
+  "73": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is clearer and more coherent; A has confusing wording."
+  },
+  "74": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is coherent and fluent; both miss exact two-sentence limit."
+  },
+  "75": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is clearer, grammatical, and more consistently about bravery."
+  },
+  "76": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B includes snow and coherent text; A lacks snow and is inconsistent."
+  },
+  "77": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A includes a shoe despite oddness; B ignores prompt."
+  },
+  "78": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A matches the helpful robot prompt despite being incomplete."
+  },
+  "79": {
+   "coherence": "A",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B at least centers on a tree, despite truncation."
+  },
+  "80": {
+   "coherence": "tie",
+   "instruction": "B",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "B gives two food types versus one, slightly more informative."
+  },
+  "81": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is coherent and relevant; B is contradictory and nonsensical."
+  },
+  "82": {
+   "coherence": "B",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is more fluent and concise; both are factually incorrect."
+  },
+  "83": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is simpler and less nonsensical than B's causal claim."
+  },
+  "84": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is more fluent and attempts an explanation despite being incorrect."
+  },
+  "85": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A correctly answers; B is nonsensical."
+  },
+  "86": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A correctly identifies apples grow on trees; B is irrelevant."
+  },
+  "87": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A is more accurate, B is fluent but off-topic."
+  },
+  "88": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is grammatical and near topic; B is nonsensical."
+  },
+  "89": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A gives a direct, grammatical answer; B is tautological and off-topic."
+  },
+  "90": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both responses are essentially identical and correct."
+  },
+  "91": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "B attempts causal explanation; A just restates observation."
+  },
+  "92": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B gives descriptive attributes; A is circular and defines nothing."
+  },
+  "93": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A gives a location; B is unrelated."
+  },
+  "94": {
+   "coherence": "A",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is clearer and more grammatical; both fail to explain thunder."
+  },
+  "95": {
+   "coherence": "A",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is more grammatical and coherent, though both are factually incorrect."
+  },
+  "96": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B gives a clearer, more accurate basic explanation than A's circular statement."
+  },
+  "97": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is coherent and relevant; B rambles off-topic and repeats itself."
+  },
+  "98": {
+   "coherence": "tie",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A mentions wing flapping as a mechanism."
+  },
+  "99": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A attempts a definition despite errors; B is off-topic."
+  },
+  "100": {
+   "coherence": "A",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is clearer and grammatical; B is rambling and off-topic."
+  },
+  "101": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B is less nonsensical and closer to a definition."
+  },
+  "102": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Responses are essentially identical and equally inadequate."
+  },
+  "103": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A mentions the topic but lacks explanation; B is completely irrelevant."
+  },
+  "104": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A gives a definitional attempt; B is fragmentary and off-topic."
+  },
+  "105": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "B",
+   "overall": "A",
+   "reason": "A stays on plants but repeats; B is irrelevant."
+  },
+  "106": {
+   "coherence": "B",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A mentions teeth care though not why; B is irrelevant."
+  },
+  "107": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "B",
+   "overall": "B",
+   "reason": "B attempts an explanation; A is irrelevant and nonsensical."
+  },
+  "108": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Responses are essentially identical; both correctly name three fruits."
+  },
+  "109": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both identically count to three."
+  },
+  "110": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both answers are correct and essentially identical."
+  },
+  "111": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both give the same correct answer."
+  },
+  "112": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A gives the correct common color."
+  },
+  "113": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "tie",
+   "reason": "Both correctly answer yes to the yes/no prompt."
+  },
+  "114": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A names two distinct flying animals; B repeats one animal."
+  },
+  "115": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A attempts an answer; B just repeats the prompt."
+  },
+  "116": {
+   "coherence": "A",
+   "instruction": "A",
+   "fluency": "tie",
+   "overall": "A",
+   "reason": "A says goodbye nicely; B doesn't say goodbye."
+  },
+  "117": {
+   "coherence": "tie",
+   "instruction": "tie",
+   "fluency": "tie",
+   "overall": "B",
+   "reason": "B includes a bed, which is more typical of a bedroom."
+  },
+  "118": {
+   "coherence": "A",
+   "instruction": "tie",
+   "fluency": "A",
+   "overall": "A",
+   "reason": "A is coherent but wrong; B is nonsensical."
+  },
+  "119": {
+   "coherence": "B",
+   "instruction": "B",
+   "fluency": "A",
+   "overall": "B",
+   "reason": "B attempts a completion; A ignores the sentence."
+  }
+ }
+}

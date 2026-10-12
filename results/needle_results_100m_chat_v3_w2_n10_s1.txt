@@ -1,0 +1,16 @@
+# needle probe, 100m_chat_v3_w2 (ckpt_h100_chat_v3.pt, bytes, distances in characters), fp32 cuda; nats = -log p of ' <word>.' after the cue; baseline = same filler, no plant; NEEDLES=banana,purple,rocket,pencil,tiger,window,silver,castle,honey,lantern SEED=1 PLANT='The secret word is {w}.' CUE='The secret word is'
+  window  dist  needle nats  baseline   gain  top1 recall
+     inf     0         0.90     12.29  11.39       9/10
+     inf    64         1.10     14.77  13.67       9/10
+     inf   128         0.22     15.67  15.45      10/10
+     inf   256         5.57     19.28  13.72       0/10
+     inf   384         3.94     17.73  13.78       0/10
+     inf   600        46.45     39.26  -7.20       0/10
+     inf  1024        23.20     25.92   2.72       0/10
+     480     0         0.90     12.29  11.39       9/10
+     480    64         1.10     14.77  13.67       9/10
+     480   128         0.22     15.67  15.45      10/10
+     480   256         5.57     19.28  13.72       0/10
+     480   384         3.94     17.73  13.78       0/10
+     480   600        16.46     16.59   0.13       0/10
+     480  1024        21.76     21.76  -0.00       0/10

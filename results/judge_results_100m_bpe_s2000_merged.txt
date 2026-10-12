@@ -1,0 +1,8 @@
+=== LLM-judge panel: v2_2000 vs v3_2000 (blinded, order-randomized); judges: anthropic, openai, deepseek; GPT column from the 09-28 top-up run (merged) ===
+claude-opus-5   : v3_2000 49/120  v2_2000 50/120  tie 21/120  (120 ruled)
+gpt-5.6-sol     : v3_2000 51/120  v2_2000 49/120  tie 20/120  (120 ruled)
+deepseek-v4-pro : v3_2000 49/120  v2_2000 47/120  tie 24/120  (120 ruled)
+majority (2 of 3): v3_2000 50  v2_2000 48  no majority 22
+agreement claude-opus-5 vs gpt-5.6-sol: 101/120 (84%)
+agreement claude-opus-5 vs deepseek-v4-pro: 102/120 (85%)
+agreement gpt-5.6-sol vs deepseek-v4-pro: 100/120 (83%)

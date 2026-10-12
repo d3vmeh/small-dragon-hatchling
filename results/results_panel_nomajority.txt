@@ -1,0 +1,7 @@
+no-majority prompts in the five 100M panels, from judge_rulings_100m*.json (overall verdict per judge)
+panel                  prompts no majority  all tie  one chose  split
+v1 vs v2                   120           1        0          0      1
+bytes v2 vs BPE v2         120          16        4         11      1
+bytes v2 vs v3             120          18       15          2      1
+BPE v2 vs v3               120          22       18          2      2
+bytes v3 vs BPE v3         120          18        9          7      2

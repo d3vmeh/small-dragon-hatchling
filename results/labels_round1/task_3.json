@@ -1,0 +1,2348 @@
+[
+ {
+  "key": "bpe100m:5:0:2758",
+  "rate": 0.9931,
+  "ctx": [
+   {
+    "pre": "giant avocado with legs! It had a bright",
+    "atom": " yellow",
+    "post": " face and a big, wid"
+   },
+   {
+    "pre": "like the others. It was original. It had",
+    "atom": " many",
+    "post": " colors on its body."
+   },
+   {
+    "pre": "fish picked away at the wood and soon, a",
+    "atom": " normal",
+    "post": " house and furniture"
+   },
+   {
+    "pre": "ith you?\"\nThe boy looks at her. He has a",
+    "atom": " bad",
+    "post": " face. He does not s"
+   },
+   {
+    "pre": "g tasty food with the blanket. They fold",
+    "atom": ",",
+    "post": " roll, twist, and cu"
+   },
+   {
+    "pre": "! It had a bright yellow face and a big,",
+    "atom": " wide",
+    "post": " smile. \n\"Hell"
+   },
+   {
+    "pre": "lled so nice.\nOne day, a big green plant",
+    "atom": " named",
+    "post": " Envy saw how clean "
+   },
+   {
+    "pre": "e upon a time, there was a long cat with",
+    "atom": " soft",
+    "post": " fur. This cat lived"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:2:0:1111",
+  "rate": 0.999,
+  "ctx": [
+   {
+    "pre": "n it. \nLily said yes and they hopped in.",
+    "atom": " While",
+    "post": " they were driving, "
+   },
+   {
+    "pre": " should you not touch, Tim?\" Tim thought",
+    "atom": " and",
+    "post": " then said, \"The big"
+   },
+   {
+    "pre": "ng him fruits and nuts. Tim learned that",
+    "atom": " eating",
+    "post": " too much sugar is n"
+   },
+   {
+    "pre": ", the apples, and the cookies. He leaves",
+    "atom": " nothing",
+    "post": " for Sara and Ben.\nS"
+   },
+   {
+    "pre": "end of the day, Tim and Sue learned that",
+    "atom": " sharing",
+    "post": " is important, and i"
+   },
+   {
+    "pre": " very kind.\" Mia felt better and went to",
+    "atom": " pet",
+    "post": " the dog. The dog wa"
+   },
+   {
+    "pre": "e held the jar and shook it up and down,",
+    "atom": " left",
+    "post": " and right. They sho"
+   },
+   {
+    "pre": " hole. They put the seed in the hole and",
+    "atom": " covered",
+    "post": " it with dirt. Then,"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:4:1:2719",
+  "rate": 0.9238,
+  "ctx": [
+   {
+    "pre": "ophy and had lots of fun.\nThe brown bear",
+    "atom": " saw",
+    "post": " the bird with his t"
+   },
+   {
+    "pre": "o play with the black clay.\nOne day, Mia",
+    "atom": " left",
+    "post": " her black clay cat "
+   },
+   {
+    "pre": "orked together and became good friends.\n",
+    "atom": "<|",
+    "post": "endoftext|>\nOnce upo"
+   },
+   {
+    "pre": "Tom and Lily smiled too. They decided to",
+    "atom": " name",
+    "post": " the dog Brownie. Th"
+   },
+   {
+    "pre": " the child passed by the glove again. He",
+    "atom": " expected",
+    "post": " to find it filled w"
+   },
+   {
+    "pre": " surprised.\n\"Oops!\" she says.\nTom se",
+    "atom": "es",
+    "post": " Mia fall. He runs t"
+   },
+   {
+    "pre": "ds, even when you don't both agree. Just",
+    "atom": " because",
+    "post": " you like something "
+   },
+   {
+    "pre": " runs to her. He asks her if she is OK.\n",
+    "atom": "\"",
+    "post": "Are you OK, Mia"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:5:1:1832",
+  "rate": 0.9409,
+  "ctx": [
+   {
+    "pre": "d the bird played together every day.\n<|",
+    "atom": "endoftext",
+    "post": "|>\n\nA little girl na"
+   },
+   {
+    "pre": "and the bird played together every day.\n",
+    "atom": "<|",
+    "post": "endoftext|>\n\nA littl"
+   },
+   {
+    "pre": "he end, they all became good friends.\n<|",
+    "atom": "endoftext",
+    "post": "|>\nOne day, a little"
+   },
+   {
+    "pre": "riends and played together every day.\n<|",
+    "atom": "endoftext",
+    "post": "|>\nOne day, a boy na"
+   },
+   {
+    "pre": "nd they all lived happily ever after.\n<|",
+    "atom": "endoftext",
+    "post": "|>\nOnce upon a time,"
+   },
+   {
+    "pre": "knew they would play again another day.\n",
+    "atom": "<|",
+    "post": "endoftext|>\nOne day,"
+   },
+   {
+    "pre": "est friends and stayed together always.\n",
+    "atom": "<|",
+    "post": "endoftext|>\nOnce upo"
+   },
+   {
+    "pre": "id not want to play anymore. The end.\n<|",
+    "atom": "endoftext",
+    "post": "|>\nOnce upon a time,"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:1:1:2981",
+  "rate": 0.99,
+  "ctx": [
+   {
+    "pre": "rds and actions to make them happy. Just",
+    "atom": " like",
+    "post": " Mary and her obedie"
+   },
+   {
+    "pre": "e tray on a branch and waited.\nThe birds",
+    "atom": " saw",
+    "post": " the tray and flew d"
+   },
+   {
+    "pre": "not like the guitar sounds.\nOne day, Sam",
+    "atom": " asked",
+    "post": " Tom to stop playing"
+   },
+   {
+    "pre": "amed Amy wanted to help. She was careful",
+    "atom": " when",
+    "post": " she cleaned the mai"
+   },
+   {
+    "pre": "e a fun game for you and Max. If you can",
+    "atom": " teach",
+    "post": " Max to be nice, you"
+   },
+   {
+    "pre": " friends. On her way, she saw a big door",
+    "atom": " with",
+    "post": " the word \"exit\" on "
+   },
+   {
+    "pre": "me, there was a big brown bear. The bear",
+    "atom": " had",
+    "post": " a shiny trophy. He"
+   },
+   {
+    "pre": " sad and asked, \"What's wrong, Max?\"\nMax",
+    "atom": " told",
+    "post": " Lily about his prob"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:1:0:2352",
+  "rate": 1.0,
+  "ctx": [
+   {
+    "pre": "the gear all day, stirring their pretend",
+    "atom": " sou",
+    "post": "p and sharing their "
+   },
+   {
+    "pre": "im to play with. He started to feel less",
+    "atom": " nervous",
+    "post": ". He took his thumb "
+   },
+   {
+    "pre": " the bags. Tim was happy to help.\nAs Tim",
+    "atom": " unp",
+    "post": "acked the bags, he f"
+   },
+   {
+    "pre": " kept slipping away from him.\nHe felt so",
+    "atom": " up",
+    "post": "set that he began to"
+   },
+   {
+    "pre": "erves.\nOne day, he finds a spider in his",
+    "atom": " back",
+    "post": "yard. It is black an"
+   },
+   {
+    "pre": "go home, Lucy could not find her perfect",
+    "atom": " mit",
+    "post": "ten.\nLucy was sad"
+   },
+   {
+    "pre": "ds.\nThe little girl could feel the brush",
+    "atom": " tre",
+    "post": "mbling. She knew it "
+   },
+   {
+    "pre": "et. She only sees a mess.\n\"Rocket? V",
+    "atom": "an",
+    "post": "ished? What are you "
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:5:1:1960",
+  "rate": 0.9825,
+  "ctx": [
+   {
+    "pre": "er way, she saw a big door with the word",
+    "atom": " \"",
+    "post": "exit\" on it. Kit"
+   },
+   {
+    "pre": "lled so nice.\nOne day, a big green plant",
+    "atom": " named",
+    "post": " Envy saw how clean "
+   },
+   {
+    "pre": "ted. She gave it a name, \"Let's call him",
+    "atom": " '",
+    "post": "Jeffrey'!\"\n"
+   },
+   {
+    "pre": "ppy.\nAt the park, Tim saw a girl with an",
+    "atom": " unknown",
+    "post": " toy. It was wrapped"
+   },
+   {
+    "pre": "ma?\" they asked.\nMumma chuckled. \"It's",
+    "atom": " called",
+    "post": " the earth. It's the"
+   },
+   {
+    "pre": "and the bird played together every day.\n",
+    "atom": "<|",
+    "post": "endoftext|>\n\nA littl"
+   },
+   {
+    "pre": " met a friendly alien named Zog. Zog was",
+    "atom": " from",
+    "post": " far away in the uni"
+   },
+   {
+    "pre": "t it's much better to choose contentment",
+    "atom": " over",
+    "post": " envy.\n<|endoftext|>"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:0:2:10600",
+  "rate": 0.0152,
+  "ctx": [
+   {
+    "pre": " kids at the party stopped and looked at",
+    "atom": " M",
+    "post": "ia. The dog was scar"
+   },
+   {
+    "pre": " girl who was sad. She had lost her toy.",
+    "atom": " M",
+    "post": "ax wanted to help he"
+   },
+   {
+    "pre": "er a tree. The little girl was so happy.",
+    "atom": " M",
+    "post": "ax performed a littl"
+   },
+   {
+    "pre": "h better after drinking the water.\nThen,",
+    "atom": " M",
+    "post": "ax saw a little girl"
+   },
+   {
+    "pre": "a big bowl of water and drank it all up.",
+    "atom": " M",
+    "post": "ax felt much better "
+   },
+   {
+    "pre": "together. The party was lots of fun, and",
+    "atom": " M",
+    "post": "ia learned that not "
+   },
+   {
+    "pre": "as clear and sunny, perfect for a party.",
+    "atom": " M",
+    "post": "ia put on her pretty"
+   },
+   {
+    "pre": " time, there was a famous dog named Max.",
+    "atom": " M",
+    "post": "ax loved to run and "
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:2:1:4721",
+  "rate": 0.9971,
+  "ctx": [
+   {
+    "pre": "for a walk. He saw a small dog named Tim",
+    "atom": ".",
+    "post": " They liked to play "
+   },
+   {
+    "pre": "o play with the black clay.\nOne day, Mia",
+    "atom": " left",
+    "post": " her black clay cat "
+   },
+   {
+    "pre": " the cat and put it in his arms. He went",
+    "atom": " down",
+    "post": " the ladder and gave"
+   },
+   {
+    "pre": "!\" Lily said. \"That hurt!\"\n\"Sor",
+    "atom": "ry",
+    "post": "!\" Tom said. \"A"
+   },
+   {
+    "pre": "lked home with his mom. He knew that tom",
+    "atom": "orrow",
+    "post": ", he would have anot"
+   },
+   {
+    "pre": "as proud of his shell because it was not",
+    "atom": " like",
+    "post": " the others. \nOne da"
+   },
+   {
+    "pre": "own, down, down. Luckily, Sam caught Tim",
+    "atom": " before",
+    "post": " he hit the ground. "
+   },
+   {
+    "pre": " of the tree.\nAfter they helped the bird",
+    "atom": ",",
+    "post": " they all became fri"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:5:3:9036",
+  "rate": 0.2351,
+  "ctx": [
+   {
+    "pre": "nside the tree, Mia found a room full of",
+    "atom": " fruit",
+    "post": ". There were apples,"
+   },
+   {
+    "pre": ">\nOnce upon a time, there was a little m",
+    "atom": "int",
+    "post": " plant named Minty. "
+   },
+   {
+    "pre": "t|>\n\nOnce upon a time there was a rare b",
+    "atom": "ull",
+    "post": " called Steve. Every"
+   },
+   {
+    "pre": "was a girl named Amy. She loved to watch",
+    "atom": " animals",
+    "post": ". Every morning she "
+   },
+   {
+    "pre": "er.\n<|endoftext|>\n\nLeo looked out at the",
+    "atom": " field",
+    "post": " in front of him and"
+   },
+   {
+    "pre": "tle puppy called Fluff. Fluff lived on a",
+    "atom": " farm",
+    "post": " with lots of other "
+   },
+   {
+    "pre": "ext|>\n\nOnce upon a time, there was a far",
+    "atom": "mer",
+    "post": ". He had a black hat"
+   },
+   {
+    "pre": "ad a big, pretty house. He had many dess",
+    "atom": "ert",
+    "post": "s, like cake and ice"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:0:1:2671",
+  "rate": 0.9956,
+  "ctx": [
+   {
+    "pre": "ad that you wanted to measure the key\".\n",
+    "atom": "Ad",
+    "post": "am smiled and hugged"
+   },
+   {
+    "pre": "istakes.\n<|endoftext|>\n\nOnce there was a",
+    "atom": " trou",
+    "post": "bled boy who wanted "
+   },
+   {
+    "pre": "animals, and now he had a new rare bull!",
+    "atom": " Ste",
+    "post": "ve didn't want to go"
+   },
+   {
+    "pre": " with it!\"\n\"Yes, let's make things!\" Ben",
+    "atom": " ag",
+    "post": "rees. \"What do you w"
+   },
+   {
+    "pre": "riend.\" Blue flew away to find the key.\n",
+    "atom": "Bl",
+    "post": "ue looked and looked"
+   },
+   {
+    "pre": "ey solved the puzzle and Jane forgave Wh",
+    "atom": "isk",
+    "post": "ers for being naught"
+   },
+   {
+    "pre": "gnifying glass. He sees how it spins the",
+    "atom": " sil",
+    "post": "k and makes the web."
+   },
+   {
+    "pre": " a rare bull called Steve. Every morning",
+    "atom": " Ste",
+    "post": "ve wandered around t"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:3:0:2218",
+  "rate": 0.9999,
+  "ctx": [
+   {
+    "pre": "many animals. There were big animals and",
+    "atom": " small",
+    "post": " animals. There were"
+   },
+   {
+    "pre": "ow!\" Tom and Lily said. They saw the big",
+    "atom": " windows",
+    "post": ", the long benches, "
+   },
+   {
+    "pre": "lorful bird in a tree. The bird had red,",
+    "atom": " blue",
+    "post": ", and yellow feather"
+   },
+   {
+    "pre": "he is not hurt, but she is surprised.\n\"O",
+    "atom": "ops",
+    "post": "!\" she says.\nTom"
+   },
+   {
+    "pre": "ad. It was very big and funny. It had be",
+    "atom": "ll",
+    "post": "s and flowers on it."
+   },
+   {
+    "pre": "h her friends. They played tag and hide-",
+    "atom": "and",
+    "post": "-seek. But when it w"
+   },
+   {
+    "pre": "went closer and saw a little bird. Its w",
+    "atom": "ing",
+    "post": " was hurt and it nee"
+   },
+   {
+    "pre": "loser and closer and saw that it was a c",
+    "atom": "rown",
+    "post": ". A crown like the o"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:5:0:1808",
+  "rate": 0.9993,
+  "ctx": [
+   {
+    "pre": "like the others. It was original. It had",
+    "atom": " many",
+    "post": " colors on its body."
+   },
+   {
+    "pre": "giant avocado with legs! It had a bright",
+    "atom": " yellow",
+    "post": " face and a big, wid"
+   },
+   {
+    "pre": "fish picked away at the wood and soon, a",
+    "atom": " normal",
+    "post": " house and furniture"
+   },
+   {
+    "pre": "hed and hugged the dog.\n\"Can you show us",
+    "atom": " your",
+    "post": " tricks?\" Tom asked "
+   },
+   {
+    "pre": "e has real food for them. She has cheese",
+    "atom": ",",
+    "post": " crackers, grapes, a"
+   },
+   {
+    "pre": " out that the shock was not a toy, but a",
+    "atom": " baby",
+    "post": " bird! The baby bird"
+   },
+   {
+    "pre": " says, \"Yes, you can, Ben. You can count",
+    "atom": " by",
+    "post": " tens. Ten, twenty,"
+   },
+   {
+    "pre": " attach things to the truck, like blocks",
+    "atom": " and",
+    "post": " cars and"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:4:0:1013",
+  "rate": 0.9916,
+  "ctx": [
+   {
+    "pre": ".\n\"Sorry, Mom. We did not know. We",
+    "atom": " thought",
+    "post": " it was junk. We mad"
+   },
+   {
+    "pre": "making tasty food with the blanket. They",
+    "atom": " fold",
+    "post": ", roll, twist, and c"
+   },
+   {
+    "pre": " big box with many toys inside. They saw",
+    "atom": " cars",
+    "post": ", dolls, balls, and"
+   },
+   {
+    "pre": "ed. Spot barked and ran to the tree. Ben",
+    "atom": " followed",
+    "post": " him. He saw a ladde"
+   },
+   {
+    "pre": "ddenly, Little Henry had an accident. He",
+    "atom": " hit",
+    "post": " a big rock and flew"
+   },
+   {
+    "pre": "o play with the black clay.\nOne day, Mia",
+    "atom": " left",
+    "post": " her black clay cat "
+   },
+   {
+    "pre": "end of the day, Tim and Sue learned that",
+    "atom": " sharing",
+    "post": " is important, and i"
+   },
+   {
+    "pre": "d not look where she was going. She fell",
+    "atom": " and",
+    "post": " hurt her leg. Kitty"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:4:0:488",
+  "rate": 0.9965,
+  "ctx": [
+   {
+    "pre": " glass of lemonade quickly. She took her",
+    "atom": " time",
+    "post": " with the second gla"
+   },
+   {
+    "pre": "he tree very hard. But, the tree was not",
+    "atom": " happy",
+    "post": ". It started to shak"
+   },
+   {
+    "pre": "his mom said he could only have one. Tim",
+    "atom": " asked",
+    "post": " for his favorite fl"
+   },
+   {
+    "pre": "see who could finish a race first. \"Read",
+    "atom": "y",
+    "post": ", set, go!\" said B"
+   },
+   {
+    "pre": "ill with a view of the city below. Every",
+    "atom": "day",
+    "post": " at sunrise, the tow"
+   },
+   {
+    "pre": "r. It was a little dirty, but Tim didn't",
+    "atom": " mind",
+    "post": ". He wanted to help "
+   },
+   {
+    "pre": "ow!\" Tom and Lily said. They saw the big",
+    "atom": " windows",
+    "post": ", the long benches, "
+   },
+   {
+    "pre": "n before taking and measuring things!\n<|",
+    "atom": "endoftext",
+    "post": "|>\nOnce upon a time,"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:3:1:2337",
+  "rate": 0.9476,
+  "ctx": [
+   {
+    "pre": "ophy and had lots of fun.\nThe brown bear",
+    "atom": " saw",
+    "post": " the bird with his t"
+   },
+   {
+    "pre": "were driving, they started talking. Lily",
+    "atom": " asked",
+    "post": " Ben, \u201cWhat do you l"
+   },
+   {
+    "pre": "ed. Spot barked and ran to the tree. Ben",
+    "atom": " followed",
+    "post": " him. He saw a ladde"
+   },
+   {
+    "pre": "nd a toy mouse. They were so happy! They",
+    "atom": " called",
+    "post": " the box their \"trea"
+   },
+   {
+    "pre": "ds, even when you don't both agree. Just",
+    "atom": " because",
+    "post": " you like something "
+   },
+   {
+    "pre": "n it. \nLily said yes and they hopped in.",
+    "atom": " While",
+    "post": " they were driving, "
+   },
+   {
+    "pre": " dog is too fast and strong. The dog ste",
+    "atom": "als",
+    "post": " the picnic. He eats"
+   },
+   {
+    "pre": "sked, \"What did you eat, Tim?\" Tim said,",
+    "atom": " \"",
+    "post": "I ate sugar! Now I c"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:3:1:3243",
+  "rate": 0.971,
+  "ctx": [
+   {
+    "pre": "big, pretty house. He had many desserts,",
+    "atom": " like",
+    "post": " cake and ice cream."
+   },
+   {
+    "pre": "\"\nMandy was excited. She gave it a name,",
+    "atom": " \"",
+    "post": "Let's call him 'Jeff"
+   },
+   {
+    "pre": " runs to her. He asks her if she is OK.\n",
+    "atom": "\"",
+    "post": "Are you OK, Mia"
+   },
+   {
+    "pre": "ophy and had lots of fun.\nThe brown bear",
+    "atom": " saw",
+    "post": " the bird with his t"
+   },
+   {
+    "pre": "he end, they all became good friends.\n<|",
+    "atom": "endoftext",
+    "post": "|>\nOne day, a little"
+   },
+   {
+    "pre": "They smile and wave. Sam gets in the car",
+    "atom": " with",
+    "post": " his mom and dad. Je"
+   },
+   {
+    "pre": " dog is too fast and strong. The dog ste",
+    "atom": "als",
+    "post": " the picnic. He eats"
+   },
+   {
+    "pre": "and Tom learned that sharing is more fun",
+    "atom": " than",
+    "post": " fighting.\n<|endofte"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:1:0:1313",
+  "rate": 1.0,
+  "ctx": [
+   {
+    "pre": "ed. Spot barked and ran to the tree. Ben",
+    "atom": " followed",
+    "post": " him. He saw a ladde"
+   },
+   {
+    "pre": "lease give me my red ball back!\" The dog",
+    "atom": " stopped",
+    "post": " and dropped the red"
+   },
+   {
+    "pre": "ey opened the door and went inside. They",
+    "atom": " closed",
+    "post": " the door behind the"
+   },
+   {
+    "pre": "ked if she could join him some time. Ben",
+    "atom": " agreed",
+    "post": " and they made plans"
+   },
+   {
+    "pre": "own and play with us!\" The colorful bird",
+    "atom": " heard",
+    "post": " them and flew down "
+   },
+   {
+    "pre": "e tray on a branch and waited.\nThe birds",
+    "atom": " saw",
+    "post": " the tray and flew d"
+   },
+   {
+    "pre": "hared with them too. All the sea animals",
+    "atom": " learned",
+    "post": " to be generous, and"
+   },
+   {
+    "pre": ", the apples, and the cookies. He leaves",
+    "atom": " nothing",
+    "post": " for Sara and Ben.\nS"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:2:0:3580",
+  "rate": 1.0,
+  "ctx": [
+   {
+    "pre": "se, the glove was filled with candy! His",
+    "atom": " eyes",
+    "post": " lit up as he smiled"
+   },
+   {
+    "pre": "e.\nThey saw a big house with a nice lady",
+    "atom": " standing",
+    "post": " outside. The lady s"
+   },
+   {
+    "pre": "lked home with his mom. He knew that tom",
+    "atom": "orrow",
+    "post": ", he would have anot"
+   },
+   {
+    "pre": "med Lily went for a walk. She saw a pole",
+    "atom": " by",
+    "post": " the road. It was a "
+   },
+   {
+    "pre": " of fun, let's go!\".\nJane thought to her",
+    "atom": "self",
+    "post": ", \"Should I play wit"
+   },
+   {
+    "pre": "nd grabbed a handful of candy. He had no",
+    "atom": " idea",
+    "post": " how the glove had g"
+   },
+   {
+    "pre": "upset that he began to yell. He screamed",
+    "atom": " and",
+    "post": " shouted until he wa"
+   },
+   {
+    "pre": "s better to be safe. Don't open the door",
+    "atom": " without",
+    "post": " knowing what's behi"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:2:1:2503",
+  "rate": 0.9559,
+  "ctx": [
+   {
+    "pre": "ey called him \"unknown.\"\nThe unknown man",
+    "atom": " saw",
+    "post": " that the people in "
+   },
+   {
+    "pre": "ds, even when you don't both agree. Just",
+    "atom": " because",
+    "post": " you like something "
+   },
+   {
+    "pre": "were driving, they started talking. Lily",
+    "atom": " asked",
+    "post": " Ben, \u201cWhat do you l"
+   },
+   {
+    "pre": "nd a toy mouse. They were so happy! They",
+    "atom": " called",
+    "post": " the box their \"trea"
+   },
+   {
+    "pre": "o play with the black clay.\nOne day, Mia",
+    "atom": " left",
+    "post": " her black clay cat "
+   },
+   {
+    "pre": "Tom sees Mia fall. He runs to her. He as",
+    "atom": "ks",
+    "post": " her if she is OK.\n"
+   },
+   {
+    "pre": "amed Amy wanted to help. She was careful",
+    "atom": " when",
+    "post": " she cleaned the mai"
+   },
+   {
+    "pre": "ies,\" she said. Tim took a cookie and th",
+    "atom": "rew",
+    "post": " it to the ducks. Th"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:3:0:1322",
+  "rate": 0.9986,
+  "ctx": [
+   {
+    "pre": "lorful bird in a tree. The bird had red,",
+    "atom": " blue",
+    "post": ", and yellow feather"
+   },
+   {
+    "pre": "many animals. There were big animals and",
+    "atom": " small",
+    "post": " animals. There were"
+   },
+   {
+    "pre": "ad. It was very big and funny. It had be",
+    "atom": "ll",
+    "post": "s and flowers on it."
+   },
+   {
+    "pre": "ow!\" Tom and Lily said. They saw the big",
+    "atom": " windows",
+    "post": ", the long benches, "
+   },
+   {
+    "pre": "d the jar and shook it up and down, left",
+    "atom": " and",
+    "post": " right. They shook i"
+   },
+   {
+    "pre": "nds.\nThey played all day. The sun was sp",
+    "atom": "icy",
+    "post": " and hot. The bunny "
+   },
+   {
+    "pre": " knew who he was, so they called him \"un",
+    "atom": "known",
+    "post": ".\"\nThe unknown man s"
+   },
+   {
+    "pre": " saw a yellow ball. The ball was big and",
+    "atom": " round",
+    "post": ". The bunny hopped o"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:0:0:579",
+  "rate": 0.9956,
+  "ctx": [
+   {
+    "pre": "her unwrap it.\nThe girl let Tim help her",
+    "atom": " unw",
+    "post": "rap the gift. They w"
+   },
+   {
+    "pre": "hey finished the cold ice cream, Tim and",
+    "atom": " Will",
+    "post": " played with the toy"
+   },
+   {
+    "pre": "d was standing behind him. He had pushed",
+    "atom": " Ste",
+    "post": "ve gently so he coul"
+   },
+   {
+    "pre": "ee. The cat was scared and cried, \"Meow!",
+    "atom": " Hel",
+    "post": "p me, please!\"\nThe"
+   },
+   {
+    "pre": " day, and the young cat became better at",
+    "atom": " passing",
+    "post": " the ball.\n<|endofte"
+   },
+   {
+    "pre": "his time, Spot missed the ball. The ball",
+    "atom": " roll",
+    "post": "ed into the bushes. "
+   },
+   {
+    "pre": "s, but sometimes it's better to be safe.",
+    "atom": " Don",
+    "post": "'t open the door wit"
+   },
+   {
+    "pre": "tol to Lily. She pressed a button on the",
+    "atom": " side",
+    "post": ". A red light flashe"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:5:0:692",
+  "rate": 0.9965,
+  "ctx": [
+   {
+    "pre": " of different patterns. He made circles,",
+    "atom": " bigger",
+    "post": " circles and even bi"
+   },
+   {
+    "pre": "shop. The car printed a big picture of a",
+    "atom": " soft",
+    "post": " bed. The old police"
+   },
+   {
+    "pre": "d not look where she was going. She fell",
+    "atom": " and",
+    "post": " hurt her leg. Kitty"
+   },
+   {
+    "pre": "lled so nice.\nOne day, a big green plant",
+    "atom": " named",
+    "post": " Envy saw how clean "
+   },
+   {
+    "pre": "igher. It goes so fast that it becomes a",
+    "atom": " small",
+    "post": " dot in the sky. The"
+   },
+   {
+    "pre": " says, \"Yes, you can, Ben. You can count",
+    "atom": " by",
+    "post": " tens. Ten, twenty,"
+   },
+   {
+    "pre": "ame. Let's find bugs to eat. The one who",
+    "atom": " finds",
+    "post": " the most bugs wins!"
+   },
+   {
+    "pre": "fish picked away at the wood and soon, a",
+    "atom": " normal",
+    "post": " house and furniture"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:0:0:826",
+  "rate": 0.9956,
+  "ctx": [
+   {
+    "pre": "r dad replied, \"Maybe they wanted to get",
+    "atom": " rid",
+    "post": " of it. I don't real"
+   },
+   {
+    "pre": "Lucy's mom took Ben and put him in a big",
+    "atom": " tub",
+    "post": " of water. She added"
+   },
+   {
+    "pre": "her unwrap it.\nThe girl let Tim help her",
+    "atom": " unw",
+    "post": "rap the gift. They w"
+   },
+   {
+    "pre": "dma had so much fun that he forgot to be",
+    "atom": " nervous",
+    "post": ". He was happy to sp"
+   },
+   {
+    "pre": "istakes.\n<|endoftext|>\n\nOnce there was a",
+    "atom": " trou",
+    "post": "bled boy who wanted "
+   },
+   {
+    "pre": "e day, Tim's parents brought home a big,",
+    "atom": " hair",
+    "post": "y armchair. It was s"
+   },
+   {
+    "pre": "t runs to the bee and wraps it with more",
+    "atom": " sil",
+    "post": "k. Tommy observes ho"
+   },
+   {
+    "pre": "an make a smooth prune jam!\"\nTim put the",
+    "atom": " pr",
+    "post": "unes in a pot. He co"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:5:3:4663",
+  "rate": 0.239,
+  "ctx": [
+   {
+    "pre": "nored her and kept playing in the water.",
+    "atom": "\n",
+    "post": "The big wave came cl"
+   },
+   {
+    "pre": "ck was sad. She wanted to splash and eat",
+    "atom": ".",
+    "post": " So, she thought of "
+   },
+   {
+    "pre": "ly. She thought maybe the smell would go",
+    "atom": " away",
+    "post": ".\nThen, Sally's"
+   },
+   {
+    "pre": " cream in a big cone. Tim was so happy!\n",
+    "atom": "But",
+    "post": " then, something une"
+   },
+   {
+    "pre": "exciting but she also felt a bit scared.",
+    "atom": "\n",
+    "post": "As Jane ventured dee"
+   },
+   {
+    "pre": "t the top, and Sam looked at the bottom.",
+    "atom": "\n",
+    "post": "While they were look"
+   },
+   {
+    "pre": "have to see what is making that noise!\" ",
+    "atom": "\n",
+    "post": "Gingerly, Jane pe"
+   },
+   {
+    "pre": "e pulled the bright light closer to him.",
+    "atom": "\n",
+    "post": "But the light wasn't"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:2:1:1913",
+  "rate": 0.9429,
+  "ctx": [
+   {
+    "pre": "ds, even when you don't both agree. Just",
+    "atom": " because",
+    "post": " you like something "
+   },
+   {
+    "pre": "fall, so she wanted to prevent it. Sally",
+    "atom": " called",
+    "post": " her cat's name and "
+   },
+   {
+    "pre": "o play with the black clay.\nOne day, Mia",
+    "atom": " left",
+    "post": " her black clay cat "
+   },
+   {
+    "pre": "were driving, they started talking. Lily",
+    "atom": " asked",
+    "post": " Ben, \u201cWhat do you l"
+   },
+   {
+    "pre": "e hugged the bear and took him home. She",
+    "atom": " named",
+    "post": " him Beary and they "
+   },
+   {
+    "pre": "y's mom saw her looking at the bird. She",
+    "atom": " suggested",
+    "post": " that they could try"
+   },
+   {
+    "pre": "e tray on a branch and waited.\nThe birds",
+    "atom": " saw",
+    "post": " the tray and flew d"
+   },
+   {
+    "pre": "rds and actions to make them happy. Just",
+    "atom": " like",
+    "post": " Mary and her obedie"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:2:0:3044",
+  "rate": 1.0,
+  "ctx": [
+   {
+    "pre": "se, the glove was filled with candy! His",
+    "atom": " eyes",
+    "post": " lit up as he smiled"
+   },
+   {
+    "pre": "ow!\" Tom and Lily said. They saw the big",
+    "atom": " windows",
+    "post": ", the long benches, "
+   },
+   {
+    "pre": "nd they were very happy.\nBut then, a big",
+    "atom": " wind",
+    "post": " came and took the v"
+   },
+   {
+    "pre": "hiny and beautiful.\nThe fish said, \u201cTake",
+    "atom": " me",
+    "post": " home, I will make s"
+   },
+   {
+    "pre": " big sign in the park. The sign said, \"G",
+    "atom": "reat",
+    "post": " Show Today!\" Sue wa"
+   },
+   {
+    "pre": "ed a kind girl named Lucy. She had a big",
+    "atom": " heart",
+    "post": " and loved to offer "
+   },
+   {
+    "pre": "ue felt a little scared. Her mom saw her",
+    "atom": " face",
+    "post": " and said, \"Don't wo"
+   },
+   {
+    "pre": " big box with many toys inside. They saw",
+    "atom": " cars",
+    "post": ", dolls, balls, and"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:5:1:2269",
+  "rate": 0.9454,
+  "ctx": [
+   {
+    "pre": "is. I have a new one at the new house.\"\n",
+    "atom": "\"",
+    "post": "Thank you, Sam,\" Jen"
+   },
+   {
+    "pre": "ds, even when you don't both agree. Just",
+    "atom": " because",
+    "post": " you like something "
+   },
+   {
+    "pre": " 'thank you' to make it work.\"\nTim said,",
+    "atom": " \"",
+    "post": "Please change back, "
+   },
+   {
+    "pre": ". One day, Katie's Mommy gave her a key.",
+    "atom": " \u201c",
+    "post": "What is this key for"
+   },
+   {
+    "pre": "ophy and had lots of fun.\nThe brown bear",
+    "atom": " saw",
+    "post": " the bird with his t"
+   },
+   {
+    "pre": "own, down, down. Luckily, Sam caught Tim",
+    "atom": " before",
+    "post": " he hit the ground. "
+   },
+   {
+    "pre": "are you.\" \nThe bird was still scared and",
+    "atom": " although",
+    "post": " she wanted to stop "
+   },
+   {
+    "pre": " the child passed by the glove again. He",
+    "atom": " expected",
+    "post": " to find it filled w"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:0:0:941",
+  "rate": 0.9956,
+  "ctx": [
+   {
+    "pre": "l wanted to be the first to get to their",
+    "atom": " dest",
+    "post": "inations.\nMrs. Howar"
+   },
+   {
+    "pre": "tle girl named Lily. Lily was going on a",
+    "atom": " vac",
+    "post": "ation with her famil"
+   },
+   {
+    "pre": "successful. So he stopped trying and his",
+    "atom": " dream",
+    "post": "s of success faded a"
+   },
+   {
+    "pre": "er, looking out for him. He had followed",
+    "atom": " Ste",
+    "post": "ve to the top of the"
+   },
+   {
+    "pre": "as so happy he found a new friend in the",
+    "atom": " tun",
+    "post": "nel. They ran and pl"
+   },
+   {
+    "pre": "and yelled for Tim to come back. But Tim",
+    "atom": " ign",
+    "post": "ored her and kept pl"
+   },
+   {
+    "pre": "ound a big bone in his yard. He was very",
+    "atom": " ent",
+    "post": "husiastic about it. "
+   },
+   {
+    "pre": " excited! She quickly took off her black",
+    "atom": " bel",
+    "post": "t and used it to tie"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:4:3:12551",
+  "rate": 0.1624,
+  "ctx": [
+   {
+    "pre": " a little girl named Lucy went to the be",
+    "atom": "ach",
+    "post": " with her mom. They "
+   },
+   {
+    "pre": "s, and strings. They want to make a rock",
+    "atom": "et",
+    "post": ".\n\"Look, Mia"
+   },
+   {
+    "pre": " Max. Max loved to run and play at the g",
+    "atom": "ym",
+    "post": " with his friends. O"
+   },
+   {
+    "pre": "Sally had a surprise. She was going on a",
+    "atom": " sail",
+    "post": "! Sally\u2019s dad had"
+   },
+   {
+    "pre": "oom, there was a small table with a ches",
+    "atom": "s",
+    "post": " game. A little boy "
+   },
+   {
+    "pre": "\nOnce upon a time, there was a sweet dan",
+    "atom": "cer",
+    "post": " named Lily. Lily lo"
+   },
+   {
+    "pre": "\n \nOnce upon a time, there was a pale gl",
+    "atom": "ove",
+    "post": " that had been sitti"
+   },
+   {
+    "pre": "|>\nOnce upon a time, there was a green z",
+    "atom": "oo",
+    "post": ". In the zoo, there "
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:1:0:649",
+  "rate": 1.0,
+  "ctx": [
+   {
+    "pre": " that happened was that Tim learned that",
+    "atom": " helping",
+    "post": " others is important"
+   },
+   {
+    "pre": "s always better to ask permission before",
+    "atom": " taking",
+    "post": " and measuring thing"
+   },
+   {
+    "pre": "ey opened the door and went inside. They",
+    "atom": " closed",
+    "post": " the door behind the"
+   },
+   {
+    "pre": "ng back to Tom.\nThe animals learned that",
+    "atom": " working",
+    "post": " together and being "
+   },
+   {
+    "pre": "humb in his mouth. His mom told him that",
+    "atom": " everything",
+    "post": " would be okay and t"
+   },
+   {
+    "pre": ". Come with me to the living room.\"\nThey",
+    "atom": " followed",
+    "post": " their mom and saw a"
+   },
+   {
+    "pre": "friends. None of them ever imagined that",
+    "atom": " anything",
+    "post": " bad could ever happ"
+   },
+   {
+    "pre": "end of the day, Tim and Sue learned that",
+    "atom": " sharing",
+    "post": " is important, and i"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:5:1:1904",
+  "rate": 0.9832,
+  "ctx": [
+   {
+    "pre": "er way, she saw a big door with the word",
+    "atom": " \"",
+    "post": "exit\" on it. Kit"
+   },
+   {
+    "pre": "ted. She gave it a name, \"Let's call him",
+    "atom": " '",
+    "post": "Jeffrey'!\"\n"
+   },
+   {
+    "pre": "lled so nice.\nOne day, a big green plant",
+    "atom": " named",
+    "post": " Envy saw how clean "
+   },
+   {
+    "pre": "and the bird played together every day.\n",
+    "atom": "<|",
+    "post": "endoftext|>\n\nA littl"
+   },
+   {
+    "pre": " teacher gave him the test. It was about",
+    "atom": " holding",
+    "post": " things. Tim was goo"
+   },
+   {
+    "pre": "ppy.\nAt the park, Tim saw a girl with an",
+    "atom": " unknown",
+    "post": " toy. It was wrapped"
+   },
+   {
+    "pre": " with their cars. They have many cars of",
+    "atom": " different",
+    "post": " colors and sizes. T"
+   },
+   {
+    "pre": "ng is caring.\n<|endoftext|>\n\nToday was a",
+    "atom": " special",
+    "post": " day for Little Henr"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:0:3:6254",
+  "rate": 0.9872,
+  "ctx": [
+   {
+    "pre": " mitten for?\"\nTom said, \"You can use the",
+    "atom": " mit",
+    "post": "ten to help people. "
+   },
+   {
+    "pre": ".\" They looked under the bed, behind the",
+    "atom": " cou",
+    "post": "ch, and in the yard."
+   },
+   {
+    "pre": "ted. But when he got to the top, he felt",
+    "atom": " mis",
+    "post": "erable. He looked do"
+   },
+   {
+    "pre": "ou like it?\"\nBen looked at Lily. He felt",
+    "atom": " emb",
+    "post": "arrassed and jealous"
+   },
+   {
+    "pre": "dea how the glove had gotten filled with",
+    "atom": " cand",
+    "post": "y, but he didn't car"
+   },
+   {
+    "pre": " acting, so that we don't end up feeling",
+    "atom": " gu",
+    "post": "ilty afterwards.\n<|e"
+   },
+   {
+    "pre": "to pick up a big rock. With the powerful",
+    "atom": " mit",
+    "post": "ten, she could lift "
+   },
+   {
+    "pre": "ked her friend Tom, \"What can I use this",
+    "atom": " mit",
+    "post": "ten for?\"\nTom said,"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:2:0:962",
+  "rate": 1.0,
+  "ctx": [
+   {
+    "pre": "t all day long. Max and Tom learned that",
+    "atom": " sharing",
+    "post": " is more fun than fi"
+   },
+   {
+    "pre": "y was curious about the object, so he ra",
+    "atom": "ined",
+    "post": " and rained to get c"
+   },
+   {
+    "pre": "ow!\" Tom and Lily said. They saw the big",
+    "atom": " windows",
+    "post": ", the long benches, "
+   },
+   {
+    "pre": "ng him fruits and nuts. Tim learned that",
+    "atom": " eating",
+    "post": " too much sugar is n"
+   },
+   {
+    "pre": " big box with many toys inside. They saw",
+    "atom": " cars",
+    "post": ", dolls, balls, and"
+   },
+   {
+    "pre": "he sadness was gone, and Tom knew that s",
+    "atom": "elling",
+    "post": " his jacket was the "
+   },
+   {
+    "pre": ", the apples, and the cookies. He leaves",
+    "atom": " nothing",
+    "post": " for Sara and Ben.\nS"
+   },
+   {
+    "pre": "e me.\"\nTim didn't listen to Sam. He kept",
+    "atom": " flying",
+    "post": " high and fast. Sudd"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:1:1:3648",
+  "rate": 1.0,
+  "ctx": [
+   {
+    "pre": "w, they can jump!\" Lily says. \"Let's see",
+    "atom": " who",
+    "post": " can jump higher!\"\n\""
+   },
+   {
+    "pre": "d the bird played together every day.\n<|",
+    "atom": "endoftext",
+    "post": "|>\n\nA little girl na"
+   },
+   {
+    "pre": "ed to play with. One day, she saw a bird",
+    "atom": " with",
+    "post": " a flute in its beak"
+   },
+   {
+    "pre": "s too heavy for them.\nThey heard a voice",
+    "atom": " behind",
+    "post": " them.\n\"Hello,"
+   },
+   {
+    "pre": "what to do. Suddenly, he felt a big push",
+    "atom": " from",
+    "post": " behind.\nIt was his "
+   },
+   {
+    "pre": "nd said, \"Thank you, Tim!\"\nTim felt good",
+    "atom": " for",
+    "post": " helping the bird. H"
+   },
+   {
+    "pre": "s bike every day.\nOne day, Tim saw a cat",
+    "atom": " on",
+    "post": " the road. He did no"
+   },
+   {
+    "pre": "and Max ran after it. They played a game",
+    "atom": " called",
+    "post": " soccer. The goal wa"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:1:0:1467",
+  "rate": 1.0,
+  "ctx": [
+   {
+    "pre": ", \"I don't mind. I like being a clown. C",
+    "atom": "low",
+    "post": "ns are fun and happy"
+   },
+   {
+    "pre": " it.\nSuddenly, a voice shouted: \"He",
+    "atom": "y",
+    "post": "! That is my key!\" I"
+   },
+   {
+    "pre": "et. She only sees a mess.\n\"Rocket? V",
+    "atom": "an",
+    "post": "ished? What are you "
+   },
+   {
+    "pre": ".\nAs Lucy and her mom started eating the",
+    "atom": " pop",
+    "post": "corn, they heard a l"
+   },
+   {
+    "pre": "e mitten was red and soft. She loved her",
+    "atom": " mit",
+    "post": "ten very much.\nOne d"
+   },
+   {
+    "pre": "the gear all day, stirring their pretend",
+    "atom": " sou",
+    "post": "p and sharing their "
+   },
+   {
+    "pre": " kept slipping away from him.\nHe felt so",
+    "atom": " up",
+    "post": "set that he began to"
+   },
+   {
+    "pre": "ed, one hundred and ten, one hundred and",
+    "atom": " twenty",
+    "post": ". They stop and spit"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:3:0:1499",
+  "rate": 0.9996,
+  "ctx": [
+   {
+    "pre": "he is not hurt, but she is surprised.\n\"O",
+    "atom": "ops",
+    "post": "!\" she says.\nTom"
+   },
+   {
+    "pre": "ow!\" Tom and Lily said. They saw the big",
+    "atom": " windows",
+    "post": ", the long benches, "
+   },
+   {
+    "pre": "to go. They held hands and counted, \"One",
+    "atom": ",",
+    "post": " two, three!\" Then, "
+   },
+   {
+    "pre": "er look too. They looked under rocks and",
+    "atom": " behind",
+    "post": " trees. At last, the"
+   },
+   {
+    "pre": "se, the glove was filled with candy! His",
+    "atom": " eyes",
+    "post": " lit up as he smiled"
+   },
+   {
+    "pre": "l sunrise ever. The sky turned from dark",
+    "atom": " to",
+    "post": " light, with pretty "
+   },
+   {
+    "pre": "yed some more. They didn't need a church",
+    "atom": " or",
+    "post": " a priest. They had "
+   },
+   {
+    "pre": "ery careful. And every time she finished",
+    "atom": " without",
+    "post": " making a mess, she "
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:1:0:1349",
+  "rate": 1.0,
+  "ctx": [
+   {
+    "pre": "ed. Spot barked and ran to the tree. Ben",
+    "atom": " followed",
+    "post": " him. He saw a ladde"
+   },
+   {
+    "pre": "ed. He said, \"Let me help you, Tom.\" Tim",
+    "atom": " helped",
+    "post": " Tom to stand up. Th"
+   },
+   {
+    "pre": "lease give me my red ball back!\" The dog",
+    "atom": " stopped",
+    "post": " and dropped the red"
+   },
+   {
+    "pre": "ked if she could join him some time. Ben",
+    "atom": " agreed",
+    "post": " and they made plans"
+   },
+   {
+    "pre": " that happened was that Tim learned that",
+    "atom": " helping",
+    "post": " others is important"
+   },
+   {
+    "pre": "d the bird played together every day.\n<|",
+    "atom": "endoftext",
+    "post": "|>\n\nA little girl na"
+   },
+   {
+    "pre": "ey opened the door and went inside. They",
+    "atom": " closed",
+    "post": " the door behind the"
+   },
+   {
+    "pre": " fun things that her friends were doing.",
+    "atom": " Today",
+    "post": ", she wanted to join"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:3:0:1808",
+  "rate": 0.9998,
+  "ctx": [
+   {
+    "pre": "ad. It was very big and funny. It had be",
+    "atom": "ll",
+    "post": "s and flowers on it."
+   },
+   {
+    "pre": "many animals. There were big animals and",
+    "atom": " small",
+    "post": " animals. There were"
+   },
+   {
+    "pre": " knew who he was, so they called him \"un",
+    "atom": "known",
+    "post": ".\"\nThe unknown man s"
+   },
+   {
+    "pre": "ow!\" Tom and Lily said. They saw the big",
+    "atom": " windows",
+    "post": ", the long benches, "
+   },
+   {
+    "pre": "she found something unusual; it was a th",
+    "atom": "umb",
+    "post": "! Sarah was very cur"
+   },
+   {
+    "pre": "went closer and saw a little bird. Its w",
+    "atom": "ing",
+    "post": " was hurt and it nee"
+   },
+   {
+    "pre": "to go. They held hands and counted, \"One",
+    "atom": ",",
+    "post": " two, three!\" Then, "
+   },
+   {
+    "pre": "ing down the street. The car was big and",
+    "atom": " blue",
+    "post": ". The police car saw"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:1:1:12184",
+  "rate": 0.0112,
+  "ctx": [
+   {
+    "pre": "n the trees. It's lots of fun, let's go!",
+    "atom": "\".",
+    "post": "\nJane thought to her"
+   },
+   {
+    "pre": "She said you must receive a special gift",
+    "atom": ".\"",
+    "post": "\nThe farmer was so e"
+   },
+   {
+    "pre": " glad that you wanted to measure the key",
+    "atom": "\".",
+    "post": "\nAdam smiled and hug"
+   },
+   {
+    "pre": "e giant avocado? It looks kind of scared",
+    "atom": "\".",
+    "post": " Jane decided to tak"
+   },
+   {
+    "pre": " bad idea. The mop is too cheap and weak",
+    "atom": ".\"",
+    "post": "\nBut Bob did not lis"
+   },
+   {
+    "pre": "r said, \"Hello! Where did you come from?",
+    "atom": "\".",
+    "post": "\nThe parrot said, \"F"
+   },
+   {
+    "pre": " to make sure you are safe and protected",
+    "atom": ".\"",
+    "post": " John smiled, realiz"
+   },
+   {
+    "pre": " contain himself! He asked, \"What is it?",
+    "atom": "\".",
+    "post": "\nThe parrot said, \"Y"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:3:0:1395",
+  "rate": 0.999,
+  "ctx": [
+   {
+    "pre": "re was a little girl who wanted to buy a",
+    "atom": " bear",
+    "post": ". She asked her mom "
+   },
+   {
+    "pre": "many animals. There were big animals and",
+    "atom": " small",
+    "post": " animals. There were"
+   },
+   {
+    "pre": "Jane really wanted to watch her favorite",
+    "atom": " blue",
+    "post": " show instead. Ann w"
+   },
+   {
+    "pre": "loser and closer and saw that it was a c",
+    "atom": "rown",
+    "post": ". A crown like the o"
+   },
+   {
+    "pre": "ow!\" Tom and Lily said. They saw the big",
+    "atom": " windows",
+    "post": ", the long benches, "
+   },
+   {
+    "pre": "ndry basket? And my soup pot? And my bro",
+    "atom": "om",
+    "post": "? And my clothesline"
+   },
+   {
+    "pre": " knew who he was, so they called him \"un",
+    "atom": "known",
+    "post": ".\"\nThe unknown man s"
+   },
+   {
+    "pre": " saw a yellow ball. The ball was big and",
+    "atom": " round",
+    "post": ". The bunny hopped o"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:0:0:32",
+  "rate": 0.9956,
+  "ctx": [
+   {
+    "pre": "with your hammer. You don't want to hurt",
+    "atom": " anyone",
+    "post": ".\"\nTim was playing w"
+   },
+   {
+    "pre": "t more friends and shared with them too.",
+    "atom": " All",
+    "post": " the sea animals lea"
+   },
+   {
+    "pre": "d, a little girl named Sue. Sue liked to",
+    "atom": " wear",
+    "post": " a pretty cloth dres"
+   },
+   {
+    "pre": "ping. Tim did not want to disturb him.\n\"",
+    "atom": "Ex",
+    "post": "cuse me, sir,\" Tim"
+   },
+   {
+    "pre": " \nBut Emily was so bossy. She shouted at",
+    "atom": " everyone",
+    "post": " and pushed them out"
+   },
+   {
+    "pre": "are going to have a special guest today.",
+    "atom": " Please",
+    "post": " clean your room and"
+   },
+   {
+    "pre": "bout their day. Ben and Lily felt happy,",
+    "atom": " knowing",
+    "post": " that they were kind"
+   },
+   {
+    "pre": "n the sky. It was very bright and shiny.",
+    "atom": " All",
+    "post": " his friends told hi"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:4:1:3243",
+  "rate": 0.9258,
+  "ctx": [
+   {
+    "pre": " runs to her. He asks her if she is OK.\n",
+    "atom": "\"",
+    "post": "Are you OK, Mia"
+   },
+   {
+    "pre": "\"\nMandy was excited. She gave it a name,",
+    "atom": " \"",
+    "post": "Let's call him 'Jeff"
+   },
+   {
+    "pre": "y. \u201cWhat is this key for?\u201d Katie asked.\n",
+    "atom": "\u201c",
+    "post": "It is a very special"
+   },
+   {
+    "pre": "Tom and Lily smiled too. They decided to",
+    "atom": " name",
+    "post": " the dog Brownie. Th"
+   },
+   {
+    "pre": "ophy and had lots of fun.\nThe brown bear",
+    "atom": " saw",
+    "post": " the bird with his t"
+   },
+   {
+    "pre": "he end, they all became good friends.\n<|",
+    "atom": "endoftext",
+    "post": "|>\nOne day, a little"
+   },
+   {
+    "pre": " the end, they all became good friends.\n",
+    "atom": "<|",
+    "post": "endoftext|>\nOne day,"
+   },
+   {
+    "pre": "big, pretty house. He had many desserts,",
+    "atom": " like",
+    "post": " cake and ice cream."
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:2:0:1731",
+  "rate": 1.0,
+  "ctx": [
+   {
+    "pre": "or and went inside. They closed the door",
+    "atom": " behind",
+    "post": " them. They looked o"
+   },
+   {
+    "pre": "ey walked home together, already looking",
+    "atom": " forward",
+    "post": " to her next adventu"
+   },
+   {
+    "pre": "med Lily went for a walk. She saw a pole",
+    "atom": " by",
+    "post": " the road. It was a "
+   },
+   {
+    "pre": " Sam in trouble. A big, mean fish was ch",
+    "atom": "asing",
+    "post": " him. Jilly wanted t"
+   },
+   {
+    "pre": " Let's play. But first, I need some salt",
+    "atom": " for",
+    "post": " my toy car. It will"
+   },
+   {
+    "pre": " hair. It looked friendly.\n\"Let's go and",
+    "atom": " pet",
+    "post": " the dog,\" Tom said."
+   },
+   {
+    "pre": "roup of kids who were friends. Every day",
+    "atom": " after",
+    "post": " school, they would "
+   },
+   {
+    "pre": "t all day long. Max and Tom learned that",
+    "atom": " sharing",
+    "post": " is more fun than fi"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:4:3:918",
+  "rate": 0.8642,
+  "ctx": [
+   {
+    "pre": "e day she asked him to help her repair a",
+    "atom": " pen",
+    "post": "cil. He was very exc"
+   },
+   {
+    "pre": "to the park with his mom. They saw a big",
+    "atom": " f",
+    "post": "ountain with water. "
+   },
+   {
+    "pre": " the park with his mom. They saw a big f",
+    "atom": "ount",
+    "post": "ain with water. Tim "
+   },
+   {
+    "pre": "oom, there was a small table with a ches",
+    "atom": "s",
+    "post": " game. A little boy "
+   },
+   {
+    "pre": "und a new toy in his toy box. It was a g",
+    "atom": "ear",
+    "post": ". The gear was red a"
+   },
+   {
+    "pre": "\nThey followed their mom and saw a big p",
+    "atom": "ian",
+    "post": "o. It was black and "
+   },
+   {
+    "pre": "de. They saw cars, dolls, balls, and a p",
+    "atom": "ist",
+    "post": "ol.\n\"What is this?\""
+   },
+   {
+    "pre": "amed Tim. He loved to watch his favorite",
+    "atom": " cart",
+    "post": "oon on TV. The carto"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:5:1:2344",
+  "rate": 0.9896,
+  "ctx": [
+   {
+    "pre": "er way, she saw a big door with the word",
+    "atom": " \"",
+    "post": "exit\" on it. Kit"
+   },
+   {
+    "pre": "ted. She gave it a name, \"Let's call him",
+    "atom": " '",
+    "post": "Jeffrey'!\"\n"
+   },
+   {
+    "pre": "lled so nice.\nOne day, a big green plant",
+    "atom": " named",
+    "post": " Envy saw how clean "
+   },
+   {
+    "pre": "n.\nOne day, a sad thing did occur. A man",
+    "atom": " with",
+    "post": " a big straw hat had"
+   },
+   {
+    "pre": "ppy.\nAt the park, Tim saw a girl with an",
+    "atom": " unknown",
+    "post": " toy. It was wrapped"
+   },
+   {
+    "pre": "t beautiful sunrise ever. The sky turned",
+    "atom": " from",
+    "post": " dark to light, with"
+   },
+   {
+    "pre": "ma?\" they asked.\nMumma chuckled. \"It's",
+    "atom": " called",
+    "post": " the earth. It's the"
+   },
+   {
+    "pre": "One day, Max and his friends heard about",
+    "atom": " a",
+    "post": " big race. They all "
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:3:0:1892",
+  "rate": 0.9998,
+  "ctx": [
+   {
+    "pre": "ow!\" Tom and Lily said. They saw the big",
+    "atom": " windows",
+    "post": ", the long benches, "
+   },
+   {
+    "pre": "many animals. There were big animals and",
+    "atom": " small",
+    "post": " animals. There were"
+   },
+   {
+    "pre": " knew who he was, so they called him \"un",
+    "atom": "known",
+    "post": ".\"\nThe unknown man s"
+   },
+   {
+    "pre": "er look too. They looked under rocks and",
+    "atom": " behind",
+    "post": " trees. At last, the"
+   },
+   {
+    "pre": "big arrow! I want to show my friend, Sam",
+    "atom": " the",
+    "post": " squirrel.\" So, Bob"
+   },
+   {
+    "pre": "he is not hurt, but she is surprised.\n\"O",
+    "atom": "ops",
+    "post": "!\" she says.\nTom"
+   },
+   {
+    "pre": "se, the glove was filled with candy! His",
+    "atom": " eyes",
+    "post": " lit up as he smiled"
+   },
+   {
+    "pre": "ing down the street. The car was big and",
+    "atom": " blue",
+    "post": ". The police car saw"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:1:1:15685",
+  "rate": 0.0033,
+  "ctx": [
+   {
+    "pre": "y, Max was going to give a lecture about",
+    "atom": " being",
+    "post": " a good dog at the p"
+   },
+   {
+    "pre": "lived a brave little girl. She wanted to",
+    "atom": " be",
+    "post": " strong like the big"
+   },
+   {
+    "pre": "etter each time. Tom was so proud he had",
+    "atom": " been",
+    "post": " so fair with the ci"
+   },
+   {
+    "pre": "Do you want some gum?\" Tim thought about",
+    "atom": " being",
+    "post": " rude and taking the"
+   },
+   {
+    "pre": "on was very happy to hear this. It liked",
+    "atom": " being",
+    "post": " called pretty.\nSall"
+   },
+   {
+    "pre": "tty and said, \"Yes, please! I don't like",
+    "atom": " being",
+    "post": " in this trap. It hu"
+   },
+   {
+    "pre": "own hat. She said, \"I don't mind. I like",
+    "atom": " being",
+    "post": " a clown. Clowns are"
+   },
+   {
+    "pre": "ever let silly differences stop you from",
+    "atom": " being",
+    "post": " friends.\n<|endoftex"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:4:0:1322",
+  "rate": 0.9977,
+  "ctx": [
+   {
+    "pre": "many animals. There were big animals and",
+    "atom": " small",
+    "post": " animals. There were"
+   },
+   {
+    "pre": "ou can, Ben. You can count by tens. Ten,",
+    "atom": " twenty",
+    "post": ", thirty, and so on."
+   },
+   {
+    "pre": "lorful bird in a tree. The bird had red,",
+    "atom": " blue",
+    "post": ", and yellow feather"
+   },
+   {
+    "pre": "er look too. They looked under rocks and",
+    "atom": " behind",
+    "post": " trees. At last, the"
+   },
+   {
+    "pre": " attach things to the truck, like blocks",
+    "atom": " and",
+    "post": " cars and"
+   },
+   {
+    "pre": "dy to go. They held hands and counted, \"",
+    "atom": "One",
+    "post": ", two, three!\" Then,"
+   },
+   {
+    "pre": " they got all the attention.\n\"Hi, I am a",
+    "atom": " talking",
+    "post": " cup,\" said the cup "
+   },
+   {
+    "pre": " dog house soon. They did not want their",
+    "atom": " dog",
+    "post": " to be mad at them.\n"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:2:1:4399",
+  "rate": 0.9864,
+  "ctx": [
+   {
+    "pre": "o play with the black clay.\nOne day, Mia",
+    "atom": " left",
+    "post": " her black clay cat "
+   },
+   {
+    "pre": "e tray on a branch and waited.\nThe birds",
+    "atom": " saw",
+    "post": " the tray and flew d"
+   },
+   {
+    "pre": " play with it.\nAfter a while, Lily's mom",
+    "atom": " called",
+    "post": " her to come down. L"
+   },
+   {
+    "pre": ", there was a pigeon. The pigeon was not",
+    "atom": " like",
+    "post": " the others. It was "
+   },
+   {
+    "pre": " closer to him.\nBut the light wasn't the",
+    "atom": " only",
+    "post": " thing in the wardro"
+   },
+   {
+    "pre": " strong. The dog steals the picnic. He e",
+    "atom": "ats",
+    "post": " the sandwiches, the"
+   },
+   {
+    "pre": "ies,\" she said. Tim took a cookie and th",
+    "atom": "rew",
+    "post": " it to the ducks. Th"
+   },
+   {
+    "pre": "!\" Lily said. \"That hurt!\"\n\"Sor",
+    "atom": "ry",
+    "post": "!\" Tom said. \"A"
+   }
+  ]
+ },
+ {
+  "key": "bpe100m:5:0:1293",
+  "rate": 0.9981,
+  "ctx": [
+   {
+    "pre": "lled so nice.\nOne day, a big green plant",
+    "atom": " named",
+    "post": " Envy saw how clean "
+   },
+   {
+    "pre": "and a big frog came out. The frog was we",
+    "atom": "aring",
+    "post": " the same fancy hat "
+   },
+   {
+    "pre": "a time, there were two kind friends; Ben",
+    "atom": " and",
+    "post": " Lily. Ben had a spe"
+   },
+   {
+    "pre": " of different patterns. He made circles,",
+    "atom": " bigger",
+    "post": " circles and even bi"
+   },
+   {
+    "pre": "making tasty food with the blanket. They",
+    "atom": " fold",
+    "post": ", roll, twist, and c"
+   },
+   {
+    "pre": "zoo, there were many animals. There were",
+    "atom": " big",
+    "post": " animals and small a"
+   },
+   {
+    "pre": "ned. The big frog jumped high and turned",
+    "atom": " into",
+    "post": " a beautiful bird! T"
+   },
+   {
+    "pre": "One day, they saw a big dog. The dog was",
+    "atom": " brown",
+    "post": " and had long hair. "
+   }
+  ]
+ }
+]

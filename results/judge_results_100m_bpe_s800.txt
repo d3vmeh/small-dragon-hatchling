@@ -1,0 +1,8 @@
+=== LLM-judge panel: v2_800 vs v3_800 (blinded, order-randomized); judges: anthropic, openai, deepseek ===
+claude-opus-5   : v3_800 50/120  v2_800 43/120  tie 27/120  (120 ruled)
+gpt-5.6-sol     : v3_800 25/43  v2_800 16/43  tie 2/43  (43 ruled)
+deepseek-v4-pro : v3_800 44/120  v2_800 51/120  tie 25/120  (120 ruled)
+majority (2 of 3): v3_800 43  v2_800 44  no majority 33
+agreement claude-opus-5 vs gpt-5.6-sol: 34/43 (79%)
+agreement claude-opus-5 vs deepseek-v4-pro: 100/120 (83%)
+agreement gpt-5.6-sol vs deepseek-v4-pro: 38/43 (88%)

@@ -1,0 +1,5 @@
+=== pulse-count experiment: ckpt_scale_bytes_d256_L4.pt (trained at 6); data eval_text_100m.bin FULL sequential; nats/byte ===
+pulses= 5  val_loss 0.9259 nats/byte
+    sample: 'Diana. Diana was very persistent, and she did not like to let him what he had done. Diana had not been able to approach the dragon. Diana was so embarrassed and tried to think of words that did ahead.'
+pulses= 7  val_loss 2.0179 nats/byte
+    sample: 'Learn and plessahna meny--oovi Aos: batbtethal.sn_tfipgntx_e-oo.e\nptos-roe"mohpt. torsclinnaaffaseiigrdrea.es (C-iall:-anevvigscb_cacrsf).15accr-2r.. f\n31_0_uefl.ikox_1 lig-de_angrmati2-a06c/el0i903h '

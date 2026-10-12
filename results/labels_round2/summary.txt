@@ -1,0 +1,13 @@
+R uniform random sample                      n=200  high= 97 (48.5 %)  medium= 76  low= 27  unclear-labelled= 25
+P v2-filter selection (100 of 160)           n=100  high= 90 (90.0 %)  medium= 10  low=  0  unclear-labelled=  0
+
+R rate < 0.2 %                               n=  1  high=  0 ( 0.0 %)  medium=  0  low=  1  unclear-labelled=  1
+P rate < 0.2 %                               n=  0  high=  0 ( 0.0 %)  medium=  0  low=  0  unclear-labelled=  0
+R rate 0.2-25 %                              n=167  high= 79 (47.3 %)  medium= 67  low= 21  unclear-labelled= 20
+P rate 0.2-25 %                              n=100  high= 90 (90.0 %)  medium= 10  low=  0  unclear-labelled=  0
+R rate 25-90 %                               n= 30  high= 18 (60.0 %)  medium=  8  low=  4  unclear-labelled=  3
+P rate 25-90 %                               n=  0  high=  0 ( 0.0 %)  medium=  0  low=  0  unclear-labelled=  0
+R rate >= 90 %                               n=  2  high=  0 ( 0.0 %)  medium=  1  low=  1  unclear-labelled=  1
+P rate >= 90 %                               n=  0  high=  0 ( 0.0 %)  medium=  0  low=  0  unclear-labelled=  0
+
+labelled 300 of 300 neurons; 0 keys not in groups.json
